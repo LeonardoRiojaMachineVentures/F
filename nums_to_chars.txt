@@ -1,0 +1,15 @@
+enum Char {
+	Zero,
+	One,
+	Two,
+	Three,
+	Four,
+	Five,
+	Six,
+	Seven,
+	Eight,
+	Nine,
+}
+struct Zero Nat
+struct(P Nat) S(P) Nat
+

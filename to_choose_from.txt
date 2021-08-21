@@ -1,0 +1,13 @@
+9150 : lemons, raw, without peel
+9152 : lemon juice, raw
+9159 : limes, raw
+11011 : asparagus, raw
+11086 : beet greens, raw
+11090 : broccoli, raw
+11096 : broccoli raab, raw
+11124 : carrots, raw
+11209 : eggplant, raw
+11233 : kale, raw
+11282 : onions, raw
+11954 : tomatillos, raw
+16069 : lentils, raw

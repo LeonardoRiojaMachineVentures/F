@@ -1,0 +1,6 @@
+age_group, DangerouslyLow, Excellent, Good, Fair, High, DangerouslyHigh
+less_than_thirties, 0.14, 16.5, 19.4, 22.7, 27.1
+thirties, 0.14, 17.4, 20.8, 24.6, 29.2
+fourties, 0.14, 19.8, 23.8, 27.6, 31.9
+fifties, 0.14, 22.5, 27.0, 30.4, 34.5
+elderly, 0.14, 23.2, 27.9, 31.3, 35.4

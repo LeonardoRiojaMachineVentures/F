@@ -1,0 +1,33 @@
+grains
+	
+vegetables
+	
+legumes
+	bean
+	beans
+	
+fruit
+	apple
+	watermelon
+	orange
+	strawberry
+	strawberries
+	grape
+	grapes
+	pomegranate
+	banana
+	nectarine
+	mango
+	mangoes
+	
+	cherry
+	cherries
+	
+milk products
+	
+meats
+	
+other animal products
+	
+others
+	

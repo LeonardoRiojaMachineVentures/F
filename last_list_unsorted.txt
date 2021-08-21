@@ -1,0 +1,127 @@
+2054 : capers # canned
+9195 : olives # green canned or bottled pickled
+11008 : artichokes # without salt globe or french boiled cooked drained
+11019 : asparagus # frozen without salt boiled cooked drained
+11032 : lima beans # without salt immature seeds boiled cooked drained
+11114 : cabbage # raw savoy
+11116 : cabbage # chinese pak-choi raw
+11214 : escarole # no salt added boiled cooked drained
+11246 : leeks # raw bulb and lower leaf-portion
+11252 : lettuce # raw iceberg includes crisphead types
+11255 : lotus root # without salt boiled cooked drained
+11269 : mushrooms # without salt cooked shiitake
+11291 : onions # raw spring or scallions includes tops and bulb
+11299 : parsnips # without salt boiled cooked drained
+11417 : pumpkin flowers # without salt boiled cooked drained
+11439 : sauerkraut # canned solids and liquids
+11467 : squash # summer crookneck and straightneck raw
+11477 : squash # summer includes skin raw zucchini
+11594 : waxgourd # without salt chinese preserving melon boiled cooked drained
+11943 : pimento # canned
+15002 : fish # european canned in oil drained solids anchovy
+15033 : fish # raw haddock
+15057 : fish # ocean perch atlantic raw
+15060 : fish # perch raw mixed species
+15062 : fish # northern pike raw
+15068 : fish # florida raw pompano
+15072 : fish # roe raw mixed species
+15077 : fish # salmon chinook smoked
+15080 : fish # salmon canned chum drained solids with bone
+15083 : fish # salmon raw pink
+15090 : fish # scup raw
+15091 : fish # mixed species raw sea bass
+15101 : fish # raw snapper mixed species
+15104 : fish # sturgeon raw mixed species
+15127 : fish # raw fresh yellowfin tuna
+15130 : fish # raw mixed species whitefish
+15132 : fish # raw whiting mixed species
+16014 : beans # mature seeds raw black
+16018 : beans # canned black turtle mature seeds
+16026 : beans # great northern mature seeds canned
+16034 : beans # kidney canned mature seeds solids and liquids red
+16042 : beans # raw includes foods for usda's food distribution program mature seeds pinto
+16050 : beans # without salt white mature seeds boiled cooked
+16053 : broadbeans fava beans # mature seeds boiled cooked without salt
+16056 : chickpeas garbanzo beans, bengal gram # mature seeds raw
+16063 : cowpeas # without salt cooked mature seeds boiled common blackeye rowde outhern
+16072 : lima beans # without salt mature seeds large boiled cooked
+20029 : couscous # cooked
+20036 : rice # raw includes foods for usda's food distribution program brown long-grain
+20044 : rice # raw long-grain white enriched regular
+20137 : quinoa # cooked
+2044 : basil # fresh
+2047 : salt # iodized table
+2055 : horseradish # prepared
+9037 : avocados # raw all commercial varieties
+9150 : lemons # raw without peel
+9152 : lemon juice # raw
+9307 : rhubarb # raw
+11011 : asparagus # raw
+11052 : beans # green raw snap
+11080 : beets # raw
+11086 : beet greens # raw
+11090 : broccoli # raw
+11096 : broccoli raab # raw
+11098 : brussels sprouts # raw
+11109 : cabbage # raw
+11112 : cabbage # raw red
+11118 : cabbage # kimchi
+11124 : carrots # raw
+11134 : cassava # raw
+11135 : cauliflower # raw
+11141 : celeriac # raw
+11143 : celery # raw
+11147 : chard # raw swiss
+11156 : chives # raw
+11161 : collards # raw
+11165 : coriander cilantro leaves # raw
+11203 : cress # raw garden
+11209 : eggplant # raw
+11212 : edamame # prepared frozen
+11216 : ginger root # raw
+11233 : kale # raw
+11241 : kohlrabi # raw
+11250 : lettuce # butterhead includes boston and bibb types raw
+11251 : lettuce # raw cos or romaine
+11253 : lettuce # green leaf raw
+11257 : lettuce # raw red leaf
+11260 : mushrooms # white raw
+11278 : okra # raw
+11282 : onions # raw
+11297 : parsley # fresh
+11300 : peas # raw edible-podded
+11304 : peas # green raw
+11333 : peppers # green raw sweet
+11352 : potatoes # flesh and skin raw
+11429 : radishes # raw
+11457 : spinach # raw
+11527 : tomatoes # green raw
+11529 : tomatoes # raw year round average ripe red
+11564 : turnips # raw
+11591 : watercress # raw
+11819 : peppers # hot chili raw red
+11821 : peppers # sweet raw red
+11954 : tomatillos # raw
+11957 : fennel # raw bulb
+11959 : arugula # raw
+11965 : cauliflower # green raw
+11979 : peppers # jalapeno raw
+15008 : fish # carp raw
+15019 : fish # raw may have been previously frozen cod pacific
+15020 : fish # atlantic croaker raw
+15028 : fish # flatfish flounder and sole species raw
+15036 : fish # halibut raw atlantic and pacific
+15039 : fish # atlantic raw herring
+15046 : fish # atlantic raw mackerel
+15055 : fish # mullet raw striped
+15066 : fish # pollock raw
+15085 : fish # salmon raw sockeye
+15110 : fish # swordfish raw
+15240 : fish # farmed raw trout rainbow
+15261 : fish # tilapia raw
+16069 : lentils # raw
+20068 : tapioca # dry pearl
+22911 : chili # no beans canned entree
+23567 : beef # raw includes foods for usda's food distribution program 85% lean meat / 15% fat ground
+43125 : beans # liquid from stewed kidney beans
+43392 : hearts of palm # raw

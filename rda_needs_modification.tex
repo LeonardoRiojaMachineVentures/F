@@ -1,0 +1,66 @@
+\documentclass{article}
+\usepackage{amsmath}
+\title{RDA needs modification}
+\author{LR}
+\date{}
+\begin{document}
+\maketitle
+
+The RDA is divided by age and gender. That is a good start, because age and gender determine hormonal changes.
+However, (RDA, EAR, etc.) do not account for different muscle mass, bone mass, cartilage mass, etc.
+We could then see a person as a point in the cartesian product of muscle mass interval, bone mass interval, fat mass set.
+We select by age and gender first.
+For each person i in the selected group, let us denote the hypothetical SA_{i}_{calcium}_{20-24years}_{male} (sufficient amount of calcium).
+As a first attempt, let us claim
+
+SA_{i} = \sum_{j}{\alpha_{ij}*k_{ij}*M_{i}}
+where j \in {"mass", "bone", "fat", "cartilage"}
+M_{i} is total mass of person i
+k_{i,"bone"}*M_{i} is bone mass of person i
+(Getting ahead of ourselves) The end result looks as follows:
+Patient enters dictionary d
+{"bone mass" : 34kg,
+"muscle mass" : 20kg,
+}
+function returns "for you to have a 98% chance of being well-fed, you need alpha("male", "20-24", "muscle", "calcium", 0.98)*d["muscle mass"] +  alpha("male", "20-24", "bone", "calcium", 0.98)*d["bone mass"] this much calcium"
+
+
+The end result would be to determine the coefficients of \vec{\alpha} for each percentage.
+
+Short story:
+RDA is a half space that does not care about muscle mass, bone mass.
+So a big person might need more than RDA
+A small person might ingest too much.
+The second point is not trivial. Even when the ingested amount is less than UL, the nutrients need to be in-balance for optimal health.
+Imagine a skinny guy trying to put on muscle. He is recommended to eat more protein, meat, etc. As a consequence he ingested too much iron (less than the UL, but chronically the development is not going to be same). Too much iron, incorrect hormonal changes, which hinders their ability to put on muscle. Then he thinks "I need to eat more". Awful feedback loop.
+Same idea with calcium and old people.
+Calcium is recommended to people who are already suffering sarcopenia. Less muscle to distribute the calcium, more into the blood vessels and arteries, worse atherosclerosis. More atherosclerosis, more signaling of senescence, then less muscle. The cycle repeats.
+
+
+We want a slanted half-space (determined by \vec{\alpha}) that uses muscle, bone, cartilage mass, and r (0.98 for newRDA, 0.5 for newEAR), to give more specific nutritional needs.
+Why linear? Is linear good enough for the range close the averages?
+Assumption: For each healthy indivual, healthy individual is close to average
+Assumption: For each individual (if individual has good genes then individual is healthy)
+Assumption: Absoption is determined by genes
+Assumption: S is set of patients picked by good genes
+Then: For all p in S (p is healthy)
+Comment: It is not advised for S = {healthy patients} because a healthy person can have a bad genes (in check) that throws off absoption, and therefore the alpha coefficients
+Then: For all p in S (p is healthy)
+Then: For all p in S (p is close to average)
+Then: For all p in S (p have similar absoption because they have similar genes (good))
+Assumption: Genes and Hormones determine nutrient concentration ratios in tissues
+Assumption: Genes determine hormones
+Then: Genes determine nutrient concentration ratios in tissues
+Then: p in S (p have similar nutrient concentration ratios in tissues)
+Comment: S takes into account late puberty and other genetic defects, that affect nutrient concentration ratio
+Assumption: There is an optimal nutrient concentration
+
+
+
+
+Better model: diffusion
+
+
+
+
+\end{document}

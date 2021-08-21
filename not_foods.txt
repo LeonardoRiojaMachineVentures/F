@@ -1,0 +1,40 @@
+butter
+cheese
+cream
+eggnog
+milk
+whey
+yogurt
+egg
+kefir
+babyfood
+vinegar
+alcohol
+spices
+spice
+chocolate
+lowfat
+nonfat
+part-skim
+lowfat
+vitamin d fortified
+canned
+frozen
+cooked
+boiled
+drained
+with added vitamin a and vitamin d
+with added vitamin a and vitamin d (fat free or skim)
+nonfat or fat free
+fat free
+fatfree
+cooked
+without added vitamin a and vitamin d (fat free or skim)
+skim
+powder
+milk based
+fat free
+chocolate covered
+strawberry
+vanilla
+creamsicle

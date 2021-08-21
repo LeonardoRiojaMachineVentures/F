@@ -1,0 +1,8 @@
+enum Classification
+	Red
+	Green
+: Classification is finite
+what_color_is_this_choice
+choice_a : Some(Red)
+choice_b : Some(Green)
+choce_c : None 

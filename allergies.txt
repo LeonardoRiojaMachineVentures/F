@@ -1,0 +1,52 @@
+meat
+high-protein
+dust mites
+grass pollen
+grass
+tree pollen
+latex
+mould
+cow's milk
+cow's milk protein
+	milk
+	milk powder
+	cheese
+	butter
+	margarine
+	yogurt
+	cream
+	ice cream
+eggs
+tree nuts
+	brazil nuts
+	almonds
+	cashews
+	macadamia nuts
+	pistachios
+	pine nuts
+	walnuts
+
+peanuts
+shellfish
+	shrimp
+	prawns
+	crayfish
+	lobster
+	squid
+	scallops
+wheat
+soy
+oats
+fish
+linseed
+sesame seeds
+peach
+banana
+avocado
+kiwi fruit
+passion fruit
+celery
+garlic
+mustard seeds
+aniseeds
+chamomile

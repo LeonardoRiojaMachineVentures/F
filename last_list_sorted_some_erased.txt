@@ -1,0 +1,94 @@
+artichoke @ 11008 : artichokes # without salt globe or french boiled cooked drained
+arugula @ 11959 : arugula # raw
+asparagus @ 11011 : asparagus # raw
+avocados @ 9037 : avocados # raw all commercial varieties
+basil @ 2044 : basil # fresh
+black_beans @ 16014 : beans # mature seeds raw black
+_ @ 16018 : beans # canned black turtle mature seeds
+16026 : beans # great northern mature seeds canned
+16034 : beans # kidney canned mature seeds solids and liquids red
+16042 : beans # raw includes foods for usda's food distribution program mature seeds pinto
+16050 : beans # without salt white mature seeds boiled cooked
+11052 : beans # green raw snap
+43125 : beans # liquid from stewed kidney beans
+23567 : beef # raw includes foods for usda's food distribution program 85% lean meat / 15% fat ground
+11086 : beet greens # raw
+11080 : beets # raw
+16053 : broadbeans fava beans # mature seeds boiled cooked without salt
+11090 : broccoli # raw
+11096 : broccoli raab # raw
+11098 : brussels sprouts # raw
+11114 : cabbage # raw savoy
+11116 : cabbage # chinese pak-choi raw
+11109 : cabbage # raw
+11112 : cabbage # raw red
+2054 : capers # canned
+11124 : carrots # raw
+11134 : cassava # raw
+11135 : cauliflower # raw
+11965 : cauliflower # green raw
+11147 : chard # raw swiss
+16056 : chickpeas garbanzo beans, bengal gram # mature seeds raw
+22911 : chili # no beans canned entree
+11156 : chives # raw
+11161 : collards # raw
+20029 : couscous # cooked
+16063 : cowpeas # without salt cooked mature seeds boiled common blackeye rowde outhern
+11203 : cress # raw garden
+11212 : edamame # prepared frozen
+11209 : eggplant # raw
+11214 : escarole # no salt added boiled cooked drained
+11957 : fennel # raw bulb
+15083 : fish # salmon raw pink
+15240 : fish # farmed raw trout rainbow
+15261 : fish # tilapia raw
+11216 : ginger root # raw
+43392 : hearts of palm # raw
+2055 : horseradish # prepared
+11233 : kale # raw
+11241 : kohlrabi # raw
+11246 : leeks # raw bulb and lower leaf-portion
+9152 : lemon juice # raw
+9150 : lemons # raw without peel
+16069 : lentils # raw
+11252 : lettuce # raw iceberg includes crisphead types
+11250 : lettuce # butterhead includes boston and bibb types raw
+11251 : lettuce # raw cos or romaine
+11253 : lettuce # green leaf raw
+11257 : lettuce # raw red leaf
+11032 : lima beans # without salt immature seeds boiled cooked drained
+16072 : lima beans # without salt mature seeds large boiled cooked
+11255 : lotus root # without salt boiled cooked drained
+11269 : mushrooms # without salt cooked shiitake
+11260 : mushrooms # white raw
+11278 : okra # raw
+9195 : olives # green canned or bottled pickled
+11291 : onions # raw spring or scallions includes tops and bulb
+11282 : onions # raw
+11297 : parsley # fresh
+11299 : parsnips # without salt boiled cooked drained
+11300 : peas # raw edible-podded
+11304 : peas # green raw
+11333 : peppers # green raw sweet
+11819 : peppers # hot chili raw red
+11821 : peppers # sweet raw red
+11979 : peppers # jalapeno raw
+11352 : potatoes # flesh and skin raw
+11417 : pumpkin flowers # without salt boiled cooked drained
+20137 : quinoa # cooked
+11429 : radishes # raw
+9307 : rhubarb # raw
+20036 : rice # raw includes foods for usda's food distribution program brown long-grain
+20044 : rice # raw long-grain white enriched regular
+2047 : salt # iodized table
+11439 : sauerkraut # canned solids and liquids
+11457 : spinach # raw
+11467 : squash # summer crookneck and straightneck raw
+11477 : squash # summer includes skin raw zucchini
+20068 : tapioca # dry pearl
+11954 : tomatillos # raw
+11527 : tomatoes # green raw
+11529 : tomatoes # raw year round average ripe red
+11564 : turnips # raw
+11591 : watercress # raw
+11594 : waxgourd # without salt chinese preserving melon boiled cooked drained

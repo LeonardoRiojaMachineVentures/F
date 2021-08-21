@@ -1,0 +1,5 @@
+age
+gender
+height
+weight
+fat_percentage

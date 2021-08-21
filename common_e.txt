@@ -1,0 +1,34 @@
+AA
+	bW
+	cr
+	zD
+	xG
+Opt
+	Some
+	None
+Col
+	Red
+	Green
+	Yellow
+Size
+	Big
+	Small
+	Medium
+Age
+	Child
+	Baby
+	Teen
+	Adult
+	Elderly
+Comp
+	App
+	Mi
+	Finiz
+Flower
+	Grunip
+	Fuito
+	Diayni
+Siso
+	Lower
+	Higher
+				

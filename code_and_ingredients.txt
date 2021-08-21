@@ -1,0 +1,2332 @@
+1001$butter
+1002$butter
+1003$butter oil
+1004$cheese
+1005$cheese
+1006$cheese
+1007$cheese
+1009$cheese
+1011$cheese
+1012$cheese
+1014$cheese
+1015$cheese
+1016$cheese
+1017$cheese
+1019$cheese
+1020$cheese
+1022$cheese
+1023$cheese
+1024$cheese
+1025$cheese
+1029$cheese
+1030$cheese
+1032$cheese
+1035$cheese
+1036$cheese
+1037$cheese
+1040$cheese
+1042$cheese
+1048$cheese spread
+1049$cream
+1050$cream
+1053$cream
+1054$cream
+1056$cream
+1057$eggnog
+1061$cheese
+1067$cream substitute
+1069$cream substitute
+1073$dessert topping
+1074$sour cream
+1077$milk
+1079$milk
+1082$milk
+1085$milk
+1088$milk
+1089$milk
+1090$milk
+1091$milk
+1094$milk
+1095$milk
+1096$milk
+1097$milk
+1102$milk
+1103$milk
+1104$milk
+1106$milk
+1107$milk
+1113$whey
+1115$whey
+1116$yogurt
+1117$yogurt
+1118$yogurt
+1123$egg
+1124$egg
+1125$egg
+1129$egg
+1133$egg
+1138$egg
+1139$egg
+1140$egg
+1145$butter
+1151$milk
+1154$milk
+1157$cheese
+1164$cheese sauce
+1165$cheese
+1166$cheese
+1169$cheese
+1179$sour cream
+1180$sour cream
+1185$parmesan cheese topping
+1186$cheese
+1199$cream
+1205$cream substitute
+1206$cream substitute
+1208$cheese
+1209$cheese
+1211$milk
+1215$cheese product
+1223$protein supplement
+1224$protein supplement
+1225$dulce de leche
+1226$egg substitute
+1228$cheese
+1230$milk
+1237$ice cream
+1240$ice cream cone
+1243$fat free ice cream
+1250$nutritional supplement for people with diabetes
+1251$cheese
+1252$cheese product
+1253$cheese
+1256$yogurt
+1259$cheese spread
+1260$cheese
+1264$ice cream bar
+1265$cheese
+1266$cheese
+1267$cheese
+1284$yogurt
+1285$yogurt
+1286$yogurt
+1287$yogurt
+1289$kefir
+1290$kefir
+1292$milk
+1293$yogurt
+1294$yogurt
+1297$yogurt
+1302$light ice cream
+1305$milk
+2003$spices
+2005$spices
+2007$spices
+2009$spices
+2010$spices
+2011$spices
+2012$spices
+2014$spices
+2020$spices
+2021$spices
+2023$spices
+2024$spices
+2025$spices
+2026$spices
+2027$spices
+2028$spices
+2029$spices
+2030$spices
+2031$spices
+2034$spices
+2035$spices
+2038$spices
+2042$spices
+2043$spices
+2044$basil
+2046$mustard
+2047$salt
+2048$vinegar
+2052$vanilla extract
+2053$vinegar
+2054$capers
+2055$horseradish
+3000$clif z bar
+3001$babyfood
+3002$babyfood
+3003$babyfood
+3005$babyfood
+3008$babyfood
+3010$babyfood
+3012$babyfood
+3013$babyfood
+3014$babyfood
+3015$babyfood
+3016$babyfood
+3017$babyfood
+3019$babyfood
+3021$babyfood
+3023$babyfood
+3024$babyfood
+3026$babyfood
+3044$babyfood
+3045$babyfood
+3046$babyfood
+3047$babyfood
+3048$babyfood
+3050$babyfood
+3052$babyfood
+3053$babyfood
+3054$babyfood
+3055$babyfood
+3068$babyfood
+3069$babyfood
+3070$babyfood
+3072$babyfood
+3073$babyfood
+3077$babyfood
+3082$babyfood
+3083$babyfood
+3084$babyfood
+3085$babyfood
+3089$babyfood
+3090$babyfood
+3091$babyfood
+3092$babyfood
+3093$babyfood
+3096$babyfood
+3098$babyfood
+3099$babyfood
+3100$babyfood
+3104$babyfood
+3105$babyfood
+3108$babyfood
+3109$babyfood
+3112$babyfood
+3114$babyfood
+3115$babyfood
+3116$babyfood
+3117$babyfood
+3118$babyfood
+3119$babyfood
+3120$babyfood
+3121$babyfood
+3122$babyfood
+3127$babyfood
+3128$babyfood
+3129$babyfood
+3130$babyfood
+3131$babyfood
+3132$babyfood
+3133$babyfood
+3134$babyfood
+3135$babyfood
+3136$babyfood
+3139$babyfood
+3140$babyfood
+3141$babyfood
+3142$babyfood
+3143$babyfood
+3144$babyfood
+3145$babyfood
+3147$babyfood
+3152$babyfood
+3153$babyfood
+3154$babyfood
+3156$babyfood
+3157$babyfood
+3158$babyfood
+3159$babyfood
+3161$babyfood
+3163$babyfood
+3164$babyfood
+3165$babyfood
+3166$babyfood
+3167$babyfood
+3168$babyfood
+3171$babyfood
+3172$babyfood
+3174$babyfood
+3179$babyfood
+3181$babyfood
+3184$babyfood
+3185$babyfood
+3186$babyfood
+3187$babyfood
+3188$babyfood
+3189$babyfood
+3190$babyfood
+3191$babyfood
+3192$babyfood
+3194$babyfood
+3195$babyfood
+3205$babyfood
+3206$babyfood
+3209$babyfood
+3212$babyfood
+3213$babyfood
+3215$babyfood
+3216$babyfood
+3217$zwieback
+3220$babyfood
+3221$babyfood
+3222$babyfood
+3224$babyfood
+3225$babyfood
+3227$babyfood
+3228$babyfood
+3233$babyfood
+3235$babyfood
+3236$babyfood
+3245$babyfood
+3246$babyfood
+3265$babyfood
+3267$babyfood
+3269$babyfood
+3274$babyfood
+3279$babyfood
+3280$babyfood
+3282$babyfood
+3283$babyfood
+3287$babyfood
+3289$babyfood
+3290$babyfood
+3293$babyfood
+3296$babyfood
+3297$babyfood
+3298$babyfood
+3301$babyfood
+3302$babyfood
+3303$babyfood
+3821$infant formula
+3838$infant formula
+3852$infant formula
+3860$child formula
+3867$infant formula
+3870$child formula
+3934$babyfood
+3935$infant formula
+3943$infant formula
+3945$infant formula
+3948$infant formula
+3950$infant formula
+3954$infant formula
+3955$infant formula
+3956$babyfood
+3959$babyfood
+3964$babyfood
+3965$babyfood
+3967$toddler formula
+3980$infant formula
+3984$infant formula
+3986$infant formula
+3987$infant formula
+3992$infant formula
+3994$babyfood
+3995$babyfood
+3996$babyfood
+3997$babyfood
+3998$babyfood
+3999$infant formula
+4001$fat
+4002$lard
+4013$salad dressing
+4015$salad dressing
+4016$salad dressing
+4017$salad dressing
+4018$salad dressing
+4020$salad dressing
+4021$salad dressing
+4022$salad dressing
+4023$salad dressing
+4025$salad dressing
+4027$salad dressing
+4030$sandwich spread
+4038$oil
+4042$oil
+4044$oil
+4047$oil
+4053$oil
+4058$oil
+4114$salad dressing
+4120$salad dressing
+4128$margarine
+4135$salad dressing
+4367$salad dressing
+4502$oil
+4506$oil
+4511$oil
+4518$oil
+4528$oil
+4529$oil
+4539$salad dressing
+4542$fat
+4543$oil
+4554$shortening industrial
+4575$fat
+4582$oil
+4601$butter
+4609$animal fat
+4610$margarine
+4613$margarine-like
+4615$shortening
+4617$margarine
+4635$salad dressing
+4636$salad dressing
+4639$salad dressing
+4641$salad dressing
+4659$oil
+4679$oil
+4686$salad dressing
+4690$margarine-like
+4691$margarine
+4694$margarine-like
+4698$oil
+4699$oil
+4700$oil
+4701$oil
+4703$salad dressing
+4704$salad dressing
+4705$salad dressing
+4706$dressing
+4708$mayonnaise
+4709$salad dressing
+5000$chicken
+5015$chicken
+5018$chicken
+5022$chicken
+5024$chicken
+5027$chicken
+5028$chicken
+5051$chicken
+5062$chicken
+5069$chicken
+5073$chicken
+5087$chicken
+5091$chicken
+5094$chicken
+5098$chicken
+5103$chicken
+5104$chicken
+5140$duck
+5142$duck
+5147$goose
+5165$turkey
+5166$turkey
+5167$turkey
+5168$turkey
+5180$turkey
+5182$turkey
+5184$turkey
+5186$turkey
+5188$turkey
+5194$turkey
+5196$turkey
+5220$turkey
+5228$turkey
+5306$turkey
+5308$chicken
+5310$chicken
+5311$chicken
+5314$chicken
+5319$chicken
+5324$chicken patty
+5334$chicken
+5335$chicken
+5358$chicken
+5359$chicken
+5361$chicken
+5362$chicken
+5642$ostrich
+5671$chicken
+5672$chicken
+5676$chicken
+5677$chicken
+5695$turkey
+5697$turkey from whole
+5699$turkey
+5701$turkey
+5703$turkey from whole
+5705$turkey
+5707$turkey
+5725$turkey
+5727$turkey
+5728$turkey
+5730$turkey
+5739$turkey
+5741$turkey
+5743$turkey
+5745$turkey
+6001$soup
+6004$soup
+6008$soup
+6009$soup
+6010$soup
+6011$soup
+6013$soup
+6015$soup
+6016$soup
+6018$soup
+6019$soup
+6022$soup
+6023$soup
+6024$soup
+6027$soup
+6029$campbell's
+6030$soup
+6039$soup
+6040$soup
+6043$soup
+6044$soup
+6045$soup
+6046$soup
+6049$soup
+6050$soup
+6053$soup
+6067$soup
+6068$soup
+6070$soup
+6071$soup
+6072$soup
+6075$soup
+6101$soup
+6112$sauce
+6116$gravy
+6119$gravy
+6128$soup
+6149$soup
+6150$sauce
+6159$soup
+6164$sauce
+6169$sauce
+6170$soup
+6172$soup
+6174$soup
+6175$sauce
+6176$sauce
+6177$soup
+6179$sauce
+6182$soup
+6183$soup
+6188$soup
+6189$sauce
+6190$soup
+6192$split pea soup
+6193$split pea with ham soup
+6194$soup
+6208$soup
+6230$soup
+6256$soup
+6402$soup
+6413$soup
+6417$soup
+6430$soup
+6443$soup
+6449$soup
+6456$soup
+6461$soup
+6463$soup
+6468$soup
+6472$soup
+6475$soup
+6480$soup
+6494$soup
+6498$soup
+6559$soup
+6583$soup
+6584$soup
+6700$soup
+6749$soup
+6931$sauce
+6955$soup
+6956$soup
+6963$fish broth
+6968$soup
+6970$soup
+6971$sauce
+6972$sauce
+6976$sauce
+6980$soup
+6981$soup
+7005$blood sausage
+7007$bologna
+7013$bratwurst
+7014$braunschweiger (a liver sausage)
+7022$frankfurter
+7025$frankfurter
+7028$ham
+7031$ham salad spread
+7034$headcheese
+7038$knackwurst
+7043$roast beef
+7050$mortadella
+7053$pate
+7057$pepperoni
+7058$pickle and pimiento loaf
+7064$pork sausage
+7067$poultry salad sandwich spread
+7070$salami
+7072$salami
+7073$sandwich spread
+7078$thuringer
+7081$turkey breast
+7083$sausage
+7089$sausage
+7905$frankfurter
+7906$luncheon meat
+7908$luncheon meat
+7919$sausage
+7951$scrapple
+7954$sausage
+7961$chicken breast
+7962$frankfurter
+7966$pork sausage
+7968$kielbasa
+7971$bologna
+7973$bacon
+7974$bacon
+7976$sausage
+8001$cereals ready-to-eat
+8002$cereals ready-to-eat
+8003$cereals ready-to-eat
+8010$cereals ready-to-eat
+8011$cereals ready-to-eat
+8012$cereals ready-to-eat
+8013$cereals ready-to-eat
+8014$cereals ready-to-eat
+8015$cereals ready-to-eat
+8017$cereals ready-to-eat
+8019$cereals ready-to-eat
+8020$cereals ready-to-eat
+8023$cereals ready-to-eat
+8025$cereals ready-to-eat
+8028$cereals ready-to-eat
+8029$cereals ready-to-eat
+8030$cereals ready-to-eat
+8031$cereals ready-to-eat
+8032$cereals ready-to-eat
+8034$cereals ready-to-eat
+8035$cereals ready-to-eat
+8037$cereals ready-to-eat
+8038$cereals ready-to-eat
+8039$cereals ready-to-eat
+8045$cereals ready-to-eat
+8046$cereals ready-to-eat
+8048$cereals ready-to-eat
+8049$cereals ready-to-eat
+8050$cereals ready-to-eat
+8054$cereals ready-to-eat
+8057$cereals ready-to-eat
+8060$cereals ready-to-eat
+8061$cereals ready-to-eat
+8064$cereals ready-to-eat
+8065$cereals ready-to-eat
+8066$cereals ready-to-eat
+8067$cereals ready-to-eat
+8068$cereals ready-to-eat
+8069$cereals ready-to-eat
+8071$cereals ready-to-eat
+8073$cereals ready-to-eat
+8074$cereals ready-to-eat
+8078$cereals ready-to-eat
+8081$cereals ready-to-eat
+8082$cereals ready-to-eat
+8083$cereals ready-to-eat
+8084$cereals ready-to-eat
+8087$cereals ready-to-eat
+8089$cereals ready-to-eat
+8090$cereals
+8092$cereals
+8100$cereals
+8102$cereals
+8106$cereals
+8120$cereals
+8122$cereals
+8138$cereals ready-to-eat
+8144$cereals
+8146$cereals ready-to-eat
+8147$cereals ready-to-eat
+8148$cereals ready-to-eat
+8194$cereals ready-to-eat
+8200$cereals
+8202$cereals ready-to-eat
+8204$cereals ready-to-eat
+8206$cereals ready-to-eat
+8211$cereals ready-to-eat
+8214$cereals ready-to-eat
+8216$cereals ready-to-eat
+8218$cereals ready-to-eat
+8220$cereals ready-to-eat
+8239$cereals ready-to-eat
+8243$cereals ready-to-eat
+8244$cereals ready-to-eat
+8259$cereals ready-to-eat
+8261$cereals ready-to-eat
+8263$cereals ready-to-eat
+8267$cereals ready-to-eat
+8268$cereals ready-to-eat
+8270$cereals ready-to-eat
+8271$cereals ready-to-eat
+8272$cereals ready-to-eat
+8286$cereals ready-to-eat
+8288$cereals ready-to-eat
+8318$cereals ready-to-eat
+8346$cereals ready-to-eat
+8349$cereals ready-to-eat
+8376$cereals ready-to-eat
+8380$cereals ready-to-eat
+8383$cereals ready-to-eat
+8386$cereals ready-to-eat
+8387$cereals ready-to-eat
+8388$cereals ready-to-eat
+8393$cereals ready-to-eat
+8409$cereals ready-to-eat
+8435$cereals ready-to-eat
+8462$cereals ready-to-eat
+8484$cereals ready-to-eat
+8494$cereals ready-to-eat
+8495$cereals ready-to-eat
+8500$cereals ready-to-eat
+8501$cereals ready-to-eat
+8510$milk and cereal bar
+8513$cereals ready-to-eat
+8531$cereals ready-to-eat
+8543$cereals ready-to-eat
+8544$cereals ready-to-eat
+8546$rice and wheat cereal bar
+8550$cereals ready-to-eat
+8560$cereals ready-to-eat
+8571$cereals ready-to-eat
+8579$cereals ready-to-eat
+8583$cereals ready-to-eat
+8584$cereals ready-to-eat
+8592$cereals ready-to-eat
+8593$cereals ready-to-eat
+8594$cereals ready-to-eat
+8595$cereals ready-to-eat
+8598$cereals ready-to-eat
+8599$cereals ready-to-eat
+8602$cereals ready-to-eat
+8603$cereals ready-to-eat
+8633$cereals ready-to-eat
+8637$cereals ready-to-eat
+8643$cereals ready-to-eat
+8656$cereals ready-to-eat
+8657$cereals ready-to-eat
+8680$cereals
+9003$apples
+9004$apples
+9011$apples
+9016$apple juice
+9017$apple juice
+9019$applesauce
+9020$applesauce
+9021$apricots
+9022$apricots
+9032$apricots
+9036$apricot nectar
+9037$avocados
+9040$bananas
+9042$blackberries
+9043$blackberry juice
+9044$cherries
+9048$blackberries
+9050$blueberries
+9054$blueberries
+9059$breadfruit
+9060$carambola
+9064$cherries
+9070$cherries
+9071$cherries
+9078$cranberries
+9079$cranberries
+9081$cranberry sauce
+9085$currants
+9087$dates
+9089$figs
+9094$figs
+9096$fruit cocktail
+9112$grapefruit
+9119$grapefruit
+9123$grapefruit juice
+9125$grapefruit juice
+9127$grapefruit juice
+9128$grapefruit juice
+9130$grape juice
+9132$grapes
+9135$grape juice
+9139$guavas
+9143$guava sauce
+9148$kiwifruit
+9149$kumquats
+9150$lemons
+9152$lemon juice
+9153$lemon juice from concentrate
+9156$lemon peel
+9159$limes
+9160$lime juice
+9161$lime juice
+9163$blueberries
+9164$litchis
+9176$mangos
+9178$mango
+9181$melons
+9183$melons
+9184$melons
+9191$nectarines
+9193$olives
+9194$olives
+9195$olives
+9200$oranges
+9206$orange juice
+9207$orange juice
+9209$orange juice
+9210$orange juice
+9211$orange juice
+9213$orange juice
+9214$orange juice
+9218$tangerines
+9219$tangerines
+9221$tangerine juice
+9226$papayas
+9229$papaya nectar
+9231$passion-fruit
+9232$passion-fruit juice
+9236$peaches
+9237$peaches
+9246$peaches
+9251$peach nectar
+9252$pears
+9253$pears
+9259$pears
+9262$pear nectar
+9263$persimmons
+9266$pineapple
+9267$pineapple
+9273$pineapple juice
+9277$plantains
+9279$plums
+9286$pomegranates
+9291$plums
+9294$prune juice
+9298$raisins
+9302$raspberries
+9307$rhubarb
+9316$strawberries
+9317$strawberries
+9318$strawberries
+9322$tamarinds
+9326$watermelon
+9328$maraschino cherries
+9340$pears
+9352$blueberries
+9400$apple juice
+9409$pineapple juice
+9426$candied fruit
+9434$guanabana nectar
+9436$mango nectar
+9442$pomegranate juice
+9443$juice
+9452$orange pineapple juice blend
+9508$fruit juice smoothie
+9512$grape juice
+9517$apple juice
+9519$guava nectar
+9522$cranberry juice blend
+9531$fruit juice smoothie
+10002$pork
+10003$pork
+10007$pork
+10009$pork
+10011$pork
+10020$pork
+10023$pork
+10024$pork
+10025$pork
+10027$pork
+10049$pork
+10060$pork
+10061$pork
+10062$pork
+10066$pork
+10070$pork
+10071$pork
+10073$pork
+10075$pork
+10078$pork
+10080$pork
+10084$pork
+10085$pork
+10088$pork
+10089$pork
+10093$pork
+10099$pork
+10119$pork
+10123$pork
+10132$pork
+10136$pork
+10137$pork
+10141$pork
+10152$pork
+10153$pork
+10165$pork
+10168$pork
+10169$pork
+10173$pork
+10182$pork
+10183$pork
+10184$pork
+10185$pork
+10188$pork
+10218$pork
+10220$pork
+10227$pork
+10862$pork
+10871$pork
+10872$pork
+10879$pork
+10880$pork
+10883$pork
+10884$pork
+10900$pork
+10905$pork
+10909$pork
+10917$pork
+10922$pork
+10928$pork
+10935$pork
+10944$pork
+10946$pork
+10948$pork
+10949$pork
+10951$pork
+10953$pork
+10998$canadian bacon
+11001$alfalfa seeds
+11008$artichokes
+11011$asparagus
+11015$asparagus
+11019$asparagus
+11023$balsam-pear (bitter gourd)
+11025$balsam-pear (bitter gourd)
+11028$bamboo shoots
+11032$lima beans
+11038$lima beans
+11040$lima beans
+11043$mung beans
+11044$mung beans
+11052$beans
+11056$beans
+11061$beans
+11080$beets
+11084$beets
+11086$beet greens
+11090$broccoli
+11093$broccoli
+11096$broccoli raab
+11098$brussels sprouts
+11101$brussels sprouts
+11104$burdock root
+11109$cabbage
+11112$cabbage
+11114$cabbage
+11116$cabbage
+11118$cabbage
+11124$carrots
+11125$carrots
+11128$carrots
+11131$carrots
+11134$cassava
+11135$cauliflower
+11138$cauliflower
+11141$celeriac
+11143$celery
+11147$chard
+11149$chayote
+11156$chives
+11161$collards
+11164$collards
+11165$coriander (cilantro) leaves
+11167$corn
+11172$corn
+11174$corn
+11179$corn
+11196$cowpeas (blackeyes)
+11203$cress
+11205$cucumber
+11207$dandelion greens
+11209$eggplant
+11212$edamame
+11214$escarole
+11215$garlic
+11216$ginger root
+11233$kale
+11236$kale
+11241$kohlrabi
+11245$lambsquarters
+11246$leeks
+11250$lettuce
+11251$lettuce
+11252$lettuce
+11253$lettuce
+11255$lotus root
+11257$lettuce
+11260$mushrooms
+11261$mushrooms
+11264$mushrooms
+11269$mushrooms
+11270$mustard greens
+11273$mustard greens
+11278$okra
+11281$okra
+11282$onions
+11283$onions
+11290$onions
+11291$onions
+11296$onion rings
+11297$parsley
+11299$parsnips
+11300$peas
+11303$peas
+11304$peas
+11308$peas
+11313$peas
+11333$peppers
+11334$peppers
+11351$pokeberry shoots
+11352$potatoes
+11363$potatoes
+11364$potatoes
+11367$potatoes
+11378$potatoes
+11391$potatoes
+11398$potato puffs
+11403$potatoes
+11413$potato flour
+11417$pumpkin flowers
+11422$pumpkin
+11424$pumpkin
+11429$radishes
+11435$rutabagas
+11438$salsify
+11439$sauerkraut
+11445$seaweed
+11446$seaweed
+11457$spinach
+11461$spinach
+11464$spinach
+11467$squash
+11471$squash
+11474$squash
+11477$squash
+11480$squash
+11493$squash
+11506$sweet potato leaves
+11507$sweet potato
+11508$sweet potato
+11510$sweet potato
+11512$sweet potato
+11518$taro
+11520$taro leaves
+11527$tomatoes
+11529$tomatoes
+11531$tomatoes
+11540$tomato juice
+11546$tomato products
+11547$tomato products
+11549$tomato products
+11564$turnips
+11569$turnip greens
+11575$turnip greens
+11578$vegetable juice cocktail
+11584$vegetables
+11590$waterchestnuts
+11591$watercress
+11594$waxgourd
+11602$yam
+11603$yambean (jicama)
+11609$beets
+11644$squash
+11655$carrot juice
+11663$seaweed
+11667$seaweed
+11669$seaweed
+11674$potatoes
+11729$beans
+11732$beans
+11735$beets
+11758$carrots
+11771$corn
+11812$peas
+11819$peppers
+11821$peppers
+11885$tomatoes
+11888$tomato products
+11935$catsup
+11937$pickles
+11940$pickles
+11943$pimento
+11945$pickle relish
+11949$catsup
+11952$radicchio
+11954$tomatillos
+11955$tomatoes
+11957$fennel
+11959$arugula
+11963$nopales
+11965$cauliflower
+11974$grape leaves
+11976$pepper
+11977$peppers
+11979$peppers
+11994$broccoli
+12016$seeds
+12037$seeds
+12061$nuts
+12063$nuts
+12071$nuts
+12078$nuts
+12085$nuts
+12104$nuts
+12109$nuts
+12116$nuts
+12117$nuts
+12120$nuts
+12142$nuts
+12147$nuts
+12152$nuts
+12154$nuts
+12155$nuts
+12166$seeds
+12167$nuts
+12201$seeds
+12220$seeds
+12588$nuts
+12632$nuts
+12695$nuts
+13020$beef
+13068$beef
+13069$beef
+13148$beef
+13150$beef
+13317$beef
+13320$beef
+13322$beef
+13324$beef
+13326$beef
+13327$beef
+13340$beef
+13341$beef
+13345$beef
+13347$beef
+13348$beef
+13350$beef
+13355$beef
+13364$beef
+13367$beef
+13368$beef
+13382$beef
+13424$beef
+13451$beef
+13454$beef
+13491$beef
+13796$beef
+13810$beef
+13812$beef
+13814$beef
+13816$beef
+13829$beef
+13840$beef
+13864$beef
+13865$beef
+13884$beef
+13886$beef
+13888$beef
+13892$beef
+13893$beef
+13912$beef
+13928$beef
+13933$beef
+13959$beef
+14003$alcoholic beverage
+14006$alcoholic beverage
+14013$alcoholic beverage
+14021$beverages
+14022$beverages
+14026$beverages
+14028$beverages
+14030$beverages
+14031$beverages
+14033$beverages
+14034$alcoholic beverage
+14035$beverages
+14036$beverages
+14037$alcoholic beverage
+14038$beverages
+14041$beverages
+14044$beverages
+14045$beverages
+14047$beverages
+14050$alcoholic beverage
+14055$beverages
+14056$beverages
+14057$alcoholic beverage
+14058$beverages
+14059$beverages
+14060$beverages
+14061$beverages
+14062$beverages
+14063$beverages
+14064$beverages
+14065$beverages
+14066$beverages
+14067$beverages
+14068$beverages
+14079$beverages
+14084$alcoholic beverage
+14090$beverages
+14091$beverages
+14093$beverages
+14096$alcoholic beverage
+14106$alcoholic beverage
+14119$beverages
+14121$beverages
+14130$carbonated beverage
+14136$beverages
+14143$beverages
+14145$beverages
+14146$beverages
+14147$beverages
+14148$beverages
+14149$beverages
+14151$beverages
+14154$beverages
+14155$beverages
+14156$beverages
+14157$beverages
+14162$beverages
+14163$beverages
+14167$beverages
+14171$beverages
+14174$beverages
+14179$beverages
+14185$beverages
+14189$beverages
+14190$beverages
+14192$beverages
+14196$beverages
+14199$beverages
+14201$beverages
+14202$beverages
+14203$beverages
+14204$beverages
+14206$beverages
+14207$beverages
+14209$beverages
+14210$beverages
+14211$beverages
+14214$beverages
+14216$beverages
+14218$beverages
+14224$beverages
+14236$beverages
+14237$beverages
+14239$alcoholic beverage
+14242$cranberry juice cocktail
+14247$beverages
+14248$alcoholic beverage
+14250$beverages
+14251$alcoholic beverages
+14253$alcoholic beverages
+14260$beverages
+14261$beverages
+14262$beverages
+14267$beverages
+14270$beverages
+14276$beverages
+14278$beverages
+14280$beverages
+14281$beverages
+14292$lemonade
+14296$beverages
+14305$malt beverage
+14311$beverages
+14315$beverages
+14347$shake
+14350$strawberry-flavor beverage mix
+14352$beverages
+14353$beverages
+14355$beverages
+14356$beverages
+14366$beverages
+14368$beverages
+14370$beverages
+14376$beverages
+14381$beverages
+14407$beverages
+14411$beverages
+14414$alcoholic beverage
+14415$alcoholic beverage
+14416$beverages
+14429$beverages
+14436$beverages
+14460$beverages
+14461$beverages
+14462$beverages
+14545$beverages
+14552$carbonated beverage
+14553$beverages
+14555$water
+14557$beverages
+14599$beverages
+14604$water
+14605$beverages
+14625$beverages
+14626$beverages
+14627$beverages
+14628$beverages
+14629$beverages
+14630$beverages
+14633$beverages
+14634$beverages
+14635$beverages
+14636$beverages
+14637$water
+14639$beverages
+14640$beverages
+14641$beverages
+14644$beverages
+14645$beverages
+14646$beverages
+14648$beverages
+14649$beverages
+14651$beverages
+14654$beverages
+15002$fish
+15008$fish
+15012$fish
+15016$fish
+15017$fish
+15018$fish
+15019$fish
+15020$fish
+15025$fish
+15027$fish
+15028$fish
+15033$fish
+15035$fish
+15036$fish
+15039$fish
+15040$fish
+15041$fish
+15042$fish
+15046$fish
+15048$fish
+15050$fish
+15055$fish
+15057$fish
+15060$fish
+15062$fish
+15066$fish
+15068$fish
+15072$fish
+15077$fish
+15080$fish
+15083$fish
+15084$fish
+15085$fish
+15087$fish
+15088$fish
+15089$fish
+15090$fish
+15091$fish
+15095$fish
+15101$fish
+15104$fish
+15106$fish
+15110$fish
+15119$fish
+15121$fish
+15127$fish
+15130$fish
+15132$fish
+15138$crustaceans
+15140$crustaceans
+15141$crustaceans
+15145$crustaceans
+15146$crustaceans
+15147$crustaceans
+15148$crustaceans
+15149$crustaceans
+15151$crustaceans
+15152$crustaceans
+15155$mollusks
+15157$mollusks
+15160$mollusks
+15162$mollusks
+15164$mollusks
+15166$mollusks
+15167$mollusks
+15170$mollusks
+15172$mollusks
+15175$mollusks
+15192$fish
+15201$fish
+15230$mollusks
+15234$fish
+15240$fish
+15261$fish
+16006$beans
+16010$beans
+16014$beans
+16015$beans
+16017$beans
+16018$beans
+16026$beans
+16028$beans
+16033$beans
+16034$beans
+16041$beans
+16042$beans
+16043$beans
+16048$beans
+16050$beans
+16053$broadbeans (fava beans)
+16056$chickpeas (garbanzo beans
+16057$chickpeas (garbanzo beans
+16059$chili with beans
+16063$cowpeas
+16069$lentils
+16070$lentils
+16072$lima beans
+16081$mung beans
+16082$noodles
+16086$peas
+16087$peanuts
+16088$peanuts
+16089$peanuts
+16090$peanuts
+16098$peanut butter
+16099$peanut flour
+16103$refried beans
+16104$bacon
+16107$sausage
+16109$soybeans
+16110$soybeans
+16112$miso
+16113$natto
+16115$soy flour
+16117$soy flour
+16122$soy protein isolate
+16123$soy sauce made from soy and wheat (shoyu)
+16127$tofu
+16129$tofu
+16139$soymilk
+16147$veggie burgers or soyburgers
+16149$peanut spread
+16150$peanut butter
+16155$peanut butter
+16168$soymilk
+16225$soymilk
+16227$soymilk
+16230$soymilk (all flavors)
+16316$beans
+16326$beans
+16337$beans
+16347$beans
+16360$chickpeas (garbanzo beans
+16389$peanuts
+16390$peanuts
+16398$peanut butter
+16403$refried beans
+16424$soy sauce made from soy and wheat (shoyu)
+17002$lamb
+17008$lamb
+17012$lamb
+17014$lamb
+17024$lamb
+17027$lamb
+17030$lamb
+17033$lamb
+17035$lamb
+17038$lamb
+17039$lamb
+17042$lamb
+17060$lamb
+17089$veal
+17091$veal
+17094$veal
+17095$veal
+17096$veal
+17097$veal
+17098$veal
+17101$veal
+17102$veal
+17104$veal
+17106$veal
+17109$veal
+17116$veal
+17134$veal
+17136$veal
+17143$veal
+17147$game meat
+17151$game meat
+17157$game meat
+17159$game meat
+17163$game meat
+17169$game meat
+17173$game meat
+17176$game meat
+17179$game meat
+17181$game meat
+17182$game meat
+17184$game meat
+17219$veal
+17224$lamb
+17225$lamb
+17343$game meat
+17344$game meat
+17345$game meat
+17346$game meat
+18001$bagels
+18010$biscuits
+18015$biscuits
+18022$bread
+18023$bread
+18027$bread
+18029$bread
+18033$bread
+18039$bread
+18041$bread
+18042$bread
+18043$bread
+18044$bread
+18057$bread
+18060$bread
+18064$bread
+18069$bread
+18075$bread
+18079$bread
+18080$bread
+18081$bread
+18082$bread
+18085$bread
+18088$cake
+18090$cake
+18095$cake
+18096$cake
+18097$cake
+18102$cake
+18110$cake
+18114$cake
+18120$cake
+18127$cake
+18128$cake
+18133$cake
+18135$cake
+18140$cake
+18141$cake
+18142$cake
+18144$cake
+18147$cake
+18151$cookies
+18155$cookies
+18157$cookies
+18158$cookies
+18159$cookies
+18166$cookies
+18168$cookies
+18170$cookies
+18171$cookies
+18172$cookies
+18173$cookies
+18174$cookies
+18175$cookies
+18176$cookies
+18177$cookies
+18178$cookies
+18185$cookies
+18190$cookies
+18191$cookies
+18192$cookies
+18198$cookies
+18199$cookies
+18200$cookies
+18202$cookies
+18204$cookies
+18209$cookies
+18210$cookies
+18211$puff pastry
+18212$cookies
+18213$cookies
+18214$crackers
+18216$crackers
+18217$crackers
+18220$crackers
+18223$crackers
+18228$crackers
+18229$crackers
+18230$crackers
+18231$crackers
+18232$crackers
+18235$crackers
+18237$cream puff shell
+18239$croissants
+18241$croissants
+18243$croutons
+18244$danish pastry
+18245$danish pastry
+18246$danish pastry
+18248$doughnuts
+18255$doughnuts
+18258$muffins
+18264$muffins
+18271$ice cream cones
+18272$ice cream cones
+18274$muffins
+18279$muffins
+18283$muffins
+18288$pancakes plain
+18291$pancakes
+18295$pancakes
+18301$pie
+18304$pie
+18305$pie
+18308$pie
+18310$pie
+18313$pie
+18317$pie
+18319$pie
+18320$pie
+18322$pie
+18323$pie
+18324$pie
+18326$pie
+18328$pie
+18335$pie crust
+18338$phyllo dough
+18342$rolls
+18347$rolls
+18349$rolls
+18350$rolls
+18351$rolls
+18353$rolls
+18354$strudel
+18356$sweet rolls
+18360$taco shells
+18363$tortillas
+18364$tortillas
+18369$leavening agents
+18370$leavening agents
+18372$leavening agents
+18373$leavening agents
+18374$leavening agents
+18375$leavening agents
+18401$pie crust
+18402$pie crust
+18416$bread
+18425$crackers
+18429$crackers
+18434$crackers
+18451$cake
+18457$crackers
+18459$tart
+18933$waffle
+18938$toaster pastries
+18940$muffin
+18942$pie crust
+18943$pie crust
+18949$crackers
+18950$crackers
+18955$bread
+18963$garlic bread
+18964$cinnamon buns
+18965$crackers
+18966$crackers
+18967$bread
+18968$bagels
+18969$cream puff
+18971$bread
+18972$bread
+18973$focaccia
+19000$schiff
+19001$candies
+19002$snacks
+19003$snacks
+19007$snacks
+19008$snacks
+19009$snacks
+19013$snacks
+19014$snacks
+19015$snacks
+19018$fruit syrup
+19025$candies
+19026$snacks
+19030$syrup
+19033$snacks
+19034$snacks
+19036$snacks
+19038$snacks
+19039$snacks
+19040$snacks
+19041$snacks
+19042$snacks
+19045$snacks
+19047$snacks
+19049$snacks
+19056$snacks
+19057$snacks
+19068$candies
+19069$candies
+19070$candies
+19071$candies
+19074$candies
+19076$candies
+19078$baking chocolate
+19079$candies
+19080$candies
+19081$candies
+19083$candies
+19085$candies
+19086$candies
+19087$candies
+19088$ice creams
+19089$ice creams
+19095$ice creams
+19097$sherbet
+19098$candies
+19099$candies
+19100$candies
+19101$candies
+19103$candies
+19104$candies
+19106$candies
+19107$candies
+19108$candies
+19109$candies
+19111$candies
+19114$ice creams
+19115$candies
+19116$candies
+19118$candies
+19120$candies
+19124$baking chocolate
+19125$chocolate-flavored hazelnut spread
+19126$candies
+19127$candies
+19128$syrups
+19132$candies
+19134$candies
+19135$candies
+19136$candies
+19137$toppings
+19140$candies
+19141$candies
+19142$candies
+19143$candies
+19144$candies
+19147$candies
+19148$candies
+19150$candies
+19151$candies
+19152$candies
+19154$candies
+19155$candies
+19156$candies
+19159$candies
+19160$candies
+19161$candies
+19162$candies
+19163$chewing gum
+19165$cocoa
+19173$gelatin desserts
+19176$gelatin desserts
+19177$gelatins
+19183$puddings
+19184$puddings
+19193$puddings
+19201$puddings
+19202$puddings
+19218$puddings
+19226$frostings
+19230$frostings
+19249$candies
+19260$ice creams
+19263$frozen novelties
+19265$ice creams
+19270$ice creams
+19279$candies
+19280$frozen novelties
+19283$frozen novelties
+19293$frozen yogurts
+19294$fruit butters
+19296$honey
+19297$jams and preserves
+19300$jellies
+19303$marmalade
+19304$molasses
+19312$pie fillings
+19334$sugars
+19335$sugars
+19336$sugars
+19337$sweeteners
+19345$syrups
+19348$syrups
+19349$syrups
+19350$syrups
+19353$syrups
+19360$syrups
+19364$toppings
+19365$toppings
+19367$toppings
+19370$candies
+19400$snacks
+19404$snacks
+19410$snack
+19411$snacks
+19415$snacks
+19434$cheese puffs and twists
+19435$snacks
+19438$snacks
+19441$snacks
+19524$snacks
+19814$snacks
+19823$potato chips
+19833$snacks
+19858$candies
+19866$candies
+19868$sweeteners
+19871$frozen novelties
+19896$candies
+19905$candies
+19910$candies
+19912$sweetener
+19913$candies
+19914$candies
+19916$syrups
+19917$candies
+19918$sweetener
+19919$candies
+19920$jams
+19921$candies
+19922$candies
+19923$candies
+19924$syrup
+20005$barley
+20006$barley
+20010$buckwheat groats
+20011$buckwheat flour
+20012$bulgur
+20013$bulgur
+20017$corn flour
+20019$corn flour
+20022$cornmeal
+20027$cornstarch
+20029$couscous
+20030$hominy
+20032$millet
+20033$oat bran
+20036$rice
+20037$rice
+20044$rice
+20045$rice
+20055$rice
+20061$rice flour
+20064$rye flour
+20068$tapioca
+20077$wheat bran
+20080$wheat flour
+20081$wheat flour
+20083$wheat flour
+20088$wild rice
+20089$wild rice
+20106$macaroni
+20109$noodles
+20110$noodles
+20112$noodles
+20113$noodles
+20118$noodles
+20120$pasta
+20121$pasta
+20125$pasta
+20134$rice noodles
+20137$quinoa
+20481$wheat flour
+20657$pasta
+21003$fast foods
+21004$fast foods
+21005$fast foods
+21007$fast foods
+21008$fast foods
+21009$fast foods
+21012$fast foods
+21013$fast foods
+21014$fast foods
+21018$fast foods
+21020$fast foods
+21021$fast foods
+21022$fast foods
+21024$fast foods
+21026$fast foods
+21061$fast foods
+21064$fast foods
+21078$fast foods
+21080$fast foods
+21082$fast foods
+21090$fast foods
+21108$fast foods
+21121$fast foods
+21124$fast foods
+21125$fast foods
+21129$fast foods
+21130$fast foods
+21138$fast foods
+21139$fast foods
+21142$fast food
+21151$fast foods
+21153$fast foods
+21154$fast foods
+21155$fast foods
+21156$fast foods
+21158$fast foods
+21160$fast foods
+21162$fast foods
+21202$fast foods
+21224$pizza
+21225$pizza
+21226$pizza
+21227$pizza
+21229$fast foods
+21299$fast food
+21300$fast food
+21301$fast food
+21302$fast food
+21303$fast food
+21304$fast food
+21305$fast foods
+21306$fast foods
+21307$fast foods
+21390$fast foods
+21395$fast foods
+21397$fast foods
+21398$fast foods
+21400$fast foods
+21401$fast foods
+21410$fast foods
+21411$fast foods
+21412$light ice cream
+21413$light ice cream
+21461$fast foods
+21463$yogurt parfait
+21464$fast foods
+21465$fast foods
+21466$fast foods
+21469$fast foods
+21470$fast foods
+21471$fast foods
+21472$fast foods
+21482$fast food
+21483$fast food
+21484$fast food
+21485$fast food
+21486$fast foods
+21487$fast foods
+21488$fast foods
+21505$pizza
+21511$fast food
+21519$fast foods
+21520$fast foods
+21521$fast foods
+21600$school lunch
+21601$school lunch
+21602$school lunch
+21603$school lunch
+21604$school lunch
+21605$school lunch
+21610$school lunch
+21611$school lunch
+22247$macaroni and cheese
+22535$hot pockets
+22537$hot pockets ham 'n cheese stuffed sandwich
+22899$ravioli
+22900$ravioli
+22901$tortellini
+22904$chili con carne with beans
+22905$beef stew
+22906$chicken pot pie
+22908$beef
+22910$lasagna
+22911$chili
+22916$lasagna with meat & sauce
+22953$egg rolls
+22954$egg rolls
+22955$egg rolls
+22957$turkey
+22958$rice bowl with chicken
+22959$macaroni and cheese dinner with dry sauce mix
+22961$hot pockets
+22962$lean pockets
+22971$potato salad with egg
+22973$corn dogs
+22974$chicken
+22976$ravioli
+22978$chicken tenders
+22998$rice-a-roni
+23090$beef
+23100$beef
+23197$beef
+23327$beef
+23339$beef
+23348$beef
+23354$beef
+23357$beef
+23360$beef
+23369$beef
+23378$beef
+23557$beef
+23562$beef
+23563$beef
+23567$beef
+23568$beef
+23570$beef
+23572$beef
+23573$beef
+23575$beef
+23577$beef
+23578$beef
+23580$beef
+23581$beef
+23588$beef
+23590$beef
+23602$beef
+23606$beef
+23610$beef
+23612$beef
+23614$beef
+23616$beef
+23625$beef
+23626$beef
+23629$beef
+23631$beef
+25001$snacks
+25003$snacks
+25012$snacks
+25013$snacks
+25015$formulated bar
+25017$formulated bar
+25020$formulated bar
+25024$pretzels
+25025$snacks
+25026$popcorn
+25027$snacks
+25030$snacks
+25031$formulated bar
+25032$snacks
+25033$snacks
+25035$snacks
+25036$snacks
+25037$snacks
+25038$snacks
+25039$snacks
+25040$snacks
+25043$snacks
+25045$formulated bar
+25046$snacks
+25048$snacks
+25051$snacks
+25052$snacks
+25053$snacks
+25054$snacks
+25055$snacks
+25056$snacks
+25059$snacks
+25060$snack
+25063$snacks
+25064$snacks
+25065$snacks
+25066$snacks
+25067$formulated bar
+25068$snack
+25070$snacks
+25071$rice crackers
+27000$soup
+27001$soup
+27002$soup
+27035$soup
+27043$soup
+27044$soup
+27046$sauce
+27047$sauce
+27048$sauce
+27049$sauce
+27050$sauce
+27051$sauce
+27052$dip
+27059$sauce
+27060$soup
+27062$soup
+27063$sauce
+27064$wasabi
+27065$dip
+27066$sauce
+28285$bread
+28286$bread
+28287$bread
+28288$bread
+28289$cookie
+28290$cookie
+28291$cookies
+28292$crackers
+28293$cookie
+28294$cookie
+28295$tortillas
+28296$cake
+28297$cake
+28298$cookies
+28299$cookies
+28300$cookies
+28301$cookies
+28302$cookies
+28303$crackers
+28304$waffles
+28309$cookies
+28310$cookies
+28311$cookies
+28312$rolls
+28313$rolls
+28314$crackers
+28315$bread
+28316$bread
+28318$bread
+28321$rolls
+28324$pancakes
+28326$crackers
+28327$crackers
+28328$cookies
+28329$cookies
+28330$cookies
+28332$cookies
+28337$bread
+28341$rolls
+28345$crackers
+28346$waffles
+28347$pancakes
+28348$rolls
+28349$cookies
+28350$cookies
+28351$cookies
+28352$cookies
+28397$bread
+28399$cookies
+31023$sweet potatoes
+31033$ginger root
+31034$peppers
+31036$potatoes
+32002$rice and vermicelli mix
+32006$taquitos
+32007$taquitos
+32008$pasta mix
+32009$pasta mix
+32010$pasta mix
+32011$yellow rice with seasoning
+32012$pizza rolls
+32013$potsticker or wonton
+32014$macaroni or noodles with cheese
+32015$turnover
+32016$macaroni or noodles with cheese
+32024$rice mix
+32025$dumpling
+32026$turnover
+32027$turnover
+32028$turnover
+32031$salisbury steak with gravy
+32032$sausage
+33863$infant formula
+33866$infant formula
+33867$infant formula
+33868$infant formula
+33870$infant formula
+33871$infant formula
+33873$infant formula
+33874$infant formula
+33878$babyfood
+36012$restaurant
+36014$restaurant
+36016$restaurant
+36017$restaurant
+36033$restaurant
+36035$restaurant
+36037$restaurant
+36041$restaurant
+36403$restaurant
+36409$restaurant
+36410$restaurant
+36411$restaurant
+36417$restaurant
+36418$restaurant
+36602$restaurant
+36603$restaurant
+36618$restaurant
+36619$restaurant
+36621$restaurant
+36624$restaurant
+36625$restaurant
+36626$restaurant
+36629$restaurant
+36633$restaurant
+42040$syrups
+42055$beverages
+42116$creamy dressing
+42117$imitation cheese
+42119$babyfood
+42120$babyfood
+42128$turkey ham
+42135$whipped topping
+42136$cream substitute
+42139$granola bar
+42140$salad dressing
+42141$cream substitute
+42148$candies
+42150$babyfood
+42155$cheese
+42157$creamy dressing
+42161$bologna
+42173$sausage
+42183$candies
+42186$frozen yogurts
+42187$frozen yogurts
+42189$milk
+42192$salad dressing
+42193$salad dressing
+42196$candies
+42200$papad
+42204$rice cake
+42227$candies
+42230$salad dressing
+42231$oil
+42236$cereals ready-to-eat
+42240$cereals ready-to-eat
+42259$snacks
+42265$cereals ready-to-eat
+42266$babyfood
+42267$babyfood
+42272$snacks
+42278$babyfood
+42279$babyfood
+42280$frankfurter
+42283$snacks
+42284$babyfood
+42285$babyfood
+42290$milk
+42297$cereals ready-to-eat
+42303$cheese
+42304$cheese
+42316$babyfood
+43004$babyfood
+43006$babyfood
+43007$babyfood
+43008$babyfood
+43015$salad dressing
+43016$salad dressing
+43017$salad dressing
+43020$salad dressing
+43021$salad dressing
+43026$syrups
+43027$jellies
+43031$candies
+43046$candies
+43057$candies
+43058$candies
+43059$candies
+43060$chewing gum
+43075$fluid replacement
+43100$breakfast bars
+43114$vermicelli
+43125$beans
+43128$chicken
+43130$frankfurter
+43131$luncheon slices
+43132$meatballs
+43134$vegetarian fillets
+43135$sandwich spread
+43137$vegetarian meatloaf or patties
+43155$alcoholic beverage
+43158$sweeteners
+43205$beverage
+43212$bacon bits
+43214$butter replacement
+43260$beverage
+43274$cheese
+43276$cheese spread
+43282$quail
+43283$pheasant
+43287$dove
+43299$soybean
+43311$potatoes
+43331$salad dressing
+43344$jams
+43345$beverages
+43346$frozen novelties
+43352$cheese
+43365$tomato and vegetable juice
+43366$turkey
+43367$turkey
+43369$beverages
+43373$babyfood
+43378$pork
+43382$cranberry juice
+43387$turnip greens
+43390$turkey
+43391$turkey
+43392$hearts of palm
+43398$cheese
+43401$beverages
+43404$beverages
+43405$cheese
+43406$yeast extract spread
+43408$babyfood
+43410$chicken
+43417$babyfood
+43432$babyfood
+43441$rolls
+43449$beans
+43476$tofu yogurt
+43479$alcoholic beverage
+43506$frozen novelties
+43507$frankfurter
+43514$frozen novelties
+43523$babyfood
+43528$beverages
+43529$babyfood
+43535$babyfood
+43536$babyfood
+43537$babyfood
+43539$babyfood
+43541$ice creams
+43544$babyfood
+43546$babyfood
+43550$babyfood
+43570$cereals ready-to-eat
+43585$babyfood
+43589$cheese
+43595$breakfast bar
+43597$cheese
+44061$puddings
+44074$babyfood
+44158$pie fillings
+44203$beverages
+44260$puddings
+80200$frog legs
+90240$mollusks
+90560$mollusks
+93600$turtle
+100173$sausage
+907028$reduced sodium: ham
+907043$reduced sodium: roast beef
+907057$reduced sodium: pepperoni
+907072$reduced sodium: salami
+907081$reduced sodium: turkey breast
+907961$reduced sodium: chicken breast
+907971$reduced sodium: bologna
+912695$reduced sodium: nuts
+999328$vitamin d as ingredient

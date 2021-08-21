@@ -1,0 +1,126 @@
+Protein
+Total Fat
+Carbohydrate
+Energy
+Alcohol
+Water
+Caffeine
+Theobromine
+total Sugars
+total dietary Fiber
+Calcium
+Iron
+Magnesium
+Phosphorus
+Potassium
+Sodium
+Zinc
+Copper
+Selenium
+Retinol
+Vitamin A RAE
+beta Carotene
+alpha Carotene
+Vitamin E (alpha-tocopherol)
+Vitamin D (D2 + D3)
+beta Cryptoxanthin
+Lycopene
+Lutein + zeaxanthin
+Vitamin C
+Thiamin
+Riboflavin
+Niacin
+Vitamin B-6
+Folate, total
+Vitamin B-12
+total Choline
+Vitamin K (phylloquinone)
+Folic acid
+food Folate
+Folate DFE
+Vitamin E
+Vitamin B-12
+Cholesterol
+Iodine
+total saturated Fatty acids
+4:0
+6:0
+8:0
+10:0
+12:0
+14:0
+16:0
+18:0
+18:1
+18:2
+18:3
+20:4
+22:6 n-3
+16:1
+18:4
+20:1
+20:5 n-3
+22:1
+22:5 n-3
+
+total monosaturated fatty acids
+
+avoid 
+monosaturated fatty acids
+saturated Fatty acids
+Caffeine
+Theobromine
+total Sugars
+total dietary Fiber
+vit D
+
+reduce
+calcium
+iron
+
+good sleep
+laxative?
+omega 3
+omega 6
+fast low on carbs and fats and proteins w/ supplements of
+vitamins and minerals except less calcium, and iron, no vit D
+let k = protein*0.9 + aminoacids
+vitamin c up higher, careful with excretion kidney
+vitamin b up higher
+grehlin
+insulin
+exercise
+
+good sleep
+complete fast w/ supplements of
+vitamins and minerals except less calcium, and iron, no vit D
+let k = protein*0.9 + aminoacids
+vitamin c up higher, careful with excretion kidney
+vitamin b up higher
+& exercise
+grehlin
+insulin
+
+good sleep
+complete fast w/ supplements of
+vitamins and minerals except less calcium, and iron, no vit D
+vitamin c up higher, careful with excretion kidney
+vitamin b up higher
+let k = protein*0.9 + aminoacids
+& exercise
+grehlin
+insulin
+
+good sleep
+high-protein break
+nothing else
+water-soluble vitamins and minerals once a day, with fat to
+vitamin c up higher, careful with excretion kidney
+vitamin b up higher
+exercise
+
+
+
+
+good amino acid blood concentration and amino acid storage of amino acids
+amino acids break

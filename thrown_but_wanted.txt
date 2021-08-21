@@ -1,0 +1,51 @@
+2054 :  capers#canned
+9195 :  olives#green canned or bottled pickled
+11008 :  artichokes#without salt globe or french boiled cooked drained
+$ 11019 :  asparagus#frozen without salt boiled cooked drained
+11032 :  lima beans#without salt immature seeds boiled cooked drained
+11114 :  cabbage#raw savoy
+11116 :  cabbage#chinese pak-choi raw
+11214 :  escarole#no salt added boiled cooked drained
+11246 :  leeks#raw bulb and lower leaf-portion
+11252 :  lettuce#raw iceberg includes crisphead types
+11255 :  lotus root#without salt boiled cooked drained
+11269 :  mushrooms#without salt cooked shiitake
+11291 :  onions#raw spring or scallions includes tops and bulb
+11299 :  parsnips#without salt boiled cooked drained
+11417 :  pumpkin flowers#without salt boiled cooked drained
+11439 :  sauerkraut#canned solids and liquids
+11467 :  squash#summer crookneck and straightneck raw
+11477 :  squash#summer includes skin raw zucchini
+11594 :  waxgourd#without salt chinese preserving melon boiled cooked drained
+11943 :  pimento#canned
+15002 :  fish#european canned in oil drained solids anchovy
+15033 :  fish#raw haddock
+15057 :  fish#ocean perch atlantic raw
+15060 :  fish#perch raw mixed species
+15062 :  fish#northern pike raw
+15068 :  fish#florida raw pompano
+15072 :  fish#roe raw mixed species
+15077 :  fish#salmon chinook smoked
+15080 :  fish#salmon canned chum drained solids with bone
+15083 :  fish#salmon raw pink
+15090 :  fish#scup raw
+15091 :  fish#mixed species raw sea bass
+15101 :  fish#raw snapper mixed species
+15104 :  fish#sturgeon raw mixed species
+15127 :  fish#raw fresh yellowfin tuna
+15130 :  fish#raw mixed species whitefish
+15132 :  fish#raw whiting mixed species
+16014 :  beans#mature seeds raw black
+16018 :  beans#canned black turtle mature seeds
+16026 :  beans#great northern mature seeds canned
+16034 :  beans#kidney canned mature seeds solids and liquids red
+16042 :  beans#raw includes foods for usda's food distribution program mature seeds pinto
+16050 :  beans#without salt white mature seeds boiled cooked
+16053 :  broadbeans fava beans#mature seeds boiled cooked without salt
+16056 :  chickpeas garbanzo beans, bengal gram#mature seeds raw
+16063 :  cowpeas#without salt cooked mature seeds boiled common blackeye rowde outhern
+16072 :  lima beans#without salt mature seeds large boiled cooked
+20029 :  couscous#cooked
+20036 :  rice#raw includes foods for usda's food distribution program brown long-grain
+20044 :  rice#raw long-grain white enriched regular
+20137 :  quinoa#cooked

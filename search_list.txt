@@ -1,0 +1,105 @@
+beans #beans bean
+fruits #peaches plum peach banana plantain berry apple
+milk products #milk yogurt cheese
+cow meat #beef meat turkey 
+fish #
+onion #onion
+	onions
+oil
+	oil
+nuts
+	nut
+	coconut
+	almond
+seeds
+	seed
+	pumpkin
+something_else
+	scallions
+	broccoli
+	avocado
+	kale
+	peas
+	carrot
+
+fish
+	fish
+	sockeye
+breakfast
+	breakfast
+	cereal
+seafood
+	shrimp
+meat
+	turkey
+
+berries
+egg
+whiting
+squash
+eggs
+zucchini
+scallion
+honey
+chicken
+breakfast
+kiwifruit
+salmon
+lettuce
+mushroom
+plantain
+beef
+ribeye
+mozzarela
+garlic
+almond
+strawberry
+greek
+banana
+pepper
+strawberries
+peppers
+1%
+fat
+yogurt
+dates
+peach
+thigh
+tomato
+lemon
+sweet
+parmesan
+drums
+eggs
+egg
+ginger
+cheese
+coconut
+rice
+watermelon
+plum
+thighs
+lentils
+nectarine
+chickpeas
+orange
+lemon
+lime
+corn
+rice
+beans
+chile
+tomato
+tomatoe
+cheese
+plantain
+yucca
+cassava
+yuca
+squash
+cabbage
+avocado
+chocolate
+cocoa
+cacao
+tomatoes

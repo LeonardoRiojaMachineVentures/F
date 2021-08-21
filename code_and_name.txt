@@ -1,0 +1,2332 @@
+1001 : butter, salted
+1002 : butter, whipped, with salt
+1003 : butter oil, anhydrous
+1004 : cheese, blue
+1005 : cheese, brick
+1006 : cheese, brie
+1007 : cheese, camembert
+1009 : cheese, cheddar (includes foods for usda's food distribution program)
+1011 : cheese, colby
+1012 : cheese, cottage, creamed, large or small curd
+1014 : cheese, cottage, nonfat, uncreamed, dry, large or small curd
+1015 : cheese, cottage, lowfat, 2% milkfat
+1016 : cheese, cottage, lowfat, 1% milkfat
+1017 : cheese, cream
+1019 : cheese, feta
+1020 : cheese, fontina
+1022 : cheese, gouda
+1023 : cheese, gruyere
+1024 : cheese, limburger
+1025 : cheese, monterey
+1029 : cheese, mozzarella, low moisture, part-skim
+1030 : cheese, muenster
+1032 : cheese, parmesan, grated
+1035 : cheese, provolone
+1036 : cheese, ricotta, whole milk
+1037 : cheese, ricotta, part skim milk
+1040 : cheese, swiss
+1042 : cheese, pasteurized process, american, vitamin d fortified
+1048 : cheese spread, pasteurized process, american
+1049 : cream, fluid, half and half
+1050 : cream, fluid, light (coffee cream or table cream)
+1053 : cream, fluid, heavy whipping
+1054 : cream, whipped, cream topping, pressurized
+1056 : cream, sour, cultured
+1057 : eggnog
+1061 : cheese, american, nonfat or fat free
+1067 : cream substitute, liquid, with hydrogenated vegetable oil and soy protein
+1069 : cream substitute, powdered
+1073 : dessert topping, semi solid, frozen
+1074 : sour cream, imitation, cultured
+1077 : milk, whole, 3.25% milkfat, with added vitamin d
+1079 : milk, reduced fat, fluid, 2% milkfat, with added vitamin a and vitamin d
+1082 : milk, lowfat, fluid, 1% milkfat, with added vitamin a and vitamin d
+1085 : milk, nonfat, fluid, with added vitamin a and vitamin d (fat free or skim)
+1088 : milk, buttermilk, fluid, cultured, lowfat
+1089 : milk, low sodium, fluid
+1090 : milk, dry, whole, with added vitamin d
+1091 : milk, dry, nonfat, regular, without added vitamin a and vitamin d
+1094 : milk, buttermilk, dried
+1095 : milk, canned, condensed, sweetened
+1096 : milk, canned, evaporated, with added vitamin d and without added vitamin a
+1097 : milk, canned, evaporated, nonfat, with added vitamin a and vitamin d
+1102 : milk, chocolate, fluid, commercial, whole, with added vitamin a and vitamin d
+1103 : milk, chocolate, fluid, commercial, reduced fat, with added vitamin a and vitamin d
+1104 : milk, chocolate, lowfat, with added vitamin a and vitamin d
+1106 : milk, goat, fluid, with added vitamin d
+1107 : milk, human, mature, fluid
+1113 : whey, acid, dried
+1115 : whey, sweet, dried
+1116 : yogurt, plain, whole milk
+1117 : yogurt, plain, low fat
+1118 : yogurt, plain, skim milk
+1123 : egg, whole, raw, fresh
+1124 : egg, white, raw, fresh
+1125 : egg, yolk, raw, fresh
+1129 : egg, whole, cooked, hard-boiled
+1133 : egg, whole, dried
+1138 : egg, duck, whole, fresh, raw
+1139 : egg, goose, whole, fresh, raw
+1140 : egg, quail, whole, fresh, raw
+1145 : butter, without salt
+1151 : milk, nonfat, fluid, without added vitamin a and vitamin d (fat free or skim)
+1154 : milk, dry, nonfat, regular, with added vitamin a and vitamin d
+1157 : cheese, goat, semisoft type
+1164 : cheese sauce, prepared from recipe
+1165 : cheese, mexican, queso anejo
+1166 : cheese, mexican, queso asadero
+1169 : cheese, low-sodium, cheddar or colby
+1179 : sour cream, light
+1180 : sour cream, fat free
+1185 : parmesan cheese topping, fat free
+1186 : cheese, cream, fat free
+1199 : cream, half and half, fat free
+1205 : cream substitute, flavored, liquid
+1206 : cream substitute, flavored, powdered
+1208 : cheese, provolone, reduced fat
+1209 : cheese, mexican, blend, reduced fat
+1211 : milk, whole, 3.25% milkfat, without added vitamin a and vitamin d
+1215 : cheese product, pasteurized process, american, reduced fat, fortified with vitamin d
+1223 : protein supplement, milk based, muscle milk, powder
+1224 : protein supplement, milk based, muscle milk light, powder
+1225 : dulce de leche
+1226 : egg substitute, liquid or frozen, fat free
+1228 : cheese, fresh, queso fresco
+1230 : milk, buttermilk, fluid, whole
+1237 : ice cream, bar or stick, chocolate covered
+1240 : ice cream cone, chocolate covered, with nuts, flavors other than chocolate
+1243 : fat free ice cream, no sugar added, flavors other than chocolate
+1250 : nutritional supplement for people with diabetes, liquid
+1251 : cheese, mexican blend
+1252 : cheese product, pasteurized process, american, vitamin d fortified
+1253 : cheese, pasteurized process, american, without added vitamin d
+1256 : yogurt, greek, plain, nonfat (includes foods for usda's food distribution program)
+1259 : cheese spread, american or cheddar cheese base, reduced fat
+1260 : cheese, cheddar, reduced fat (includes foods for usda's food distribution program)
+1264 : ice cream bar, stick or nugget, with crunch coating
+1265 : cheese, cheddar, nonfat or fat free
+1266 : cheese, swiss, nonfat or fat free
+1267 : cheese, mexican, queso cotija
+1284 : yogurt, greek, strawberry, lowfat
+1285 : yogurt, greek, strawberry, nonfat
+1286 : yogurt, greek, vanilla, nonfat
+1287 : yogurt, greek, plain, lowfat
+1289 : kefir, lowfat, plain, lifeway
+1290 : kefir, lowfat, strawberry, lifeway
+1292 : milk, chocolate, fat free, with added vitamin a and vitamin d
+1293 : yogurt, greek, plain, whole milk
+1294 : yogurt, greek, fruit, whole milk
+1297 : yogurt, greek, vanilla, lowfat
+1302 : light ice cream, creamsicle
+1305 : milk, chocolate, lowfat, reduced sugar
+2003 : spices, basil, dried
+2005 : spices, caraway seed
+2007 : spices, celery seed
+2009 : spices, chili powder
+2010 : spices, cinnamon, ground
+2011 : spices, cloves, ground
+2012 : spices, coriander leaf, dried
+2014 : spices, cumin seed
+2020 : spices, garlic powder
+2021 : spices, ginger, ground
+2023 : spices, marjoram, dried
+2024 : spices, mustard seed, ground
+2025 : spices, nutmeg, ground
+2026 : spices, onion powder
+2027 : spices, oregano, dried
+2028 : spices, paprika
+2029 : spices, parsley, dried
+2030 : spices, pepper, black
+2031 : spices, pepper, red or cayenne
+2034 : spices, poultry seasoning
+2035 : spices, pumpkin pie spice
+2038 : spices, sage, ground
+2042 : spices, thyme, dried
+2043 : spices, turmeric, ground
+2044 : basil, fresh
+2046 : mustard, prepared, yellow
+2047 : salt, table, iodized
+2048 : vinegar, cider
+2052 : vanilla extract, imitation, no alcohol
+2053 : vinegar, distilled
+2054 : capers, canned
+2055 : horseradish, prepared
+3000 : clif z bar
+3001 : babyfood, juice treats, fruit medley, toddler
+3002 : babyfood, meat, beef, strained
+3003 : babyfood, meat, beef, junior
+3005 : babyfood, meat, veal, strained
+3008 : babyfood, meat, ham, strained
+3010 : babyfood, meat, lamb, strained
+3012 : babyfood, meat, chicken, strained
+3013 : babyfood, meat, chicken, junior
+3014 : babyfood, meat, chicken sticks, junior
+3015 : babyfood, meat, turkey, strained
+3016 : babyfood, meat, turkey, junior
+3017 : babyfood, meat, turkey sticks, junior
+3019 : babyfood, snack, gerber graduate fruit  strips, real fruit bars
+3021 : babyfood, meat, meat sticks, junior
+3023 : babyfood, finger snacks, gerber, graduates, puffs, apple and cinnamon
+3024 : babyfood, water, bottled, gerber, without added fluoride
+3026 : babyfood, tropical fruit medley
+3044 : babyfood, dinner, macaroni and tomato and beef, strained
+3045 : babyfood, dinner, macaroni and tomato and beef, junior
+3046 : babyfood, ravioli, cheese filled, with tomato sauce
+3047 : babyfood, dinner, beef noodle, strained
+3048 : babyfood, macaroni and cheese, toddler
+3050 : babyfood, dinner, spaghetti and tomato and meat, junior
+3052 : babyfood, dinner, beef stew, toddler
+3053 : babyfood, dinner, vegetables and beef, strained
+3054 : babyfood, dinner, vegetables and beef, junior
+3055 : babyfood, dinner, beef with vegetables
+3068 : babyfood, dinner, chicken noodle, strained
+3069 : babyfood, dinner, chicken noodle, junior
+3070 : babyfood, dinner, chicken soup, strained
+3072 : babyfood, dinner, chicken stew, toddler
+3073 : babyfood, dinner, vegetables chicken, strained
+3077 : babyfood, dinner, pasta with vegetables
+3082 : babyfood, dinner, turkey and rice, strained
+3083 : babyfood, dinner, turkey and rice, junior
+3084 : babyfood, dinner, vegetables and turkey, strained
+3085 : babyfood, dinner, vegetables and turkey, junior
+3089 : babyfood, dinner, macaroni and cheese, strained
+3090 : babyfood, dinner, macaroni and cheese, junior
+3091 : babyfood, vegetables, green beans, strained
+3092 : babyfood, vegetables, green beans, junior
+3093 : babyfood, green beans, dices, toddler
+3096 : babyfood, vegetable, green beans and potatoes
+3098 : babyfood, vegetables, beets, strained
+3099 : babyfood, vegetables, carrots, strained
+3100 : babyfood, vegetables, carrots, junior
+3104 : babyfood, vegetables, squash, strained
+3105 : babyfood, vegetables, squash, junior
+3108 : babyfood, vegetables, sweet potatoes strained
+3109 : babyfood, vegetables, sweet potatoes, junior
+3112 : babyfood, potatoes, toddler
+3114 : babyfood, vegetable, butternut squash and corn
+3115 : babyfood, apples, dices, toddler
+3116 : babyfood, fruit, applesauce, strained
+3117 : babyfood, fruit, applesauce, junior
+3118 : babyfood, fruit, apricot with tapioca, strained
+3119 : babyfood, vegetables, corn, creamed, strained
+3120 : babyfood, vegetables, corn, creamed, junior
+3121 : babyfood, vegetables, peas, strained
+3122 : babyfood, peas, dices, toddler
+3127 : babyfood, vegetables, spinach, creamed, strained
+3128 : babyfood, fruit, apricot with tapioca, junior
+3129 : babyfood, fruit, bananas with tapioca, strained
+3130 : babyfood, fruit, peaches, strained
+3131 : babyfood, fruit, peaches, junior
+3132 : babyfood, fruit, pears, strained
+3133 : babyfood, fruit, pears, junior
+3134 : babyfood, fruit, plums with tapioca, without ascorbic acid, strained
+3135 : babyfood, fruit, plums with tapioca, without ascorbic acid, junior
+3136 : babyfood, fruit, prunes with tapioca, without ascorbic acid, strained
+3139 : babyfood, prunes, without vitamin c, strained
+3140 : babyfood, fruit dessert, mango with tapioca
+3141 : babyfood, pears, dices, toddler
+3142 : babyfood, fruit, applesauce and apricots, strained
+3143 : babyfood, fruit, applesauce and apricots, junior
+3144 : babyfood, fruit, applesauce and cherries, strained
+3145 : babyfood, fruit, applesauce and cherries, junior
+3147 : babyfood, fruit, applesauce with banana, junior
+3152 : babyfood, fruit, apple and raspberry, strained
+3153 : babyfood, fruit, apple and raspberry, junior
+3154 : babyfood, fruit and vegetable, apple and sweet potato
+3156 : babyfood, fruit, bananas and pineapple with tapioca, junior
+3157 : babyfood, fruit, bananas and pineapple with tapioca, strained
+3158 : babyfood, fruit, pears and pineapple, strained
+3159 : babyfood, fruit, pears and pineapple, junior
+3161 : babyfood, peaches, dices, toddler
+3163 : babyfood, fruit, bananas with apples and pears, strained
+3164 : babyfood, fruit, apple and blueberry, strained
+3165 : babyfood, fruit, apple and blueberry, junior
+3166 : babyfood, juice, apple
+3167 : babyfood, apple-banana juice
+3168 : babyfood, juice, apple and peach
+3171 : babyfood, juice, apple and prune
+3172 : babyfood, juice, orange
+3174 : babyfood, juice, orange and apple and banana
+3179 : babyfood, juice, mixed fruit
+3181 : babyfood, cereal, barley, dry fortified
+3184 : babyfood, cereal, whole wheat, with apples, dry fortified
+3185 : babyfood, cereal, mixed, dry fortified
+3186 : babyfood, cereal, mixed, with bananas, dry
+3187 : babyfood, cereal, mixed, with applesauce and bananas, strained
+3188 : babyfood, cereal, mixed, with applesauce and bananas, junior, fortified
+3189 : babyfood, cereal, oatmeal, dry fortified
+3190 : babyfood, cereal, oatmeal, with bananas, dry
+3191 : babyfood, cereal, oatmeal, with applesauce and bananas, strained
+3192 : babyfood, cereal, oatmeal, with applesauce and bananas, junior, fortified
+3194 : babyfood, cereal, rice, dry fortified
+3195 : babyfood, cereal, rice, with applesauce and bananas, strained
+3205 : babyfood, oatmeal cereal with fruit, dry, instant, toddler fortified
+3206 : babyfood, cookie, baby, fruit
+3209 : babyfood, crackers, vegetable
+3212 : babyfood, cereal, rice, with bananas, dry
+3213 : babyfood, cookies
+3215 : babyfood, pretzels
+3216 : babyfood, teething biscuits
+3217 : zwieback
+3220 : babyfood, dessert, dutch apple, strained
+3221 : babyfood, dessert, dutch apple, junior
+3222 : babyfood, cherry cobbler, junior
+3224 : babyfood, dessert, cherry vanilla pudding, strained
+3225 : babyfood, dessert, cherry vanilla pudding, junior
+3227 : babyfood, dessert, peach cobbler, strained
+3228 : babyfood, dessert, peach cobbler, junior
+3233 : babyfood, dessert, fruit pudding, pineapple, strained
+3235 : babyfood, dessert, fruit dessert, without ascorbic acid, strained
+3236 : babyfood, dessert, fruit dessert, without ascorbic acid, junior
+3245 : babyfood, dessert, custard pudding, vanilla, strained
+3246 : babyfood, dessert, custard pudding, vanilla, junior
+3265 : babyfood, juice, apple and grape
+3267 : babyfood, juice, fruit punch, with calcium
+3269 : babyfood, juice, apple, with calcium
+3274 : babyfood, dinner, vegetables and chicken, junior
+3279 : babyfood, dinner, mixed vegetable, junior
+3280 : babyfood, fruit, bananas with tapioca, junior
+3282 : babyfood, vegetables, mix vegetables junior
+3283 : babyfood, vegetables, garden vegetable, strained
+3287 : babyfood, dinner, beef noodle, junior
+3289 : babyfood, apples with ham, strained
+3290 : babyfood, carrots and beef, strained
+3293 : babyfood, plums, bananas and rice, strained
+3296 : babyfood, dinner, turkey, rice, and vegetables, toddler
+3297 : babyfood, dinner, apples and chicken, strained
+3298 : babyfood, dinner, broccoli and chicken, junior
+3301 : babyfood, beverage, gerber, graduates, fruit splashers
+3302 : babyfood, snack, gerber, graduates, yogurt melts
+3303 : babyfood, dinner, sweet potatoes and chicken, strained
+3821 : infant formula, mead johnson, pregestimil, with iron, powder, not reconstituted
+3838 : infant formula, mead johnson, enfamil, nutramigen lipil, with iron, powder, not reconstituted, with ara and dha
+3852 : infant formula, mead johnson, enfamil, prosobee lipil, with iron, powder, not reconstituted, with ara and dha
+3860 : child formula, abbott nutrition, pediasure, ready-to-feed
+3867 : infant formula, nestle, good start soy, with ara and dha, powder
+3870 : child formula, abbott nutrition, pediasure, ready-to-feed, with iron and fiber
+3934 : babyfood, corn and sweet potatoes, strained
+3935 : infant formula, abbott nutrition, similac, alimentum, advance, ready-to-feed, with ara and dha
+3943 : infant formula, mead johnson, enfamil, ar, powder, with ara and dha
+3945 : infant formula, abbott nutrition, similac, neosure, powder, with ara and dha
+3948 : infant formula, abbott nutrition, similac, sensitive, (lactose free), powder, with ara and dha
+3950 : infant formula, abbott nutrition, similac, advance, with iron, powder, not reconstituted
+3954 : infant formula, abbott nutrition, similac, isomil, advance with iron, powder, not reconstituted
+3955 : infant formula, mead johnson, enfamil, enfacare lipil, ready-to-feed, with ara and dha
+3956 : babyfood, yogurt, whole milk, with fruit, multigrain cereal and added dha fortified
+3959 : babyfood, mashed cheddar potatoes and broccoli, toddlers
+3964 : babyfood, fortified cereal bar, fruit filling
+3965 : babyfood, yogurt, whole milk, with fruit, multigrain cereal and added iron fortified
+3967 : toddler formula, mead johnson, enfagrow, premium (formerly enfamil, lipil, next step), powder
+3980 : infant formula, mead johnson, enfamil, gentlease, powder
+3984 : infant formula, mead johnson, enfamil, premature, 20 calories ready-to-feed
+3986 : infant formula, mead johnson, enfamil, premium, newborn, ready-to-feed
+3987 : infant formula, gerber, good start 2 soy, with iron, ready-to-feed
+3992 : infant formula, abbott nutrition, similac, expert care, diarrhea, ready- to- feed with ara and dha
+3994 : babyfood, fruit, banana and strawberry, junior
+3995 : babyfood, banana with mixed berries, strained
+3996 : babyfood, multigrain whole grain cereal, dry fortified
+3997 : babyfood, baby mum mum rice biscuits
+3998 : babyfood, snack, gerber, graduates, lil crunchies, baked whole grain corn snack
+3999 : infant formula, abbott nutrition, similac, for spit up, powder, with ara and dha
+4001 : fat, beef tallow
+4002 : lard
+4013 : salad dressing, kraft mayo fat free mayonnaise dressing
+4015 : salad dressing, russian dressing
+4016 : salad dressing, sesame seed dressing, regular
+4017 : salad dressing, thousand island, commercial, regular
+4018 : salad dressing, mayonnaise type, regular, with salt
+4020 : salad dressing, french dressing, reduced fat
+4021 : salad dressing, italian dressing, commercial, reduced fat
+4022 : salad dressing, russian dressing, low calorie
+4023 : salad dressing, thousand island dressing, reduced fat
+4025 : salad dressing, mayonnaise, regular
+4027 : salad dressing, mayonnaise, imitation, soybean
+4030 : sandwich spread, with chopped pickle, regular, unspecified oils
+4038 : oil, wheat germ
+4042 : oil, peanut, salad or cooking
+4044 : oil, soybean, salad or cooking
+4047 : oil, coconut
+4053 : oil, olive, salad or cooking
+4058 : oil, sesame, salad or cooking
+4114 : salad dressing, italian dressing, commercial, regular
+4120 : salad dressing, french dressing, commercial, regular
+4128 : margarine,spread, 35-39% fat, tub
+4135 : salad dressing, home recipe, vinegar and oil
+4367 : salad dressing, french dressing, fat-free
+4502 : oil, cottonseed, salad or cooking
+4506 : oil, sunflower, linoleic, (approx. 65%)
+4511 : oil, safflower, salad or cooking, high oleic (primary safflower oil of commerce)
+4518 : oil, corn, industrial and retail, all purpose salad or cooking
+4528 : oil, walnut
+4529 : oil, almond
+4539 : salad dressing, blue or roquefort cheese dressing, commercial, regular
+4542 : fat, chicken
+4543 : oil, soybean, salad or cooking, (partially hydrogenated) and cottonseed
+4554 : shortening industrial, soybean (hydrogenated) and cottonseed
+4575 : fat, turkey
+4582 : oil, canola
+4601 : butter, light, stick, with salt
+4609 : animal fat, bacon grease
+4610 : margarine, regular, 80% fat, composite, stick, with salt
+4613 : margarine-like, vegetable oil spread, 60% fat, tub, with salt
+4615 : shortening, vegetable, household, composite
+4617 : margarine, regular, 80% fat, composite, stick, without salt
+4635 : salad dressing, thousand island dressing, fat-free
+4636 : salad dressing, italian dressing, fat-free
+4639 : salad dressing, ranch dressing, regular
+4641 : salad dressing, mayonnaise, light
+4659 : oil, industrial, coconut, confection fat, typical basis for ice cream coatings
+4679 : oil, pam cooking spray, original
+4686 : salad dressing, honey mustard dressing, reduced calorie
+4690 : margarine-like, vegetable oil spread, approximately 37% fat, unspecified oils, with salt, with added vitamin d
+4691 : margarine, regular, 80% fat, composite, stick, with salt, with added vitamin d
+4694 : margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin d
+4698 : oil, industrial, canola, high oleic
+4699 : oil, industrial, soy, low linolenic
+4700 : oil, industrial, soy, ultra low linolenic
+4701 : oil, industrial, soy, fully hydrogenated
+4703 : salad dressing, honey mustard, regular
+4704 : salad dressing, poppyseed, creamy
+4705 : salad dressing, caesar, fat-free
+4706 : dressing, honey mustard, fat-free
+4708 : mayonnaise, reduced fat, with olive oil
+4709 : salad dressing, mayonnaise-type, light
+5000 : chicken, broiler, rotisserie, bbq, breast, meat only
+5015 : chicken, broilers or fryers, skin only, raw
+5018 : chicken, broilers or fryers, skin only, cooked, roasted
+5022 : chicken, broilers or fryers, giblets, cooked, simmered
+5024 : chicken, gizzard, all classes, cooked, simmered
+5027 : chicken, liver, all classes, raw
+5028 : chicken, liver, all classes, cooked, simmered
+5051 : chicken, broilers or fryers, back, meat and skin, cooked, roasted
+5062 : chicken, broiler or fryers, breast, skinless, boneless, meat only, raw
+5069 : chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted
+5073 : chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted
+5087 : chicken, broilers or fryers, neck, meat and skin, cooked simmered
+5091 : chicken, broilers or fryers, thigh, meat and skin, raw
+5094 : chicken, broilers or fryers, thigh, meat and skin, cooked, roasted
+5098 : chicken, broilers or fryers, thigh, meat only, cooked, roasted
+5103 : chicken, broilers or fryers, wing, meat and skin, cooked, roasted
+5104 : chicken, broilers or fryers, wing, meat and skin, cooked, stewed
+5140 : duck, domesticated, meat and skin, cooked, roasted
+5142 : duck, domesticated, meat only, cooked, roasted
+5147 : goose, domesticated, meat and skin, cooked, roasted
+5165 : turkey, whole, meat and skin, raw
+5166 : turkey, whole, meat and skin, cooked, roasted
+5167 : turkey, whole, meat only, raw
+5168 : turkey, whole, meat only, cooked, roasted
+5180 : turkey, whole, neck, meat only, cooked, simmered
+5182 : turkey, whole, light meat, meat and skin, cooked, roasted
+5184 : turkey, whole, dark meat, meat and skin, cooked, roasted
+5186 : turkey, all classes, light meat, cooked, roasted
+5188 : turkey, whole, dark meat, cooked, roasted
+5194 : turkey, all classes, leg, meat and skin, cooked, roasted
+5196 : turkey, all classes, wing, meat and skin, cooked, roasted
+5220 : turkey, whole, breast, meat only, cooked, roasted
+5228 : turkey, whole, wing, meat only, cooked, roasted
+5306 : turkey, ground, cooked
+5308 : chicken, cornish game hens, meat and skin, cooked, roasted
+5310 : chicken, cornish game hens, meat only, cooked, roasted
+5311 : chicken, canned, no broth
+5314 : chicken, broilers or fryers, breast, skinless, boneless, meat only, with added solution, raw
+5319 : chicken, broiler, rotisserie, bbq, drumstick, meat only
+5324 : chicken patty, frozen, cooked
+5334 : chicken, broiler, rotisserie, bbq, thigh, meat only
+5335 : chicken, feet, boiled
+5358 : chicken, broiler, rotisserie, bbq, breast, meat and skin
+5359 : chicken, broiler, rotisserie, bbq, drumstick, meat and skin
+5361 : chicken, broiler, rotisserie, bbq, thigh, meat and skin
+5362 : chicken, broiler, rotisserie, bbq, wing, meat and skin
+5642 : ostrich, ground, cooked, pan-broiled
+5671 : chicken, broilers or fryers, drumstick, meat only, cooked, braised
+5672 : chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised
+5676 : chicken, broilers or fryers, dark meat, drumstick, meat and skin, cooked, braised
+5677 : chicken, broilers or fryers, dark meat, thigh, meat and skin, cooked, braised
+5695 : turkey, dark meat, meat only, with added solution, cooked, roasted
+5697 : turkey from whole, light meat, meat only, with added solution, cooked, roasted
+5699 : turkey, skin from whole, (light and dark), with added solution, roasted
+5701 : turkey, dark meat from whole, meat and skin, with added solution, cooked, roasted
+5703 : turkey from whole, light meat, meat and skin, with added solution, cooked, roasted
+5705 : turkey, whole, meat only, with added solution, roasted
+5707 : turkey, whole, meat and skin, with added solution, roasted
+5725 : turkey, drumstick, from whole bird, meat only, with added solution, roasted
+5727 : turkey, retail parts, breast, meat and skin, with added solution, raw
+5728 : turkey, thigh, from whole bird, meat only, with added solution, roasted
+5730 : turkey, wing, from whole bird, meat only, with added solution, roasted
+5739 : turkey, drumstick, from whole bird, meat only, roasted
+5741 : turkey, thigh, from whole bird, meat only, roasted
+5743 : turkey, retail parts, thigh, meat and skin, cooked, roasted
+5745 : turkey, back, from whole bird, meat and skin, with added solution, roasted
+6001 : soup, cream of asparagus, canned, condensed
+6004 : soup, bean with pork, canned, condensed
+6008 : soup, beef broth or bouillon canned, ready-to-serve
+6009 : soup, beef noodle, canned, condensed
+6010 : soup, cream of celery, canned, condensed
+6011 : soup, cheese, canned, condensed
+6013 : soup, chicken broth, canned, condensed
+6015 : soup, chicken, canned, chunky, ready-to-serve
+6016 : soup, cream of chicken, canned, condensed
+6018 : soup, chunky chicken noodle, canned, ready-to-serve
+6019 : soup, chicken noodle, canned, condensed
+6022 : soup, chicken rice, canned, chunky, ready-to-serve
+6023 : soup, chicken with rice, canned, condensed
+6024 : soup, chicken and vegetable, canned, ready-to-serve
+6027 : soup, clam chowder, manhattan style, canned, chunky, ready-to-serve
+6029 : campbell's, healthy request, chicken with rice, condensed
+6030 : soup, clam chowder, new england, canned, condensed
+6039 : soup, minestrone, canned, chunky, ready-to-serve
+6040 : soup, minestrone, canned, condensed
+6043 : soup, cream of mushroom, canned, condensed
+6044 : soup, mushroom with beef stock, canned, condensed
+6045 : soup, onion, canned, condensed
+6046 : soup, cream of onion, canned, condensed
+6049 : soup, pea, green, canned, condensed
+6050 : soup, pea, split with ham, canned, chunky, ready-to-serve
+6053 : soup, cream of potato, canned, condensed
+6067 : soup, chunky vegetable, canned, ready-to-serve
+6068 : soup, vegetarian vegetable, canned, condensed
+6070 : soup, chunky beef, canned, ready-to-serve
+6071 : soup, vegetable beef, canned, condensed
+6072 : soup, vegetable with beef broth, canned, condensed
+6075 : soup, beef broth or bouillon, powder, dry
+6101 : soup, cream of vegetable, dry, powder
+6112 : sauce, teriyaki, ready-to-serve
+6116 : gravy, beef, canned, ready-to-serve
+6119 : gravy, chicken, canned or bottled, ready-to-serve
+6128 : soup, chicken noodle, dry, mix
+6149 : soup, chicken mushroom, canned, condensed
+6150 : sauce, barbecue
+6159 : soup, tomato, canned, condensed
+6164 : sauce, salsa, ready-to-serve
+6169 : sauce, ready-to-serve, pepper, tabasco
+6170 : soup, stock, beef, home-prepared
+6172 : soup, stock, chicken, home-prepared
+6174 : soup, stock, fish, home-prepared
+6175 : sauce, hoisin, ready-to-serve
+6176 : sauce, oyster, ready-to-serve
+6177 : soup, minestrone, canned, reduced sodium, ready-to-serve
+6179 : sauce, fish, ready-to-serve
+6182 : soup, cream of mushroom, canned, condensed, reduced sodium
+6183 : soup, chicken broth, less/reduced sodium, ready to serve
+6188 : soup, beef broth, less/reduced sodium, ready to serve
+6189 : sauce, teriyaki, ready-to-serve, reduced sodium
+6190 : soup, bean & ham, canned, reduced sodium, prepared with water or ready-to-serve
+6192 : split pea soup, canned, reduced sodium, prepared with water or ready-to serve
+6193 : split pea with ham soup, canned, reduced sodium, prepared with water or ready-to-serve
+6194 : soup, chicken broth, ready-to-serve
+6208 : soup, chicken vegetable with potato and cheese, chunky, ready-to-serve
+6230 : soup, clam chowder, new england, canned, prepared with equal volume low fat (2%) milk
+6256 : soup, cream of shrimp, canned, prepared with equal volume low fat (2%) milk
+6402 : soup, black bean, canned, prepared with equal volume water
+6413 : soup, chicken broth, canned, prepared with equal volume water
+6417 : soup, chicken gumbo, canned, prepared with equal volume water
+6430 : soup, clam chowder, new england, canned, prepared with equal volume water
+6443 : soup, cream of mushroom, canned, prepared with equal volume water
+6449 : soup, pea, green, canned, prepared with equal volume water
+6456 : soup, cream of shrimp, canned, prepared with equal volume water
+6461 : soup, tomato beef with noodle, canned, prepared with equal volume water
+6463 : soup, tomato rice, canned, prepared with equal volume water
+6468 : soup, vegetarian vegetable, canned, prepared with equal volume water
+6472 : soup, vegetable with beef broth, canned, prepared with equal volume water
+6475 : soup, beef broth or bouillon, powder, prepared with water
+6480 : soup, chicken broth or bouillon, dry, prepared with water
+6494 : soup, onion, dry, mix, prepared with water
+6498 : soup, tomato, dry, mix, prepared with water
+6559 : soup, tomato, canned, prepared with equal volume water, commercial
+6583 : soup, ramen noodle, any flavor, dry
+6584 : soup, broccoli cheese, canned, condensed, commercial
+6700 : soup, vegetable broth, ready to serve
+6749 : soup, beef and vegetables, canned, ready-to-serve
+6931 : sauce, pasta, spaghetti/marinara, ready-to-serve
+6955 : soup, cream of chicken, canned, condensed, reduced sodium
+6956 : soup, tomato, canned, condensed, reduced sodium
+6963 : fish broth
+6968 : soup, cream of mushroom, low sodium, ready-to-serve, canned
+6970 : soup, chicken broth, low sodium, canned
+6971 : sauce, worcestershire
+6972 : sauce, tomato chili sauce, bottled, with salt
+6976 : sauce, pasta, spaghetti/marinara, ready-to-serve, low sodium
+6980 : soup, beef stroganoff, canned, chunky style, ready-to-serve
+6981 : soup, bouillon cubes and granules, low sodium, dry
+7005 : blood sausage
+7007 : bologna, beef
+7013 : bratwurst, pork, cooked
+7014 : braunschweiger (a liver sausage), pork
+7022 : frankfurter, beef, unheated
+7025 : frankfurter, turkey
+7028 : ham, sliced, pre-packaged, deli meat (96%fat free, water added)
+7031 : ham salad spread
+7034 : headcheese, pork
+7038 : knackwurst, knockwurst, pork, beef
+7043 : roast beef, deli style, prepackaged, sliced
+7050 : mortadella, beef, pork
+7053 : pate, chicken liver, canned
+7057 : pepperoni, beef and pork, sliced
+7058 : pickle and pimiento loaf, pork
+7064 : pork sausage, link/patty, cooked, pan-fried
+7067 : poultry salad sandwich spread
+7070 : salami, cooked, turkey
+7072 : salami, dry or hard, pork, beef
+7073 : sandwich spread, pork, beef
+7078 : thuringer, cervelat, summer sausage, beef, pork
+7081 : turkey breast, sliced, prepackaged
+7083 : sausage, vienna, canned, chicken, beef, pork
+7089 : sausage, italian, pork, mild, cooked, pan-fried
+7905 : frankfurter, beef, pork, and turkey, fat free
+7906 : luncheon meat, pork, ham, and chicken, minced, canned, reduced sodium, added ascorbic acid, includes spam, 25% less sodium
+7908 : luncheon meat, pork with ham, minced, canned, includes spam (hormel)
+7919 : sausage, turkey, breakfast links, mild, raw
+7951 : scrapple, pork
+7954 : sausage, breakfast sausage, beef, pre-cooked, unprepared
+7961 : chicken breast, deli, rotisserie seasoned, sliced, prepackaged
+7962 : frankfurter, meat and poultry, unheated
+7966 : pork sausage, link/patty, reduced fat, cooked, pan-fried
+7968 : kielbasa, fully cooked, grilled
+7971 : bologna, meat and poultry
+7973 : bacon, turkey, microwaved
+7974 : bacon, turkey, low sodium
+7976 : sausage, chicken or turkey, italian style,  lower sodium
+8001 : cereals ready-to-eat, kellogg, kellogg's all-bran original
+8002 : cereals ready-to-eat, post, alpha-bits
+8003 : cereals ready-to-eat, kellogg, kellogg's apple jacks
+8010 : cereals ready-to-eat, quaker, cap'n crunch
+8011 : cereals ready-to-eat, quaker, cap'n crunch with crunchberries
+8012 : cereals ready-to-eat, quaker, cap'n crunch's peanut butter crunch
+8013 : cereals ready-to-eat, general mills, cheerios
+8014 : cereals ready-to-eat, kellogg, kellogg's cocoa krispies
+8015 : cereals ready-to-eat, post, cocoa pebbles
+8017 : cereals ready-to-eat, general mills, cookie crisp
+8019 : cereals ready-to-eat, general mills, corn chex
+8020 : cereals ready-to-eat, kellogg, kellogg's corn flakes
+8023 : cereals ready-to-eat, kellogg, kellogg's cracklin' oat bran
+8025 : cereals ready-to-eat, ralston crisp rice
+8028 : cereals ready-to-eat, kellogg, kellogg's all-bran complete wheat flakes
+8029 : cereals ready-to-eat, post bran flakes
+8030 : cereals ready-to-eat, kellogg, kellogg's froot loops
+8031 : cereals ready-to-eat, kellogg's frosted mini-wheats, big bite
+8032 : cereals ready-to-eat, kellogg, kellogg's frosted rice krispies
+8034 : cereals ready-to-eat, post, fruity pebbles
+8035 : cereals ready-to-eat, general mills, golden grahams
+8037 : cereals ready-to-eat, granola, homemade
+8038 : cereals ready-to-eat, post, grape-nuts cereal
+8039 : cereals ready-to-eat, post, grape-nuts flakes
+8045 : cereals ready-to-eat, general mills, honey nut cheerios
+8046 : cereals ready-to-eat, post, honeycomb cereal
+8048 : cereals ready-to-eat, general mills, kix
+8049 : cereals ready-to-eat, quaker, quaker oat life, plain
+8050 : cereals ready-to-eat, general mills, lucky charms
+8054 : cereals ready-to-eat, quaker, 100% natural granola, oats, wheat and honey
+8057 : cereals ready-to-eat, general mills, honey nut chex
+8060 : cereals ready-to-eat, kellogg, kellogg's raisin bran
+8061 : cereals ready-to-eat, post raisin bran cereal
+8064 : cereals ready-to-eat, general mills, rice chex
+8065 : cereals ready-to-eat, kellogg, kellogg's rice krispies
+8066 : cereals ready-to-eat, quaker, quaker puffed rice
+8067 : cereals ready-to-eat, kellogg, kellogg's special k
+8068 : cereals ready-to-eat, kellogg, kellogg's corn pops
+8069 : cereals ready-to-eat, kellogg, kellogg's frosted flakes
+8071 : cereals ready-to-eat, kellogg, kellogg's honey smacks
+8073 : cereals ready-to-eat, post, golden crisp
+8074 : cereals ready-to-eat, ralston tasteeos
+8078 : cereals ready-to-eat, general mills, trix
+8081 : cereals ready-to-eat, post, honey nut shredded wheat
+8082 : cereals ready-to-eat, general mills, wheat chex
+8083 : cereals ready-to-eat, malt-o-meal, corn bursts
+8084 : cereals ready-to-eat, wheat germ, toasted, plain
+8087 : cereals ready-to-eat, general mills, multi-grain cheerios
+8089 : cereals ready-to-eat, general mills, wheaties
+8090 : cereals, corn grits, white, regular and quick, enriched, dry
+8092 : cereals, quaker, corn grits, instant, plain, dry
+8100 : cereals, cream of rice, dry
+8102 : cereals, cream of wheat, regular, 10 minute cooking, dry
+8106 : cereals, cream of wheat, instant, dry
+8120 : cereals, oats, regular and quick, not fortified, dry
+8122 : cereals, oats, instant, fortified, plain, dry
+8138 : cereals ready-to-eat, malt-o-meal, marshmallow mateys
+8144 : cereals, whole wheat hot natural cereal, dry
+8146 : cereals ready-to-eat, quaker, quaker puffed wheat
+8147 : cereals ready-to-eat, post, shredded wheat, original big biscuit
+8148 : cereals ready-to-eat, post, shredded wheat, original spoon-size
+8194 : cereals ready-to-eat, general mills, reese's puffs
+8200 : cereals, quaker, quaker multigrain oatmeal, dry
+8202 : cereals ready-to-eat, general mills, oatmeal crisp, crunchy almond
+8204 : cereals ready-to-eat, chocolate-flavored frosted puffed corn
+8206 : cereals ready-to-eat, malt-o-meal, coco-roos
+8211 : cereals ready-to-eat, quaker, honey graham oh!s
+8214 : cereals ready-to-eat, quaker, oatmeal squares
+8216 : cereals ready-to-eat, quaker, toasted multigrain crisps
+8218 : cereals ready-to-eat, quaker, quaker 100% natural granola with oats, wheat, honey, and raisins
+8220 : cereals ready-to-eat, quaker, low fat 100% natural granola with raisins
+8239 : cereals ready-to-eat, general mills, berry burst cheerios, triple berry
+8243 : cereals ready-to-eat, general mills, honey nut clusters
+8244 : cereals ready-to-eat, general mills, fiber one bran cereal
+8259 : cereals ready-to-eat, kellogg, kellogg's crispix
+8261 : cereals ready-to-eat, general mills, raisin nut bran
+8263 : cereals ready-to-eat, general mills, apple cinnamon cheerios
+8267 : cereals ready-to-eat, general mills, frosted cheerios
+8268 : cereals ready-to-eat, general mills, frankenberry
+8270 : cereals ready-to-eat, general mills, count chocula
+8271 : cereals ready-to-eat, general mills, cocoa puffs
+8272 : cereals ready-to-eat, general mills, cinnamon toast crunch
+8286 : cereals ready-to-eat, kellogg, kellogg's mueslix
+8288 : cereals ready-to-eat, kellogg, kellogg's rice krispies treats cereal
+8318 : cereals ready-to-eat, kellogg, kellogg's smart start strong heart antioxidants cereal
+8346 : cereals ready-to-eat, malt-o-meal, colossal crunch
+8349 : cereals ready-to-eat, malt-o-meal, tootie fruities
+8376 : cereals ready-to-eat, kellogg, kellogg's marshmallow froot loops
+8380 : cereals ready-to-eat, kellogg, kellogg's, raisin bran crunch
+8383 : cereals ready-to-eat, kellogg, kellogg's special k red berries
+8386 : cereals ready-to-eat, kashi golean crunch!
+8387 : cereals ready-to-eat, kashi heart to heart, honey toasted oat
+8388 : cereals ready-to-eat, kashi 7 whole grain puffs
+8393 : cereals ready-to-eat, kashi golean
+8409 : cereals ready-to-eat, malt-o-meal, frosted flakes
+8435 : cereals ready-to-eat, uncle sam cereal
+8462 : cereals ready-to-eat, kashi, organic promise autumn wheat
+8484 : cereals ready-to-eat, malt-o-meal, raisin bran cereal
+8494 : cereals ready-to-eat, malt-o-meal, cinnamon toasters
+8495 : cereals ready-to-eat, malt-o-meal, cocoa dyno-bites
+8500 : cereals ready-to-eat, malt-o-meal, frosted mini spooners
+8501 : cereals ready-to-eat, malt-o-meal, fruity dyno-bites
+8510 : milk and cereal bar
+8513 : cereals ready-to-eat, general mills, chocolate lucky charms
+8531 : cereals ready-to-eat, kellogg, special k, fruit & yogurt
+8543 : cereals ready-to-eat, kellogg's, special k vanilla almond
+8544 : cereals ready-to-eat, post great grains cranberry almond crunch
+8546 : rice and wheat cereal bar
+8550 : cereals ready-to-eat, quaker, christmas crunch
+8560 : cereals ready-to-eat, kashi go lean crunch!, honey almond flax
+8571 : cereals ready-to-eat, nature's path, organic flax plus, pumpkin granola
+8579 : cereals ready-to-eat, general mills, 25% less sugar cinnamon toast crunch
+8583 : cereals ready-to-eat, general mills, fruity cheerios
+8584 : cereals ready-to-eat, kellogg's special k chocolatey delight
+8592 : cereals ready-to-eat, general mills, cheerios, banana nut
+8593 : cereals ready-to-eat, general mills, cheerios, chocolate
+8594 : cereals ready-to-eat, general mills, chocolate chex
+8595 : cereals ready-to-eat, general mills, cinnamon chex
+8598 : cereals ready-to-eat, general mills, fiber one, honey clusters
+8599 : cereals ready-to-eat, general mills, fiber one, raisin bran clusters
+8602 : cereals ready-to-eat, kellogg, kellogg's special k, cinnamon pecan
+8603 : cereals ready-to-eat, kellogg, kellogg's special k blueberry
+8633 : cereals ready-to-eat, post, honey bunches of oats with vanilla bunches
+8637 : cereals ready-to-eat, general mills, oat cluster cheerios crunch
+8643 : cereals ready-to-eat, general mills, honey kix
+8656 : cereals ready-to-eat, nature's path, organic flax plus flakes
+8657 : cereals ready-to-eat, barbara's puffins, original
+8680 : cereals, oats, instant, fortified, maple and brown sugar, dry
+9003 : apples, raw, with skin (includes foods for usda's food distribution program)
+9004 : apples, raw, without skin
+9011 : apples, dried, sulfured, uncooked
+9016 : apple juice, canned or bottled, unsweetened, without added ascorbic acid
+9017 : apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid
+9019 : applesauce, canned, unsweetened, without added ascorbic acid (includes foods for usda's food distribution program)
+9020 : applesauce, canned, sweetened, without salt
+9021 : apricots, raw
+9022 : apricots, canned, water pack, with skin, solids and liquids
+9032 : apricots, dried, sulfured, uncooked
+9036 : apricot nectar, canned, with added ascorbic acid
+9037 : avocados, raw, all commercial varieties
+9040 : bananas, raw
+9042 : blackberries, raw
+9043 : blackberry juice, canned
+9044 : cherries, tart, dried, sweetened (includes foods for usda's food distribution program)
+9048 : blackberries, frozen, unsweetened
+9050 : blueberries, raw
+9054 : blueberries, frozen, unsweetened (includes foods for usda's food distribution program)
+9059 : breadfruit, raw
+9060 : carambola, (starfruit), raw
+9064 : cherries, sour, red, canned, water pack, solids and liquids
+9070 : cherries, sweet, raw
+9071 : cherries, sweet, canned, water pack, solids and liquids
+9078 : cranberries, raw
+9079 : cranberries, dried, sweetened (includes foods for usda's food distribution program)
+9081 : cranberry sauce, canned, sweetened
+9085 : currants, zante, dried
+9087 : dates, deglet noor
+9089 : figs, raw
+9094 : figs, dried, uncooked
+9096 : fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids
+9112 : grapefruit, raw, pink and red, all areas
+9119 : grapefruit, sections, canned, water pack, solids and liquids
+9123 : grapefruit juice, white, canned or bottled, unsweetened
+9125 : grapefruit juice, white, frozen concentrate, unsweetened, undiluted
+9127 : grapefruit juice, pink or red, with added calcium
+9128 : grapefruit juice, white, raw
+9130 : grape juice, canned or bottled, unsweetened, with added ascorbic acid
+9132 : grapes, red or green (european type, such as thompson seedless), raw
+9135 : grape juice, canned or bottled, unsweetened, without added ascorbic acid
+9139 : guavas, common, raw
+9143 : guava sauce, cooked
+9148 : kiwifruit, green, raw
+9149 : kumquats, raw
+9150 : lemons, raw, without peel
+9152 : lemon juice, raw
+9153 : lemon juice from concentrate, canned or bottled
+9156 : lemon peel, raw
+9159 : limes, raw
+9160 : lime juice, raw
+9161 : lime juice, canned or bottled, unsweetened
+9163 : blueberries, dried, sweetened
+9164 : litchis, raw
+9176 : mangos, raw
+9178 : mango, dried, sweetened
+9181 : melons, cantaloupe, raw
+9183 : melons, casaba, raw
+9184 : melons, honeydew, raw
+9191 : nectarines, raw
+9193 : olives, ripe, canned (small-extra large)
+9194 : olives, ripe, canned (jumbo-super colossal)
+9195 : olives, pickled, canned or bottled, green
+9200 : oranges, raw, all commercial varieties
+9206 : orange juice, raw (includes foods for usda's food distribution program)
+9207 : orange juice, canned, unsweetened
+9209 : orange juice, chilled, includes from concentrate
+9210 : orange juice, chilled, includes from concentrate, with added calcium and vitamin d
+9211 : orange juice, chilled, includes from concentrate, with added calcium
+9213 : orange juice, frozen concentrate, unsweetened, undiluted, with added calcium
+9214 : orange juice, frozen concentrate, unsweetened, undiluted
+9218 : tangerines, (mandarin oranges), raw
+9219 : tangerines, (mandarin oranges), canned, juice pack
+9221 : tangerine juice, raw
+9226 : papayas, raw
+9229 : papaya nectar, canned
+9231 : passion-fruit, (granadilla), purple, raw
+9232 : passion-fruit juice, purple, raw
+9236 : peaches, yellow, raw
+9237 : peaches, canned, water pack, solids and liquids
+9246 : peaches, dried, sulfured, uncooked
+9251 : peach nectar, canned, with sucralose, without added ascorbic acid
+9252 : pears, raw
+9253 : pears, canned, water pack, solids and liquids
+9259 : pears, dried, sulfured, uncooked
+9262 : pear nectar, canned, without added ascorbic acid
+9263 : persimmons, japanese, raw
+9266 : pineapple, raw, all varieties
+9267 : pineapple, canned, water pack, solids and liquids
+9273 : pineapple juice, canned or bottled, unsweetened, without added ascorbic acid
+9277 : plantains, yellow, raw
+9279 : plums, raw
+9286 : pomegranates, raw
+9291 : plums, dried (prunes), uncooked
+9294 : prune juice, canned
+9298 : raisins, dark, seedless (includes foods for usda's food distribution program)
+9302 : raspberries, raw
+9307 : rhubarb, raw
+9316 : strawberries, raw
+9317 : strawberries, canned, heavy syrup pack, solids and liquids
+9318 : strawberries, frozen, unsweetened (includes foods for usda's food distribution program)
+9322 : tamarinds, raw
+9326 : watermelon, raw
+9328 : maraschino cherries, canned, drained
+9340 : pears, asian, raw
+9352 : blueberries, canned, light syrup, drained
+9400 : apple juice, canned or bottled, unsweetened, with added ascorbic acid
+9409 : pineapple juice, canned or bottled, unsweetened, with added ascorbic acid
+9426 : candied fruit
+9434 : guanabana nectar, canned
+9436 : mango nectar, canned
+9442 : pomegranate juice, bottled
+9443 : juice, apple and grape blend, with added ascorbic acid
+9452 : orange pineapple juice blend
+9508 : fruit juice smoothie, naked juice, green machine
+9512 : grape juice, canned or bottled, unsweetened, with added ascorbic acid and calcium
+9517 : apple juice, canned or bottled, unsweetened, with added ascorbic acid, calcium, and potassium
+9519 : guava nectar, with sucralose, canned
+9522 : cranberry juice blend, 100% juice, bottled, with added vitamin c and calcium
+9531 : fruit juice smoothie, naked juice, strawberry banana
+10002 : pork, fresh, composite of trimmed retail cuts (leg, loin, shoulder), separable lean only, raw
+10003 : pork, fresh, composite of trimmed leg, loin, shoulder, and spareribs, (includes cuts to be cured), separable lean and fat, raw
+10007 : pork, fresh, separable fat, cooked
+10009 : pork, fresh, leg (ham), whole, separable lean and fat, cooked, roasted
+10011 : pork, fresh, leg (ham), whole, separable lean only, cooked, roasted
+10020 : pork, fresh, loin, whole, separable lean and fat, raw
+10023 : pork, fresh, loin, whole, separable lean and fat, cooked, roasted
+10024 : pork, fresh, loin, whole, separable lean only, raw
+10025 : pork, fresh, loin, whole, separable lean only, cooked, braised
+10027 : pork, fresh, loin, whole, separable lean only, cooked, roasted
+10049 : pork, fresh, loin, center rib (chops), bone-in, separable lean only, cooked, braised
+10060 : pork, fresh, loin, tenderloin, separable lean only, raw
+10061 : pork, fresh, loin, tenderloin, separable lean only, cooked, roasted
+10062 : pork, fresh, loin, top loin (chops), boneless, separable lean and fat, raw
+10066 : pork, fresh, loin, top loin (chops), boneless, separable lean only, raw
+10070 : pork, fresh, shoulder, whole, separable lean and fat, raw
+10071 : pork, fresh, shoulder, whole, separable lean and fat, cooked, roasted
+10073 : pork, fresh, shoulder, whole, separable lean only, cooked, roasted
+10075 : pork, fresh, shoulder, arm picnic, separable lean and fat, cooked, braised
+10078 : pork, fresh, shoulder, arm picnic, separable lean only, cooked, braised
+10080 : pork, fresh, shoulder, (boston butt), blade (steaks), separable lean and fat, raw
+10084 : pork, fresh, shoulder, (boston butt), blade (steaks), separable lean only, raw
+10085 : pork, fresh, shoulder, (boston butt), blade (steaks), separable lean only, cooked, braised
+10088 : pork, fresh, spareribs, separable lean and fat, raw
+10089 : pork, fresh, spareribs, separable lean and fat, cooked, braised
+10093 : pork, fresh, composite of trimmed retail cuts (leg, loin, and shoulder), separable lean only, cooked
+10099 : pork, fresh, variety meats and by-products, chitterlings, cooked, simmered
+10119 : pork, fresh, variety meats and by-products, stomach, raw
+10123 : pork, cured, bacon, unprepared
+10132 : pork, cured, feet, pickled
+10136 : pork, cured, ham, boneless, regular (approximately 11% fat), roasted
+10137 : pork, cured, ham, extra lean (approximately 4% fat), canned, unheated
+10141 : pork, cured, ham, center slice, country-style, separable lean only, raw
+10152 : pork, cured, ham, whole, separable lean only, unheated
+10153 : pork, cured, ham, whole, separable lean only, roasted
+10165 : pork, cured, salt pork, raw
+10168 : pork, cured, shoulder, arm picnic, separable lean and fat, roasted
+10169 : pork, cured, shoulder, arm picnic, separable lean only, roasted
+10173 : pork, fresh, variety meats and by-products, feet, cooked, simmered
+10182 : pork, cured, ham, boneless, extra lean and regular, unheated
+10183 : pork, cured, ham, boneless, extra lean and regular, roasted
+10184 : pork, cured, ham, extra lean and regular, canned, unheated
+10185 : pork, cured, ham, extra lean and regular, canned, roasted
+10188 : pork, fresh, composite of trimmed retail cuts (leg, loin, shoulder, and spareribs), separable lean and fat, cooked
+10218 : pork, fresh, loin, tenderloin, separable lean and fat, raw
+10220 : pork, fresh, ground, cooked
+10227 : pork, fresh, composite of trimmed retail cuts (loin and shoulder blade), separable lean and fat, cooked
+10862 : pork, cured, bacon, pre-sliced, cooked, pan-fried
+10871 : pork, cured, ham and water product, whole, boneless, separable lean only, heated, roasted
+10872 : pork, cured, ham and water product, whole, boneless, separable lean only, unheated
+10879 : pork, cured, ham -- water added, whole, boneless, separable lean only, heated, roasted
+10880 : pork, cured, ham -- water added, whole, boneless, separable lean only, unheated
+10883 : pork, cured, ham with natural juices, whole, boneless, separable lean only, heated, roasted
+10884 : pork, cured, ham with natural juices, whole, boneless, separable lean only, unheated
+10900 : pork, cured, ham with natural juices, whole, boneless, separable lean and fat, unheated
+10905 : pork, cured, ham and water product, whole, boneless, separable lean and fat, unheated
+10909 : pork, cured, ham -- water added, whole, boneless, separable lean and fat, unheated
+10917 : pork, cured, ham -- water added, whole, boneless, separable lean and fat, heated, roasted
+10922 : pork, cured, ham and water product, whole, boneless, separable lean and fat, heated, roasted
+10928 : pork, cured, ham with natural juices, whole, boneless, separable lean and fat, heated, roasted
+10935 : pork, cured, ham, shank, bone-in, separable lean and fat, heated, roasted
+10944 : pork, fresh, enhanced, loin, tenderloin, separable lean only, raw
+10946 : pork, fresh, shoulder, (boston butt), blade (steaks), separable lean only, with added solution, raw
+10948 : pork, fresh, loin, top loin (chops), boneless, separable lean only, with added solution, raw
+10949 : pork, fresh, loin, top loin (chops), boneless, separable lean and fat, with added solution, raw
+10951 : pork, fresh, loin, tenderloin, separable lean and fat, with added solution, raw
+10953 : pork, fresh, shoulder, (boston butt), blade (steaks), separable lean and fat,with added solution, raw
+10998 : canadian bacon, cooked, pan-fried
+11001 : alfalfa seeds, sprouted, raw
+11008 : artichokes, (globe or french), cooked, boiled, drained, without salt
+11011 : asparagus, raw
+11015 : asparagus, canned, drained solids
+11019 : asparagus, frozen, cooked, boiled, drained, without salt
+11023 : balsam-pear (bitter gourd), leafy tips, cooked, boiled, drained, without salt
+11025 : balsam-pear (bitter gourd), pods, cooked, boiled, drained, without salt
+11028 : bamboo shoots, canned, drained solids
+11032 : lima beans, immature seeds, cooked, boiled, drained, without salt
+11038 : lima beans, immature seeds, frozen, fordhook, cooked, boiled, drained, without salt
+11040 : lima beans, immature seeds, frozen, baby, cooked, boiled, drained, without salt
+11043 : mung beans, mature seeds, sprouted, raw
+11044 : mung beans, mature seeds, sprouted, cooked, boiled, drained, without salt
+11052 : beans, snap, green, raw
+11056 : beans, snap, green, canned, regular pack, drained solids
+11061 : beans, snap, green, frozen, cooked, boiled, drained without salt
+11080 : beets, raw
+11084 : beets, canned, drained solids
+11086 : beet greens, raw
+11090 : broccoli, raw
+11093 : broccoli, frozen, chopped, cooked, boiled, drained, without salt
+11096 : broccoli raab, raw
+11098 : brussels sprouts, raw
+11101 : brussels sprouts, frozen, cooked, boiled, drained, without salt
+11104 : burdock root, raw
+11109 : cabbage, raw
+11112 : cabbage, red, raw
+11114 : cabbage, savoy, raw
+11116 : cabbage, chinese (pak-choi), raw
+11118 : cabbage, kimchi
+11124 : carrots, raw
+11125 : carrots, cooked, boiled, drained, without salt
+11128 : carrots, canned, regular pack, drained solids
+11131 : carrots, frozen, cooked, boiled, drained, without salt
+11134 : cassava, raw
+11135 : cauliflower, raw
+11138 : cauliflower, frozen, cooked, boiled, drained, without salt
+11141 : celeriac, raw
+11143 : celery, raw
+11147 : chard, swiss, raw
+11149 : chayote, fruit, raw
+11156 : chives, raw
+11161 : collards, raw
+11164 : collards, frozen, chopped, cooked, boiled, drained, without salt
+11165 : coriander (cilantro) leaves, raw
+11167 : corn, sweet, yellow, raw
+11172 : corn, sweet, yellow, canned, whole kernel, drained solids
+11174 : corn, sweet, yellow, canned, cream style, regular pack
+11179 : corn, sweet, yellow, frozen, kernels cut off cob, boiled, drained, without salt
+11196 : cowpeas (blackeyes), immature seeds, frozen, cooked, boiled, drained, without salt
+11203 : cress, garden, raw
+11205 : cucumber, with peel, raw
+11207 : dandelion greens, raw
+11209 : eggplant, raw
+11212 : edamame, frozen, prepared
+11214 : escarole, cooked, boiled, drained, no salt added
+11215 : garlic, raw
+11216 : ginger root, raw
+11233 : kale, raw
+11236 : kale, frozen, cooked, boiled, drained, without salt
+11241 : kohlrabi, raw
+11245 : lambsquarters, cooked, boiled, drained, without salt
+11246 : leeks, (bulb and lower leaf-portion), raw
+11250 : lettuce, butterhead (includes boston and bibb types), raw
+11251 : lettuce, cos or romaine, raw
+11252 : lettuce, iceberg (includes crisphead types), raw
+11253 : lettuce, green leaf, raw
+11255 : lotus root, cooked, boiled, drained, without salt
+11257 : lettuce, red leaf, raw
+11260 : mushrooms, white, raw
+11261 : mushrooms, white, cooked, boiled, drained, without salt
+11264 : mushrooms, canned, drained solids
+11269 : mushrooms, shiitake, cooked, without salt
+11270 : mustard greens, raw
+11273 : mustard greens, frozen, cooked, boiled, drained, without salt
+11278 : okra, raw
+11281 : okra, frozen, cooked, boiled, drained, without salt
+11282 : onions, raw
+11283 : onions, cooked, boiled, drained, without salt
+11290 : onions, frozen, whole, cooked, boiled, drained, without salt
+11291 : onions, spring or scallions (includes tops and bulb), raw
+11296 : onion rings, breaded, par fried, frozen, prepared, heated in oven
+11297 : parsley, fresh
+11299 : parsnips, cooked, boiled, drained, without salt
+11300 : peas, edible-podded, raw
+11303 : peas, edible-podded, frozen, cooked, boiled, drained, without salt
+11304 : peas, green, raw
+11308 : peas, green (includes baby and lesuer types), canned, drained solids, unprepared
+11313 : peas, green, frozen, cooked, boiled, drained, without salt
+11333 : peppers, sweet, green, raw
+11334 : peppers, sweet, green, cooked, boiled, drained, without salt
+11351 : pokeberry shoots, (poke), cooked, boiled, drained, without salt
+11352 : potatoes, flesh and skin, raw
+11363 : potatoes, baked, flesh, without salt
+11364 : potatoes, baked, skin, without salt
+11367 : potatoes, boiled, cooked without skin, flesh, without salt
+11378 : potatoes, mashed, dehydrated, flakes without milk, dry form
+11391 : potatoes, hash brown, frozen, plain, prepared, pan fried in canola oil
+11398 : potato puffs, frozen, unprepared
+11403 : potatoes, french fried, all types, salt added in processing, frozen, home-prepared, oven heated
+11413 : potato flour
+11417 : pumpkin flowers, cooked, boiled, drained, without salt
+11422 : pumpkin, raw
+11424 : pumpkin, canned, without salt
+11429 : radishes, raw
+11435 : rutabagas, raw
+11438 : salsify, cooked, boiled, drained, without salt
+11439 : sauerkraut, canned, solids and liquids
+11445 : seaweed, kelp, raw
+11446 : seaweed, laver, raw
+11457 : spinach, raw
+11461 : spinach, canned, regular pack, drained solids
+11464 : spinach, frozen, chopped or leaf, cooked, boiled, drained, without salt
+11467 : squash, summer, crookneck and straightneck, raw
+11471 : squash, summer, crookneck and straightneck, canned, drained, solid, without salt
+11474 : squash, summer, crookneck and straightneck, frozen, cooked, boiled, drained, without salt
+11477 : squash, summer, zucchini, includes skin, raw
+11480 : squash, summer, zucchini, includes skin, frozen, cooked, boiled, drained, without salt
+11493 : squash, winter, spaghetti, cooked, boiled, drained, or baked, without salt
+11506 : sweet potato leaves, cooked, steamed, without salt
+11507 : sweet potato, raw, unprepared (includes foods for usda's food distribution program)
+11508 : sweet potato, cooked, baked in skin, flesh, without salt
+11510 : sweet potato, cooked, boiled, without skin
+11512 : sweet potato, canned, vacuum pack
+11518 : taro, raw
+11520 : taro leaves, raw
+11527 : tomatoes, green, raw
+11529 : tomatoes, red, ripe, raw, year round average
+11531 : tomatoes, red, ripe, canned, packed in tomato juice
+11540 : tomato juice, canned, with salt added
+11546 : tomato products, canned, paste, without salt added (includes foods for usda's food distribution program)
+11547 : tomato products, canned, puree, without salt added
+11549 : tomato products, canned, sauce
+11564 : turnips, raw
+11569 : turnip greens, cooked, boiled, drained, without salt
+11575 : turnip greens, frozen, cooked, boiled, drained, without salt
+11578 : vegetable juice cocktail, canned
+11584 : vegetables, mixed, frozen, cooked, boiled, drained, without salt
+11590 : waterchestnuts, chinese, canned, solids and liquids
+11591 : watercress, raw
+11594 : waxgourd, (chinese preserving melon), cooked, boiled, drained, without salt
+11602 : yam, cooked, boiled, drained, or baked, without salt
+11603 : yambean (jicama), raw
+11609 : beets, pickled, canned, solids and liquids
+11644 : squash, winter, all varieties, cooked, baked, without salt
+11655 : carrot juice, canned
+11663 : seaweed, agar, dried
+11667 : seaweed, spirulina, dried
+11669 : seaweed, wakame, raw
+11674 : potatoes, baked, flesh and skin, without salt
+11729 : beans, snap, green, canned, no salt added, drained solids
+11732 : beans, snap, yellow, frozen, cooked, boiled, drained, without salt
+11735 : beets, canned, no salt added, solids and liquids
+11758 : carrots, canned, no salt added, solids and liquids
+11771 : corn, sweet, yellow, canned, no salt added, solids and liquids (includes foods for usda's food distribution program)
+11812 : peas, green, canned, no salt added, solids and liquids
+11819 : peppers, hot chili, red, raw
+11821 : peppers, sweet, red, raw
+11885 : tomatoes, red, ripe, canned, packed in tomato juice, no salt added
+11888 : tomato products, canned, puree, with salt added
+11935 : catsup
+11937 : pickles, cucumber, dill or kosher dill
+11940 : pickles, cucumber, sweet (includes bread and butter pickles)
+11943 : pimento, canned
+11945 : pickle relish, sweet
+11949 : catsup, low sodium
+11952 : radicchio, raw
+11954 : tomatillos, raw
+11955 : tomatoes, sun-dried
+11957 : fennel, bulb, raw
+11959 : arugula, raw
+11963 : nopales, raw
+11965 : cauliflower, green, raw
+11974 : grape leaves, raw
+11976 : pepper, banana, raw
+11977 : peppers, serrano, raw
+11979 : peppers, jalapeno, raw
+11994 : broccoli, chinese, raw
+12016 : seeds, pumpkin and squash seed kernels, roasted, without salt
+12037 : seeds, sunflower seed kernels, dry roasted, without salt
+12061 : nuts, almonds
+12063 : nuts, almonds, dry roasted, without salt added
+12071 : nuts, almond paste
+12078 : nuts, brazilnuts, dried, unblanched
+12085 : nuts, cashew nuts, dry roasted, without salt added
+12104 : nuts, coconut meat, raw
+12109 : nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged
+12116 : nuts, coconut cream, canned, sweetened
+12117 : nuts, coconut milk, raw (liquid expressed from grated meat and water)
+12120 : nuts, hazelnuts or filberts
+12142 : nuts, pecans
+12147 : nuts, pine nuts, dried
+12152 : nuts, pistachio nuts, dry roasted, without salt added
+12154 : nuts, walnuts, black, dried
+12155 : nuts, walnuts, english
+12166 : seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)
+12167 : nuts, chestnuts, european, roasted
+12201 : seeds, sesame seed kernels, dried (decorticated)
+12220 : seeds, flaxseed
+12588 : nuts, cashew butter, plain, with salt added
+12632 : nuts, macadamia nuts, dry roasted, with salt added
+12695 : nuts, almond butter, plain, with salt added
+13020 : beef, retail cuts, separable fat, cooked
+13068 : beef, flank, steak, separable lean only, trimmed to 0 fat, choice, raw
+13069 : beef, flank, steak, separable lean only, trimmed to 0 fat, choice, cooked, braised
+13148 : beef, rib, shortribs, separable lean and fat, choice, cooked, braised
+13150 : beef, rib, shortribs, separable lean only, choice, cooked, braised
+13317 : beef, ground, patties, frozen, cooked, broiled
+13320 : beef, variety meats and by-products, brain, cooked, simmered
+13322 : beef, variety meats and by-products, heart, cooked, simmered
+13324 : beef, variety meats and by-products, kidneys, cooked, simmered
+13326 : beef, variety meats and by-products, liver, cooked, braised
+13327 : beef, variety meats and by-products, liver, cooked, pan-fried
+13340 : beef, variety meats and by-products, tongue, cooked, simmered
+13341 : beef, variety meats and by-products, tripe, raw
+13345 : beef, cured, breakfast strips, cooked
+13347 : beef, cured, corned beef, brisket, cooked
+13348 : beef, cured, corned beef, canned
+13350 : beef, cured, dried
+13355 : beef, cured, pastrami
+13364 : beef, composite of trimmed retail cuts, separable lean only, trimmed to 0 fat, all grades, cooked
+13367 : beef, brisket, whole, separable lean and fat, trimmed to 0 fat, all grades, cooked, braised
+13368 : beef, brisket, whole, separable lean only, trimmed to 0 fat, all grades, cooked, braised
+13382 : beef, chuck, blade roast, separable lean only, trimmed to 0 fat, all grades, cooked, braised
+13424 : beef, round, tip round, roast, separable lean only, trimmed to 0 fat, all grades, cooked, roasted
+13451 : beef, top sirloin, steak, separable lean and fat, trimmed to 0 fat, all grades, cooked, broiled
+13454 : beef, top sirloin, steak, separable lean only, trimmed to 0 fat, all grades, cooked, broiled
+13491 : beef, round, top round steak, boneless, separable lean only, trimmed to 0 fat, all grades, cooked, grilled
+13796 : beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8 fat, all grades, cooked
+13810 : beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8 fat, all grades, cooked, braised
+13812 : beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8 fat, choice, cooked, braised
+13814 : beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8 fat, select, cooked, braised
+13816 : beef, chuck, blade roast, separable lean and fat, trimmed to 1/8 fat, all grades, cooked, braised
+13829 : beef, rib, whole (ribs 6-12), separable lean and fat, trimmed to 1/8 fat, choice, cooked, roasted
+13840 : beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 1/8 fat, all grades, cooked, roasted
+13864 : beef, round, full cut, separable lean and fat, trimmed to 1/8 fat, choice, raw
+13865 : beef, round, full cut, separable lean and fat, trimmed to 1/8 fat, choice, cooked, broiled
+13884 : beef, round, tip round, roast, separable lean and fat, trimmed to 1/8 fat, all grades, cooked, roasted
+13886 : beef, round, tip round, roast, separable lean and fat, trimmed to 1/8 fat, choice, cooked, roasted
+13888 : beef, round, tip round, roast, separable lean and fat, trimmed to 1/8 fat, select, cooked, roasted
+13892 : beef, round, top round, separable lean and fat, trimmed to 1/8 fat, all grades, cooked, braised
+13893 : beef, round, top round steak, separable lean and fat, trimmed to 1/8 fat, all grades, cooked, broiled
+13912 : beef, short loin, top loin, steak, separable lean and fat, trimmed to 1/8 fat, choice, cooked, grilled
+13928 : beef, tenderloin, roast, separable lean and fat, trimmed to 1/8 fat, prime, cooked, roasted
+13933 : beef, top sirloin, steak, separable lean and fat, trimmed to 1/8 fat, choice, cooked, pan-fried
+13959 : beef, round, top round steak, boneless, separable lean and fat, trimmed to 0 fat, all grades, cooked, grilled
+14003 : alcoholic beverage, beer, regular, all
+14006 : alcoholic beverage, beer, light
+14013 : alcoholic beverage, beer, light, low carb
+14021 : beverages,  energy drink, citrus
+14022 : beverages, monster energy drink, low carb
+14026 : beverages, the coca-cola company, nos zero, energy drink, sugar-free with guarana, fortified with vitamins b6 and b12
+14028 : beverages, whiskey sour mix, bottled
+14030 : beverages, the coca-cola company, nos energy drink, original, grape, loaded cherry, charged citrus, fortified with vitamins b6 and b12
+14031 : beverages, water, bottled, yumberry, pomegranate with anti-oxidants, zero calories
+14033 : beverages, abbott, eas whey protein powder
+14034 : alcoholic beverage, creme de menthe, 72 proof
+14035 : beverages, abbott, eas soy protein powder
+14036 : beverages, cytosport, muscle milk, ready-to-drink
+14037 : alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof
+14038 : beverages, ocean spray, cran-energy, cranberry energy juice drink
+14041 : beverages, nestle, boost plus, nutritional drink, ready-to-drink
+14044 : beverages, slimfast, meal replacement,  high protein shake, ready-to-drink, 3-2-1 plan
+14045 : beverages, unilever, slimfast, meal replacement, regular, ready-to-drink,  3-2-1 plan
+14047 : beverages, unilever, slimfast shake mix, powder, 3-2-1 plan
+14050 : alcoholic beverage, distilled, rum, 80 proof
+14055 : beverages, unilever, slimfast shake mix, high protein, whey powder, 3-2-1 plan,
+14056 : beverages, acai berry drink, fortified
+14057 : alcoholic beverage, wine, dessert, sweet
+14058 : beverages, whey protein powder isolate
+14059 : beverages, kellogg's, special k protein shake
+14060 : beverages, energy drink with carbonated water and high fructose corn syrup
+14061 : beverages, energy drink, sugar free
+14062 : beverages, abbott, ensure, nutritional shake, ready-to-drink
+14063 : beverages, chocolate powder, no sugar added
+14064 : beverages, orange juice, light, no pulp
+14065 : beverages, the coca-cola company, hi-c flashin' fruit punch
+14066 : beverages, protein powder whey based
+14067 : beverages, protein powder soy based
+14068 : beverages, kellogg's special k20 protein powder
+14079 : beverages, yellow green colored citrus soft drink with caffeine
+14084 : alcoholic beverage, wine, table, all
+14090 : beverages, coconut water, ready-to-drink, unsweetened
+14091 : beverages, almond milk, unsweetened, shelf stable
+14093 : beverages, the coca-cola company, glaceau vitamin water, revive fruit punch, fortified
+14096 : alcoholic beverage, wine, table, red
+14106 : alcoholic beverage, wine, table, white
+14119 : beverages, mixed vegetable and fruit juice drink, with added nutrients
+14121 : beverages, carbonated, club soda
+14130 : carbonated beverage, cream soda
+14136 : beverages, carbonated, ginger ale
+14143 : beverages, carbonated, low calorie, other than cola or pepper,  without caffeine
+14145 : beverages, carbonated, sprite, lemon-lime, without caffeine
+14146 : beverages, carbonated, low calorie, cola or pepper-type, with aspartame, without caffeine
+14147 : beverages, carbonated, cola, without caffeine
+14148 : beverages, carbonated, cola, regular
+14149 : beverages, carbonated, reduced sugar, cola, contains caffeine and sweeteners
+14151 : beverages, carbonated, low calorie, other than cola or pepper, with aspartame, contains caffeine
+14154 : beverages, energy drink, red bull
+14155 : beverages, carbonated, tonic water
+14156 : beverages, energy drink, red bull, sugar free, with added caffeine, niacin, pantothenic acid, vitamins b6 and b12
+14157 : beverages, carbonated, root beer
+14162 : beverages, apple juice drink, light, fortified with vitamin c
+14163 : beverages, chocolate drink, milk and soy based, ready to drink, fortified
+14167 : beverages, powerade, zero, mixed berry
+14171 : beverages, coconut milk, sweetened, fortified with calcium, vitamins a, b12, d2
+14174 : beverages, lemonade fruit juice drink light, fortified with vitamin e and c
+14179 : beverages, coffee, ready to drink, milk based, sweetened
+14185 : beverages, tea, oolong, brewed
+14189 : beverages, the coca-cola company, minute maid, lemonade
+14190 : beverages, tea, green, ready-to-drink, diet
+14192 : beverages, cocoa mix, powder
+14196 : beverages, cocoa mix, no sugar added, powder
+14199 : beverages, tea, black, ready-to-drink, lemon, sweetened
+14201 : beverages, coffee, brewed, prepared with tap water, decaffeinated
+14202 : beverages, coffee, brewed, espresso, restaurant-prepared, decaffeinated
+14203 : beverages, coffee, instant, regular, half the caffeine
+14204 : beverages, coffee and cocoa, instant, decaffeinated, with whitener and low calorie sweetener
+14206 : beverages, tea, green, ready-to-drink, sweetened
+14207 : beverages, tea, ready-to-drink, lemon, diet
+14209 : beverages, coffee, brewed, prepared with tap water
+14210 : beverages, coffee, brewed, espresso, restaurant-prepared
+14211 : beverages, tea, black, ready-to-drink, lemon, diet
+14214 : beverages, coffee, instant, regular, powder
+14216 : beverages, aloe vera juice drink, fortified with vitamin c
+14218 : beverages, coffee, instant, decaffeinated, powder
+14224 : beverages, coffee, instant, mocha, sweetened
+14236 : beverages, coffee substitute, cereal grain beverage, powder
+14237 : beverages, coffee substitute, cereal grain beverage, prepared with water
+14239 : alcoholic beverage, malt beer, hard lemonade
+14242 : cranberry juice cocktail, bottled
+14247 : beverages, tea, black, ready to drink
+14248 : alcoholic beverage, beer, light, higher alcohol
+14250 : beverages, amber, hard cider
+14251 : alcoholic beverages, beer, higher alcohol
+14253 : alcoholic beverages, wine, rose
+14260 : beverages, tea, green, brewed, decaffeinated
+14261 : beverages, tea, green, ready to drink, unsweetened
+14262 : beverages, citrus fruit juice drink, frozen concentrate
+14267 : beverages, fruit punch drink, with added nutrients, canned
+14270 : beverages, coffee, instant, vanilla, sweetened, decaffeinated, with non dairy creamer
+14276 : beverages, tropical punch, ready-to-drink
+14278 : beverages, tea, green, brewed, regular
+14280 : beverages, tea, black, ready to drink, decaffeinated, diet
+14281 : beverages, tea, black, ready to drink, decaffeinated
+14292 : lemonade, frozen concentrate, white
+14296 : beverages, lemonade-flavor drink, powder
+14305 : malt beverage, includes non-alcoholic beer
+14311 : beverages, malted drink mix, natural, powder, dairy based.
+14315 : beverages, ovaltine, chocolate malt powder
+14347 : shake, fast food, vanilla
+14350 : strawberry-flavor beverage mix, powder
+14352 : beverages, tea, black, brewed, prepared with tap water, decaffeinated
+14353 : beverages, tea, instant, decaffeinated, unsweetened
+14355 : beverages, tea, black, brewed, prepared with tap water
+14356 : beverages, tea, instant, decaffeinated, lemon, diet
+14366 : beverages, tea, instant, unsweetened, powder
+14368 : beverages, tea, instant, lemon, unsweetened
+14370 : beverages, tea, instant, lemon, sweetened, powder
+14376 : beverages, tea, instant, lemon, diet
+14381 : beverages, tea, herb, other than chamomile, brewed
+14407 : beverages, orange-flavor drink, breakfast type, powder
+14411 : beverages, water, tap, drinking
+14414 : alcoholic beverage, liqueur, coffee, 53 proof
+14415 : alcoholic beverage, liqueur, coffee with cream, 34 proof
+14416 : beverages, carbonated, low calorie, cola or pepper-type, with aspartame, contains caffeine
+14429 : beverages, water, tap, municipal
+14436 : beverages, orange breakfast drink, ready-to-drink, with added nutrients
+14460 : beverages, pepsico quaker, gatorade, g performance o 2, ready-to-drink.
+14461 : beverages, coca-cola, powerade, lemon-lime flavored, ready-to-drink
+14462 : beverages, propel zero, fruit-flavored, non-carbonated
+14545 : beverages, tea, herb, brewed, chamomile
+14552 : carbonated beverage, chocolate-flavored soda
+14553 : beverages, wine, non-alcoholic
+14555 : water, bottled, generic
+14557 : beverages, chocolate-flavor beverage mix for milk, powder, with added nutrients
+14599 : beverages, powerade zero ion4, calorie-free, assorted flavors
+14604 : water, non-carbonated, bottles, natural fruit flavors, sweetened with low calorie sweetener
+14605 : beverages, water with added vitamins and minerals, bottles, sweetened, assorted fruit flavors
+14625 : beverages, energy drink, amp
+14626 : beverages, energy drink, full throttle
+14627 : beverages, energy drink, monster, fortified with vitamins c, b2, b3, b6, b12
+14628 : beverages, energy drink, amp, sugar free
+14629 : beverages, energy drink, rockstar
+14630 : beverages, energy drink, rockstar, sugar free
+14633 : beverages, vegetable and fruit juice drink, reduced calorie, with low-calorie sweetener, added vitamin c
+14634 : beverages, milk beverage, reduced fat, flavored and sweetened, ready-to-drink,  added calcium, vitamin a and vitamin d
+14635 : beverages, vegetable and fruit juice blend, 100% juice, with added vitamins a, c, e
+14636 : beverages, fruit juice drink, reduced sugar, with vitamin e added
+14637 : water, with corn syrup and/or sugar and low calorie sweetener, fruit flavored
+14639 : beverages, rice milk, unsweetened
+14640 : beverages, energy drink, vault, citrus flavor
+14641 : beverages, energy drink, vault zero, sugar-free, citrus flavor
+14644 : beverages, pepsico quaker, gatorade g2, low calorie
+14645 : beverages, fruit flavored drink, less than 3% juice, not fortified with vitamin c
+14646 : beverages, fruit flavored drink containing less than 3% fruit juice, with high vitamin c
+14648 : beverages, fruit juice drink, greater than 3% fruit juice, high vitamin c and added thiamin
+14649 : beverages, tea, hibiscus, brewed
+14651 : beverages, fruit juice drink, greater than 3% juice, high vitamin c
+14654 : beverages, nutritional shake mix, high protein, powder
+15002 : fish, anchovy, european, canned in oil, drained solids
+15008 : fish, carp, raw
+15012 : fish, caviar, black and red, granular
+15016 : fish, cod, atlantic, cooked, dry heat
+15017 : fish, cod, atlantic, canned, solids and liquid
+15018 : fish, cod, atlantic, dried and salted
+15019 : fish, cod, pacific, raw (may have been previously frozen)
+15020 : fish, croaker, atlantic, raw
+15025 : fish, eel, mixed species, raw
+15027 : fish, fish sticks, frozen, prepared
+15028 : fish, flatfish (flounder and sole species), raw
+15033 : fish, haddock, raw
+15035 : fish, haddock, smoked
+15036 : fish, halibut, atlantic and pacific, raw
+15039 : fish, herring, atlantic, raw
+15040 : fish, herring, atlantic, cooked, dry heat
+15041 : fish, herring, atlantic, pickled
+15042 : fish, herring, atlantic, kippered
+15046 : fish, mackerel, atlantic, raw
+15048 : fish, mackerel, jack, canned, drained solids
+15050 : fish, mackerel, pacific and jack, mixed species, raw
+15055 : fish, mullet, striped, raw
+15057 : fish, ocean perch, atlantic, raw
+15060 : fish, perch, mixed species, raw
+15062 : fish, pike, northern, raw
+15066 : fish, pollock, raw
+15068 : fish, pompano, florida, raw
+15072 : fish, roe, mixed species, raw
+15077 : fish, salmon, chinook, smoked
+15080 : fish, salmon, chum, canned, drained solids with bone
+15083 : fish, salmon, pink, raw
+15084 : fish, salmon, pink, canned, total can contents
+15085 : fish, salmon, sockeye, raw
+15087 : fish, salmon, sockeye, canned, drained solids
+15088 : fish, sardine, atlantic, canned in oil, drained solids with bone
+15089 : fish, sardine, pacific, canned in tomato sauce, drained solids with bone
+15090 : fish, scup, raw
+15091 : fish, sea bass, mixed species, raw
+15095 : fish, shark, mixed species, raw
+15101 : fish, snapper, mixed species, raw
+15104 : fish, sturgeon, mixed species, raw
+15106 : fish, sturgeon, mixed species, smoked
+15110 : fish, swordfish, raw
+15119 : fish, tuna, light, canned in oil, drained solids
+15121 : fish, tuna, light, canned in water, drained solids
+15127 : fish, tuna, fresh, yellowfin, raw
+15130 : fish, whitefish, mixed species, raw
+15132 : fish, whiting, mixed species, raw
+15138 : crustaceans, crab, alaska king, imitation, made from surimi
+15140 : crustaceans, crab, blue, cooked, moist heat
+15141 : crustaceans, crab, blue, canned
+15145 : crustaceans, crayfish, mixed species, wild, raw
+15146 : crustaceans, crayfish, mixed species, wild, cooked, moist heat
+15147 : crustaceans, lobster, northern, raw
+15148 : crustaceans, lobster, northern, cooked, moist heat
+15149 : crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)
+15151 : crustaceans, shrimp, mixed species, cooked, moist heat (may contain additives to retain moisture)
+15152 : crustaceans, shrimp, mixed species, canned
+15155 : mollusks, abalone, mixed species, raw
+15157 : mollusks, clam, mixed species, raw
+15160 : mollusks, clam, mixed species, canned, drained solids
+15162 : mollusks, clam, mixed species, canned, liquid
+15164 : mollusks, mussel, blue, raw
+15166 : mollusks, octopus, common, raw
+15167 : mollusks, oyster, eastern, wild, raw
+15170 : mollusks, oyster, eastern, canned
+15172 : mollusks, scallop, mixed species, raw
+15175 : mollusks, squid, mixed species, raw
+15192 : fish, cod, pacific, cooked, dry heat (may contain additives to retain moisture)
+15201 : fish, mackerel, pacific and jack, mixed species, cooked, dry heat
+15230 : mollusks, octopus, common, cooked, moist heat
+15234 : fish, catfish, channel, farmed, raw
+15240 : fish, trout, rainbow, farmed, raw
+15261 : fish, tilapia, raw
+16006 : beans, baked, canned, plain or vegetarian
+16010 : beans, baked, canned, with pork and sweet sauce
+16014 : beans, black, mature seeds, raw
+16015 : beans, black, mature seeds, cooked, boiled, without salt
+16017 : beans, black turtle, mature seeds, cooked, boiled, without salt
+16018 : beans, black turtle, mature seeds, canned
+16026 : beans, great northern, mature seeds, canned
+16028 : beans, kidney, all types, mature seeds, cooked, boiled, without salt
+16033 : beans, kidney, red, mature seeds, cooked, boiled, without salt
+16034 : beans, kidney, red, mature seeds, canned, solids and liquids
+16041 : beans, pink, mature seeds, cooked, boiled, without salt
+16042 : beans, pinto, mature seeds, raw (includes foods for usda's food distribution program)
+16043 : beans, pinto, mature seeds, cooked, boiled, without salt
+16048 : beans, yellow, mature seeds, cooked, boiled, without salt
+16050 : beans, white, mature seeds, cooked, boiled, without salt
+16053 : broadbeans (fava beans), mature seeds, cooked, boiled, without salt
+16056 : chickpeas (garbanzo beans, bengal gram), mature seeds, raw
+16057 : chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt
+16059 : chili with beans, canned
+16063 : cowpeas, common (blackeyes, crowder, southern), mature seeds, cooked, boiled, without salt
+16069 : lentils, raw
+16070 : lentils, mature seeds, cooked, boiled, without salt
+16072 : lima beans, large, mature seeds, cooked, boiled, without salt
+16081 : mung beans, mature seeds, cooked, boiled, without salt
+16082 : noodles, chinese, cellophane or long rice (mung beans), dehydrated
+16086 : peas, split, mature seeds, cooked, boiled, without salt
+16087 : peanuts, all types, raw
+16088 : peanuts, all types, cooked, boiled, with salt
+16089 : peanuts, all types, oil-roasted, with salt
+16090 : peanuts, all types, dry-roasted, with salt
+16098 : peanut butter, smooth style, with salt (includes foods for usda's food distribution program)
+16099 : peanut flour, defatted
+16103 : refried beans, canned, traditional style
+16104 : bacon, meatless
+16107 : sausage, meatless
+16109 : soybeans, mature cooked, boiled, without salt
+16110 : soybeans, mature seeds, roasted, salted
+16112 : miso
+16113 : natto
+16115 : soy flour, full-fat, raw
+16117 : soy flour, defatted
+16122 : soy protein isolate
+16123 : soy sauce made from soy and wheat (shoyu)
+16127 : tofu, soft, prepared with calcium sulfate and magnesium chloride (nigari)
+16129 : tofu, fried
+16139 : soymilk, original and vanilla, with added calcium, vitamins a and d
+16147 : veggie burgers or soyburgers, unprepared
+16149 : peanut spread, reduced sugar
+16150 : peanut butter, smooth, reduced fat
+16155 : peanut butter, smooth, vitamin and mineral fortified
+16168 : soymilk, chocolate, with added calcium, vitamins a and d
+16225 : soymilk, original and vanilla, light, with added calcium, vitamins a and d
+16227 : soymilk, chocolate and other flavors, light, with added calcium, vitamins a and d
+16230 : soymilk (all flavors), nonfat, with added calcium, vitamins a and d
+16316 : beans, black, mature seeds, canned, low sodium
+16326 : beans, great northern, mature seeds, canned, low sodium
+16337 : beans, kidney, red, mature seeds, canned, solids and liquid, low sodium
+16347 : beans, pinto, mature seeds, canned, solids and liquids, low sodium
+16360 : chickpeas (garbanzo beans, bengal gram), mature seeds, canned, solids and liquids, low sodium
+16389 : peanuts, all types, oil-roasted, without salt
+16390 : peanuts, all types, dry-roasted, without salt
+16398 : peanut butter, smooth style, without salt
+16403 : refried beans, canned, traditional, reduced sodium
+16424 : soy sauce made from soy and wheat (shoyu), low sodium
+17002 : lamb, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/4 fat, choice, cooked
+17008 : lamb, foreshank, separable lean and fat, trimmed to 1/4 fat, choice, cooked, braised
+17012 : lamb, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/4 fat, choice, cooked, roasted
+17014 : lamb, leg, whole (shank and sirloin), separable lean only, trimmed to 1/4 fat, choice, cooked, roasted
+17024 : lamb, loin, separable lean and fat, trimmed to 1/4 fat, choice, cooked, broiled
+17027 : lamb, loin, separable lean only, trimmed to 1/4 fat, choice, cooked, broiled
+17030 : lamb, rib, separable lean and fat, trimmed to 1/4 fat, choice, cooked, broiled
+17033 : lamb, rib, separable lean only, trimmed to 1/4 fat, choice, cooked, broiled
+17035 : lamb, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/4 fat, choice, raw
+17038 : lamb, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/4 fat, choice, cooked, roasted
+17039 : lamb, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4 fat, choice, raw
+17042 : lamb, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4 fat, choice, cooked, roasted
+17060 : lamb, cubed for stew or kabob (leg and shoulder), separable lean only, trimmed to 1/4 fat, cooked, braised
+17089 : veal, composite of trimmed retail cuts, separable lean and fat, cooked
+17091 : veal, composite of trimmed retail cuts, separable lean only, cooked
+17094 : veal, leg (top round), separable lean and fat, raw
+17095 : veal, leg (top round), separable lean and fat, cooked, braised
+17096 : veal, leg (top round), separable lean and fat, cooked, pan-fried, breaded
+17097 : veal, leg (top round), separable lean and fat, cooked, pan-fried, not breaded
+17098 : veal, leg (top round), separable lean and fat, cooked, roasted
+17101 : veal, leg (top round), separable lean only, cooked, pan-fried, breaded
+17102 : veal, leg (top round), separable lean only, cooked, pan-fried, not breaded
+17104 : veal, loin, separable lean and fat, raw
+17106 : veal, loin, separable lean and fat, cooked, roasted
+17109 : veal, loin, separable lean only, cooked, roasted
+17116 : veal, shoulder, whole (arm and blade), separable lean and fat, raw
+17134 : veal, sirloin, separable lean and fat, raw
+17136 : veal, sirloin, separable lean and fat, cooked, roasted
+17143 : veal, ground, cooked, broiled
+17147 : game meat, bear, cooked, simmered
+17151 : game meat, beaver, cooked, roasted
+17157 : game meat, bison, separable lean only, cooked, roasted
+17159 : game meat, boar, wild, cooked, roasted
+17163 : game meat, caribou, cooked, roasted
+17169 : game meat, goat, cooked, roasted
+17173 : game meat, moose, cooked, roasted
+17176 : game meat, opossum, cooked, roasted
+17179 : game meat, rabbit, domesticated, composite of cuts, cooked, stewed
+17181 : game meat, rabbit, wild, cooked, stewed
+17182 : game meat, raccoon, cooked, roasted
+17184 : game meat, squirrel, cooked, roasted
+17219 : veal, variety meats and by-products, thymus, cooked, braised
+17224 : lamb, ground, raw
+17225 : lamb, ground, cooked, broiled
+17343 : game meat, deer, ground, raw
+17344 : game meat, deer, ground, cooked, pan-broiled
+17345 : game meat, deer, loin, separable lean only, 1 steak, cooked, broiled
+17346 : game meat, deer, shoulder clod, separable lean only, cooked, braised
+18001 : bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame)
+18010 : biscuits, plain or buttermilk, dry mix
+18015 : biscuits, plain or buttermilk, refrigerated dough, higher fat, baked
+18022 : bread, cornbread, dry mix, enriched (includes corn muffin mix)
+18023 : bread, cornbread, dry mix, prepared with 2% milk, 80% margarine, and eggs
+18027 : bread, egg
+18029 : bread, french or vienna (includes sourdough)
+18033 : bread, italian
+18039 : bread, oatmeal
+18041 : bread, pita, white, enriched
+18042 : bread, pita, whole-wheat
+18043 : bread, protein (includes gluten)
+18044 : bread, pumpernickel
+18057 : bread, reduced-calorie, white
+18060 : bread, rye
+18064 : bread, wheat
+18069 : bread, white, commercially prepared (includes soft bread crumbs)
+18075 : bread, whole-wheat, commercially prepared
+18079 : bread, crumbs, dry, grated, plain
+18080 : bread, sticks, plain
+18081 : bread, stuffing, dry mix
+18082 : bread, stuffing, dry mix, prepared
+18085 : bread, stuffing, cornbread, dry mix, prepared
+18088 : cake, angelfood, dry mix, prepared
+18090 : cake, boston cream pie, commercially prepared
+18095 : cake, cherry fudge with chocolate frosting
+18096 : cake, chocolate, commercially prepared with chocolate frosting, in-store bakery
+18097 : cake, pudding-type, chocolate, dry mix
+18102 : cake, white, prepared from recipe with coconut frosting
+18110 : cake, fruitcake, commercially prepared
+18114 : cake, gingerbread, dry mix
+18120 : cake, pound, commercially prepared, butter (includes fresh and frozen)
+18127 : cake, snack cakes, creme-filled, chocolate with frosting
+18128 : cake, snack cakes, creme-filled, sponge
+18133 : cake, sponge, commercially prepared
+18135 : cake, pudding-type, white, enriched, dry mix
+18140 : cake, yellow, commercially prepared, with chocolate frosting, in-store bakery
+18141 : cake, yellow, commercially prepared, with vanilla frosting
+18142 : cake, pudding-type, yellow, dry mix
+18144 : cake, yellow, enriched, dry mix
+18147 : cake, cheesecake, commercially prepared
+18151 : cookies, brownies, commercially prepared
+18155 : cookies, butter, commercially prepared, enriched
+18157 : cookies, chocolate wafers
+18158 : cookies, chocolate chip, commercially prepared, regular, lower fat
+18159 : cookies, chocolate chip, commercially prepared, regular, higher fat, enriched
+18166 : cookies, chocolate sandwich, with creme filling, regular
+18168 : cookies, chocolate sandwich, with extra creme filling
+18170 : cookies, fig bars
+18171 : cookies, fortune
+18172 : cookies, gingersnaps
+18173 : cookies, graham crackers, plain or honey (includes cinnamon)
+18174 : cookies, graham crackers, chocolate-coated
+18175 : cookies, ladyfingers, with lemon juice and rind
+18176 : cookies, marshmallow, chocolate-coated (includes marshmallow pies)
+18177 : cookies, molasses
+18178 : cookies, oatmeal, commercially prepared, regular
+18185 : cookies, peanut butter, commercially prepared, regular
+18190 : cookies, peanut butter sandwich, regular
+18191 : cookies, raisin, soft-type
+18192 : cookies, shortbread, commercially prepared, plain
+18198 : cookies, chocolate chip, commercially prepared, special dietary
+18199 : cookies, chocolate sandwich, with creme filling, special dietary
+18200 : cookies, oatmeal, commercially prepared, special dietary
+18202 : cookies, sugar wafer, with creme filling, sugar free
+18204 : cookies, sugar, commercially prepared, regular (includes vanilla)
+18209 : cookies, sugar wafers with creme filling, regular
+18210 : cookies, vanilla sandwich with creme filling
+18211 : puff pastry, frozen, ready-to-bake, baked
+18212 : cookies, vanilla wafers, lower fat
+18213 : cookies, vanilla wafers, higher fat
+18214 : crackers, cheese, regular
+18216 : crackers, crispbread, rye
+18217 : crackers, matzo, plain
+18220 : crackers, melba toast, plain
+18223 : crackers, milk
+18228 : crackers, saltines (includes oyster, soda, soup)
+18229 : crackers, standard snack-type, regular
+18230 : crackers, standard snack-type, sandwich, with cheese filling
+18231 : crackers, standard snack-type, sandwich, with peanut butter filling
+18232 : crackers, wheat, regular
+18235 : crackers, whole-wheat
+18237 : cream puff shell, prepared from recipe
+18239 : croissants, butter
+18241 : croissants, cheese
+18243 : croutons, seasoned
+18244 : danish pastry, cinnamon, enriched
+18245 : danish pastry, cheese
+18246 : danish pastry, fruit, enriched (includes apple, cinnamon, raisin, lemon, raspberry, strawberry)
+18248 : doughnuts, cake-type, plain (includes unsugared, old-fashioned)
+18255 : doughnuts, yeast-leavened, glazed, enriched (includes honey buns)
+18258 : muffins, english, plain, enriched, with ca prop (includes sourdough)
+18264 : muffins, english, wheat
+18271 : ice cream cones, cake or wafer-type
+18272 : ice cream cones, sugar, rolled-type
+18274 : muffins, blueberry, commercially prepared (includes mini-muffins)
+18279 : muffins, corn, commercially prepared
+18283 : muffins, oat bran
+18288 : pancakes plain, frozen, ready-to-heat (includes buttermilk)
+18291 : pancakes, plain, dry mix, incomplete (includes buttermilk)
+18295 : pancakes, buckwheat, dry mix, incomplete
+18301 : pie, apple, commercially prepared, enriched flour
+18304 : pie, banana cream, prepared from recipe
+18305 : pie, blueberry, commercially prepared
+18308 : pie, cherry, commercially prepared
+18310 : pie, chocolate creme, commercially prepared
+18313 : pie, coconut creme, commercially prepared
+18317 : pie, egg custard, commercially prepared
+18319 : pie, fried pies, fruit
+18320 : pie, lemon meringue, commercially prepared
+18322 : pie, mince, prepared from recipe
+18323 : pie, peach
+18324 : pie, pecan, commercially prepared
+18326 : pie, pumpkin, commercially prepared
+18328 : pie, vanilla cream, prepared from recipe
+18335 : pie crust, standard-type, frozen, ready-to-bake, enriched, baked
+18338 : phyllo dough
+18342 : rolls, dinner, plain, commercially prepared (includes brown-and-serve)
+18347 : rolls, dinner, wheat
+18349 : rolls, french
+18350 : rolls, hamburger or hotdog, plain
+18351 : rolls, hamburger or hotdog, mixed-grain
+18353 : rolls, hard (includes kaiser)
+18354 : strudel, apple
+18356 : sweet rolls, cinnamon, commercially prepared with raisins
+18360 : taco shells, baked
+18363 : tortillas, ready-to-bake or -fry, corn
+18364 : tortillas, ready-to-bake or -fry, flour, refrigerated
+18369 : leavening agents, baking powder, double-acting, sodium aluminum sulfate
+18370 : leavening agents, baking powder, double-acting, straight phosphate
+18372 : leavening agents, baking soda
+18373 : leavening agents, cream of tartar
+18374 : leavening agents, yeast, baker's, compressed
+18375 : leavening agents, yeast, baker's, active dry
+18401 : pie crust, cookie-type, prepared from recipe, vanilla wafer, chilled
+18402 : pie crust, standard-type, prepared from recipe, unbaked
+18416 : bread, white, commercially prepared, low sodium, no salt
+18425 : crackers, saltines, low salt (includes oyster, soda, soup)
+18429 : crackers, whole-wheat, low salt
+18434 : crackers, cheese, low sodium
+18451 : cake, pound, commercially prepared, fat-free
+18457 : crackers, saltines, fat-free, low-sodium
+18459 : tart, breakfast, low fat
+18933 : waffle, buttermilk, frozen, ready-to-heat, toasted
+18938 : toaster pastries, fruit, frosted (include apples, blueberry, cherry, strawberry)
+18940 : muffin, blueberry, commercially prepared, low-fat
+18942 : pie crust, cookie-type, graham cracker, ready crust
+18943 : pie crust, cookie-type, chocolate, ready crust
+18949 : crackers, whole-wheat, reduced fat
+18950 : crackers, wheat, reduced fat
+18955 : bread, pan dulce, sweet yeast bread
+18963 : garlic bread, frozen
+18964 : cinnamon buns, frosted (includes honey buns)
+18965 : crackers, cheese, reduced fat
+18966 : crackers, saltines, whole wheat (includes multi-grain)
+18967 : bread, white wheat
+18968 : bagels, wheat
+18969 : cream puff, eclair, custard or cream filled, iced
+18971 : bread, potato
+18972 : bread, cheese
+18973 : focaccia, italian flatbread, plain
+19000 : schiff,tiger's milk bar
+19001 : candies, toblerone, milk chocolate with honey and almond nougat
+19002 : snacks, beef jerky, chopped and formed
+19003 : snacks, corn-based, extruded, chips, plain
+19007 : snacks, corn-based, extruded, onion-flavor
+19008 : snacks, corn-based, extruded, puffs or twists, cheese-flavor
+19009 : snacks, kraft, cornnuts, plain
+19013 : snacks, fruit leather, pieces
+19014 : snacks, fruit leather, rolls
+19015 : snacks, granola bars, hard, plain
+19018 : fruit syrup
+19025 : candies, honey-combed, with peanut butter
+19026 : snacks, granola bars, soft, coated, milk chocolate coating, peanut butter
+19030 : syrup, fruit flavored
+19033 : snacks, general mills, chex mix, traditional flavor
+19034 : snacks, popcorn, air-popped
+19036 : snacks, popcorn, cakes
+19038 : snacks, popcorn, caramel-coated, with peanuts
+19039 : snacks, popcorn, caramel-coated, without peanuts
+19040 : snacks, popcorn, cheese-flavor
+19041 : snacks, pork skins, plain
+19042 : snacks, potato chips, barbecue-flavor
+19045 : snacks, potato chips, made from dried potatoes, reduced fat
+19047 : snacks, pretzels, hard, plain, salted
+19049 : snacks, m&m mars, combos snacks cheddar cheese pretzel
+19056 : snacks, tortilla chips, plain, white corn, salted
+19057 : snacks, tortilla chips, nacho cheese
+19068 : candies, nestle, bit-o'-honey candy chews
+19069 : candies, nestle, butterfinger bar
+19070 : candies, butterscotch
+19071 : candies, carob, unsweetened
+19074 : candies, caramels
+19076 : candies, caramels, chocolate-flavor roll
+19078 : baking chocolate, unsweetened, squares
+19079 : candies, confectioner's coating, yogurt
+19080 : candies, semisweet chocolate
+19081 : candies, sweet chocolate
+19083 : candies, sweet chocolate coated fondant
+19085 : candies, confectioner's coating, butterscotch
+19086 : candies, confectioner's coating, peanut butter
+19087 : candies, white chocolate
+19088 : ice creams, vanilla, light
+19089 : ice creams, vanilla, rich
+19095 : ice creams, vanilla
+19097 : sherbet, orange
+19098 : candies, 5th avenue candy bar
+19099 : candies, fondant, prepared-from-recipe
+19100 : candies, fudge, chocolate, prepared-from-recipe
+19101 : candies, fudge, chocolate, with nuts, prepared-from-recipe
+19103 : candies, fudge, vanilla, prepared-from-recipe
+19104 : candies, fudge, vanilla with nuts
+19106 : candies, gumdrops, starch jelly pieces
+19107 : candies, hard
+19108 : candies, jellybeans
+19109 : candies, kit kat wafer bar
+19111 : candies, nestle, baby ruth bar
+19114 : ice creams, chocolate, light
+19115 : candies, mars snackfood us, mars almond bar
+19116 : candies, marshmallows
+19118 : candies, nestle, oh henry! bar
+19120 : candies, milk chocolate
+19124 : baking chocolate, mexican, squares
+19125 : chocolate-flavored hazelnut spread
+19126 : candies, milk chocolate coated peanuts
+19127 : candies, milk chocolate coated raisins
+19128 : syrups, table blends, pancake, reduced-calorie
+19132 : candies, milk chocolate, with almonds
+19134 : candies, milk chocolate, with rice cereal
+19135 : candies, mars snackfood us, milky way bar
+19136 : candies, hershey's skor toffee bar
+19137 : toppings, strawberry
+19140 : candies, mars snackfood us, m&m's peanut chocolate candies
+19141 : candies, mars snackfood us, m&m's milk chocolate candies
+19142 : candies, mounds candy bar
+19143 : candies, mr. goodbar chocolate bar
+19144 : candies, nestle, 100 grand bar
+19147 : candies, peanut bar
+19148 : candies, peanut brittle, prepared-from-recipe
+19150 : candies, reese's peanut butter cups
+19151 : candies, reese's pieces candy
+19152 : candies, rolo caramels in milk chocolate
+19154 : candies, sesame crunch
+19155 : candies, mars snackfood us, snickers bar
+19156 : candies, mars snackfood us, starburst fruit chews, original fruits
+19159 : candies, mars snackfood us, 3 musketeers bar
+19160 : candies, mars snackfood us, twix caramel cookie bars
+19161 : candies, mars snackfood us, twix peanut butter cookie bars
+19162 : candies, whatchamacallit candy bar
+19163 : chewing gum
+19165 : cocoa, dry powder, unsweetened
+19173 : gelatin desserts, dry mix, prepared with water
+19176 : gelatin desserts, dry mix, reduced calorie, with aspartame, prepared with water
+19177 : gelatins, dry powder, unsweetened
+19183 : puddings, chocolate, ready-to-eat
+19184 : puddings, chocolate, dry mix, instant
+19193 : puddings, rice, ready-to-eat
+19201 : puddings, vanilla, ready-to-eat
+19202 : puddings, vanilla, dry mix, instant
+19218 : puddings, tapioca, ready-to-eat
+19226 : frostings, chocolate, creamy, ready-to-eat
+19230 : frostings, vanilla, creamy, ready-to-eat
+19249 : candies, hershey, reesesticks crispy wafers, peanut butter, milk chocolate
+19260 : ice creams, vanilla, light, no sugar added
+19263 : frozen novelties, fruit and juice bars
+19265 : ice creams, chocolate, light, no sugar added
+19270 : ice creams, chocolate
+19279 : candies, milk chocolate coated coffee beans
+19280 : frozen novelties, ice type, lime
+19283 : frozen novelties, ice type, pop
+19293 : frozen yogurts, vanilla, soft-serve
+19294 : fruit butters, apple
+19296 : honey
+19297 : jams and preserves
+19300 : jellies
+19303 : marmalade, orange
+19304 : molasses
+19312 : pie fillings, apple, canned
+19334 : sugars, brown
+19335 : sugars, granulated
+19336 : sugars, powdered
+19337 : sweeteners, tabletop, aspartame, equal, packets
+19345 : syrups, chocolate, hershey's genuine chocolate flavored lite syrup
+19348 : syrups, chocolate, fudge-type
+19349 : syrups, corn, dark
+19350 : syrups, corn, light
+19353 : syrups, maple
+19360 : syrups, table blends, pancake, with 2% maple
+19364 : toppings, butterscotch or caramel
+19365 : toppings, marshmallow cream
+19367 : toppings, nuts in syrup
+19370 : candies, mars snackfood us, skittles original bite size candies
+19400 : snacks, banana chips
+19404 : snacks, granola bars, soft, uncoated, chocolate chip
+19410 : snack, potato chips, made from dried potatoes, plain
+19411 : snacks, potato chips, plain, salted
+19415 : snacks, potato sticks
+19434 : cheese puffs and twists, corn based, baked, low fat
+19435 : snacks, granola bar, fruit-filled, nonfat
+19438 : snacks, kellogg, kellogg's rice krispies treats squares
+19441 : snacks, kellogg, kellogg's, nutri-grain cereal bars, fruit
+19524 : snacks, taro chips
+19814 : snacks, pretzels, hard, plain, made with enriched flour, unsalted
+19823 : potato chips, without salt, reduced fat
+19833 : snacks, tortilla chips, low fat, unsalted
+19858 : candies, sugar-coated almonds
+19866 : candies, soft fruit and nut squares
+19868 : sweeteners, tabletop, sucralose, splenda packets
+19871 : frozen novelties, no sugar added, fudgsicle pops
+19896 : candies, reese's fast break, milk chocolate, peanut butter, soft nougats, candy bar
+19905 : candies, chocolate, dark, nfs (45-59% cacao solids 90%; 60-69% cacao solids 5%; 70-85% cacao solids 5%)
+19910 : candies, crispy bar with peanut butter filling
+19912 : sweetener, syrup, agave
+19913 : candies, nestle, butterfinger crisp
+19914 : candies, m&m mars 3 musketeers truffle crisp
+19916 : syrups, chocolate, hershey's sugar free, genuine chocolate flavored, lite syrup
+19917 : candies, m&m mars pretzel chocolate candies
+19918 : sweetener, herbal extract powder from stevia leaf
+19919 : candies, fruit snacks, with high vitamin c
+19920 : jams, preserves, marmalades, sweetened with fruit juice
+19921 : candies, tamarind
+19922 : candies, coconut bar, not chocolate covered
+19923 : candies, hersheys, payday bar
+19924 : syrup, nestle, chocolate
+20005 : barley, pearled, raw
+20006 : barley, pearled, cooked
+20010 : buckwheat groats, roasted, cooked
+20011 : buckwheat flour, whole-groat
+20012 : bulgur, dry
+20013 : bulgur, cooked
+20017 : corn flour, masa, enriched, white
+20019 : corn flour, masa, unenriched, white
+20022 : cornmeal, degermed, enriched, yellow
+20027 : cornstarch
+20029 : couscous, cooked
+20030 : hominy, canned, white
+20032 : millet, cooked
+20033 : oat bran, raw
+20036 : rice, brown, long-grain, raw (includes foods for usda's food distribution program)
+20037 : rice, brown, long-grain, cooked (includes foods for usda's food distribution program)
+20044 : rice, white, long-grain, regular, raw, enriched
+20045 : rice, white, long-grain, regular, enriched, cooked
+20055 : rice, white, glutinous, unenriched, cooked
+20061 : rice flour, white, unenriched
+20064 : rye flour, medium
+20068 : tapioca, pearl, dry
+20077 : wheat bran, crude
+20080 : wheat flour, whole-grain (includes foods for usda's food distribution program)
+20081 : wheat flour, white, all-purpose, enriched, bleached
+20083 : wheat flour, white, bread, enriched
+20088 : wild rice, raw
+20089 : wild rice, cooked
+20106 : macaroni, vegetable, enriched, cooked
+20109 : noodles, egg, dry, enriched
+20110 : noodles, egg, enriched, cooked
+20112 : noodles, egg, spinach, enriched, cooked
+20113 : noodles, chinese, chow mein
+20118 : noodles, flat, crunchy, chinese restaurant
+20120 : pasta, dry, enriched
+20121 : pasta, cooked, enriched, without added salt
+20125 : pasta, whole-wheat, cooked (includes foods for usda's food distribution program)
+20134 : rice noodles, cooked
+20137 : quinoa, cooked
+20481 : wheat flour, white, all-purpose, unenriched
+20657 : pasta, gluten-free, corn and rice flour, cooked
+21003 : fast foods, biscuit, with egg and bacon
+21004 : fast foods, biscuit, with egg and ham
+21005 : fast foods, biscuit, with egg and sausage
+21007 : fast foods, biscuit, with egg, cheese, and bacon
+21008 : fast foods, biscuit, with ham
+21009 : fast foods, biscuit, with sausage
+21012 : fast foods, croissant, with egg, cheese, and bacon
+21013 : fast foods, croissant, with egg, cheese, and ham
+21014 : fast foods, croissant, with egg, cheese, and sausage
+21018 : fast foods, egg, scrambled
+21020 : fast foods, english muffin, with cheese and sausage
+21021 : fast foods, english muffin, with egg, cheese, and canadian bacon
+21022 : fast foods, english muffin, with egg, cheese, and sausage
+21024 : fast foods, french toast sticks
+21026 : fast foods, potatoes, hash browns, round pieces or patty
+21061 : fast foods, burrito, with beans and cheese
+21064 : fast foods, burrito, with beans, cheese, and beef
+21078 : fast foods, nachos, with cheese
+21080 : fast foods, nachos, with cheese, beans, ground beef, and tomatoes
+21082 : fast foods, taco with beef, cheese and lettuce, hard shell
+21090 : fast foods, cheeseburger; single, regular patty, with condiments
+21108 : fast foods, hamburger; single, regular patty; with condiments
+21121 : fast foods, roast beef sandwich, plain
+21124 : fast foods, submarine sandwich, cold cut on white bread with lettuce and tomato
+21125 : fast foods, submarine sandwich, roast beef on white bread with lettuce and tomato
+21129 : fast foods, hush puppies
+21130 : fast foods, onion rings, breaded and fried
+21138 : fast foods, potato, french fried in vegetable oil
+21139 : fast foods, potato, mashed
+21142 : fast food, biscuit
+21151 : fast foods, submarine sandwich, sweet onion chicken teriyaki on white bread with lettuce, tomato and sweet onion sauce
+21153 : fast foods, submarine sandwich, turkey, roast beef and ham on white bread with lettuce and tomato
+21154 : fast foods, submarine sandwich, oven roasted chicken on white bread with lettuce and tomato
+21155 : fast foods, submarine sandwich, turkey breast on white bread with lettuce and tomato
+21156 : fast foods, submarine sandwich, ham on white bread with lettuce and tomato
+21158 : fast foods, submarine sandwich, meatball marinara on white bread
+21160 : fast foods, submarine sandwich, steak and cheese on white bread with cheese, lettuce and tomato
+21162 : fast foods, submarine sandwich, bacon, lettuce, and tomato on white bread
+21202 : fast foods, hamburger, large, single patty, with condiments
+21224 : pizza, cheese topping, regular crust, frozen, cooked
+21225 : pizza, cheese topping, rising crust, frozen, cooked
+21226 : pizza, meat and vegetable topping, regular crust, frozen, cooked
+21227 : pizza, meat and vegetable topping, rising crust, frozen, cooked
+21229 : fast foods, chicken, breaded and fried, boneless pieces, plain
+21299 : fast food, pizza chain, 14 pizza, cheese topping, regular crust
+21300 : fast food, pizza chain, 14 pizza, cheese topping, thick crust
+21301 : fast food, pizza chain, 14 pizza, cheese topping, thin crust
+21302 : fast food, pizza chain, 14 pizza, pepperoni topping, regular crust
+21303 : fast food, pizza chain, 14 pizza, pepperoni topping, thick crust
+21304 : fast food, pizza chain, 14 pizza, meat and vegetable topping, regular crust
+21305 : fast foods, griddle cake sandwich, egg, cheese, and sausage
+21306 : fast foods, griddle cake sandwich, sausage
+21307 : fast foods, griddle cake sandwich, egg, cheese, and bacon
+21390 : fast foods, hamburger; single, large patty; with condiments, vegetables and mayonnaise
+21395 : fast foods, cheeseburger; double, regular patty; with condiments
+21397 : fast foods, cheeseburger; single, large patty; with condiments, vegetables and mayonnaise
+21398 : fast foods, cheeseburger; single, large patty; with condiments
+21400 : fast foods, cheeseburger; double, regular patty; double decker bun with condiments and special sauce
+21401 : fast foods, chicken tenders
+21410 : fast foods, bagel, with egg, sausage patty, cheese, and condiments
+21411 : fast foods, bagel, with breakfast steak, egg, cheese, and condiments
+21412 : light ice cream, soft serve, blended with milk chocolate candies
+21413 : light ice cream, soft serve, blended with cookie pieces
+21461 : fast foods, grilled chicken, bacon and tomato club sandwich, with cheese, lettuce, and mayonnaise
+21463 : yogurt parfait, lowfat, with fruit and granola
+21464 : fast foods, fried chicken, breast, meat only, skin and breading removed
+21465 : fast foods, fried chicken, drumstick, meat only, skin and breading removed
+21466 : fast foods, fried chicken, thigh, meat only, skin and breading removed
+21469 : fast foods, fried chicken, breast, meat and skin and breading
+21470 : fast foods, fried chicken, drumstick, meat and skin with breading
+21471 : fast foods, fried chicken, thigh, meat and skin and breading
+21472 : fast foods, fried chicken, wing, meat and skin and breading
+21482 : fast food, pizza chain, 14 pizza, sausage topping, thick crust
+21483 : fast food, pizza chain, 14 pizza, sausage topping, thin crust
+21484 : fast food, pizza chain, 14 pizza, sausage topping, regular crust
+21485 : fast food, pizza chain, 14 pizza, pepperoni topping, thin crust
+21486 : fast foods, taco with beef, cheese and lettuce, soft
+21487 : fast foods, taco with chicken, lettuce and cheese, soft
+21488 : fast foods, quesadilla, with chicken
+21505 : pizza, cheese topping, thin crust, frozen, cooked
+21511 : fast food, pizza chain, 14 pizza, cheese topping, stuffed crust
+21519 : fast foods, breakfast burrito, with egg, cheese, and sausage
+21520 : fast foods, breadstick, soft, prepared with garlic and parmesan cheese
+21521 : fast foods, strawberry banana smoothie made with ice and low-fat yogurt
+21600 : school lunch, pizza, cheese topping, thin crust, whole grain, frozen, cooked
+21601 : school lunch, pizza, cheese topping, thick crust, whole grain, frozen, cooked
+21602 : school lunch, pizza, pepperoni topping, thin crust, whole grain, frozen, cooked
+21603 : school lunch, pizza, pepperoni topping, thick crust, whole grain, frozen, cooked
+21604 : school lunch, pizza, sausage topping, thin crust, whole grain, frozen, cooked
+21605 : school lunch, pizza, sausage topping, thick crust, whole grain, frozen, cooked
+21610 : school lunch, chicken patty, whole grain breaded
+21611 : school lunch, chicken nuggets, whole grain breaded
+22247 : macaroni and cheese, canned entree
+22535 : hot pockets, croissant pockets chicken, broccoli, and cheddar stuffed sandwich, frozen
+22537 : hot pockets ham 'n cheese stuffed sandwich, frozen
+22899 : ravioli, cheese-filled, canned
+22900 : ravioli, meat-filled, with tomato sauce or meat sauce, canned
+22901 : tortellini, pasta with cheese filling, fresh-refrigerated, as purchased
+22904 : chili con carne with beans, canned entree
+22905 : beef stew, canned entree
+22906 : chicken pot pie, frozen entree, prepared
+22908 : beef, corned beef hash, with potato, canned
+22910 : lasagna, cheese, frozen, prepared
+22911 : chili, no beans, canned entree
+22916 : lasagna with meat & sauce, frozen entree
+22953 : egg rolls, pork, refrigerated, heated
+22954 : egg rolls, chicken, refrigerated, heated
+22955 : egg rolls, vegetable, frozen, prepared
+22957 : turkey, stuffing, mashed potatoes w/gravy, assorted vegetables, frozen, microwaved
+22958 : rice bowl with chicken, frozen entree, prepared (includes fried, teriyaki, and sweet and sour varieties)
+22959 : macaroni and cheese dinner with dry sauce mix, boxed, uncooked
+22961 : hot pockets, meatballs & mozzarella stuffed sandwich, frozen
+22962 : lean pockets, ham n cheddar
+22971 : potato salad with egg
+22973 : corn dogs, frozen, prepared
+22974 : chicken, nuggets, dark and white meat, precooked, frozen, not reheated
+22976 : ravioli, cheese with tomato sauce, frozen, not prepared, includes regular and light entrees
+22978 : chicken tenders, breaded, frozen, prepared
+22998 : rice-a-roni, chicken flavor, unprepared
+23090 : beef, chuck for stew, separable lean and fat, all grades, cooked, braised
+23100 : beef, rib eye steak, boneless, lip-on, separable lean only, trimmed to 1/8 fat, all grades, cooked, grilled
+23197 : beef, rib eye steak, boneless, lip-on, separable lean and fat, trimmed to 1/8 fat, all grades, cooked, grilled
+23327 : beef, round, top round roast, boneless, separable lean and fat, trimmed to 0 fat, all grades, raw
+23339 : beef, loin, top loin steak, boneless, lip off, separable lean and fat, trimmed to 0 fat, all grades, raw
+23348 : beef, round, top round roast, boneless, separable lean and fat, trimmed to 0 fat, all grades, cooked, roasted
+23354 : beef, round, top round steak, boneless, separable lean only, trimmed to 0 fat, all grades, raw
+23357 : beef, round, top round roast, boneless, separable lean only, trimmed to 0 fat, all grades, raw
+23360 : beef, round, eye of round roast, boneless, separable lean only, trimmed to 0 fat, all grades, raw
+23369 : beef, loin, top loin steak, boneless, lip off, separable lean only, trimmed to 0 fat, all grades, raw
+23378 : beef, round, top round roast, boneless, separable lean only, trimmed to 0 fat, all grades, cooked, roasted
+23557 : beef, ground, 95% lean meat / 5% fat, raw
+23562 : beef, ground, 90% lean meat / 10% fat, raw
+23563 : beef, ground, 90% lean meat / 10% fat, patty, cooked, broiled
+23567 : beef, ground, 85% lean meat / 15% fat, raw (includes foods for usda's food distribution program)
+23568 : beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled
+23570 : beef, ground, 85% lean meat / 15% fat, crumbles, cooked, pan-browned
+23572 : beef, ground, 80% lean meat / 20% fat, raw
+23573 : beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled
+23575 : beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned
+23577 : beef, ground, 75% lean meat / 25% fat, raw
+23578 : beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled
+23580 : beef, ground, 75% lean meat / 25% fat, crumbles, cooked, pan-browned
+23581 : beef, ground, 75% lean meat / 25% fat, loaf, cooked, baked
+23588 : beef, top sirloin, steak, separable lean only, trimmed to 1/8 fat, select, cooked, broiled
+23590 : beef, round, bottom round , roast, separable lean only, trimmed to 1/8 fat, select, cooked, roasted
+23602 : beef, chuck, arm pot roast, separable lean only, trimmed to 1/8 fat, all grades, cooked, braised
+23606 : beef, short loin, top loin, steak, separable lean only, trimmed to 1/8 fat, all grades, cooked, broiled
+23610 : beef, top sirloin, steak, separable lean only, trimmed to 1/8 fat, all grades, cooked, broiled
+23612 : beef, chuck, arm pot roast, separable lean only, trimmed to 1/8 fat, choice, raw
+23614 : beef, chuck, arm pot roast, separable lean only, trimmed to 1/8 fat, choice, cooked, braised
+23616 : beef, round, eye of round, roast, separable lean only, trimmed to 1/8 fat, choice, raw
+23625 : beef, top sirloin, steak, separable lean only, trimmed to 1/8 fat, choice, raw
+23626 : beef, rib, small end (ribs 10-12), separable lean only, trimmed to 1/8fat, choice, cooked, broiled
+23629 : beef, top sirloin, steak, separable lean only, trimmed to 1/8 fat, choice, cooked, broiled
+23631 : beef, chuck, arm pot roast, separable lean only, trimmed to 1/8 fat, select, raw
+25001 : snacks, popcorn, microwave, low fat
+25003 : snacks, candy rolls, yogurt-covered, fruit flavored with high vitamin c
+25012 : snacks, sweet potato chips, unsalted
+25013 : snacks, fritolay, sunchips, multigrain snack, original flavor
+25015 : formulated bar, mars snackfood us, snickers marathon protein performance bar, caramel nut rush
+25017 : formulated bar, power bar, chocolate
+25020 : formulated bar, slim-fast optima meal bar, milk chocolate peanut
+25024 : pretzels, soft, unsalted
+25025 : snacks, soy chips or crisps, salted
+25026 : popcorn, microwave, regular (butter) flavor, made with palm oil
+25027 : snacks, plantain chips, salted
+25030 : snacks, vegetable chips, hain celestial group, terra chips
+25031 : formulated bar, zone perfect classic crunch bar, mixed flavors
+25032 : snacks, granola bar, kashi golean, chewy, mixed flavors
+25033 : snacks, granola bar, kashi tlc bar, chewy, mixed flavors
+25035 : snacks, granola bar, chewy, reduced sugar, all flavors
+25036 : snacks, granola bites, mixed flavors
+25037 : snacks, pita chips, salted
+25038 : snacks, granola bars, soft, almond, confectioners coating
+25039 : snacks, granola bars, quaker oatmeal to go, all flavors
+25040 : snacks, vegetable chips, made from garden vegetables
+25043 : snacks, candy bits, yogurt covered with vitamin c
+25045 : formulated bar, high fiber, chewy, oats and chocolate
+25046 : snacks, bagel chips, plain
+25048 : snacks, nutri-grain fruit and nut bar
+25051 : snacks, clif bar, mixed flavors
+25052 : snacks, granola bar, quaker, chewy, 90 calorie bar
+25053 : snacks, granola bar, general mills nature valley, sweet&salty nut, peanut
+25054 : snacks, granola bar, general mills, nature valley, with yogurt coating
+25055 : snacks, granola bar, general mills, nature valley, chewy trail mix
+25056 : snacks, granola bar, quaker, dipps, all flavors
+25059 : snacks, brown rice chips
+25060 : snack, pretzel, hard chocolate coated
+25063 : snacks, potato chips, made from dried potatoes (preformed), multigrain
+25064 : snacks, potato chips, lightly salted
+25065 : snacks, pretzels, gluten- free made with cornstarch and potato flour
+25066 : snacks, peas, roasted, wasabi-flavored
+25067 : formulated bar, south beach protein bar
+25068 : snack, balance, original bar
+25070 : snacks, shrimp cracker
+25071 : rice crackers
+27000 : soup, egg drop, chinese restaurant
+27001 : soup, hot and sour, chinese restaurant
+27002 : soup, wonton, chinese restaurant
+27035 : soup, ramen noodle, dry, any flavor, reduced fat, reduced sodium
+27043 : soup, clam chowder, new england, reduced sodium, canned, ready-to-serve
+27044 : soup, chicken noodle, reduced sodium, canned, ready-to-serve
+27046 : sauce, duck, ready-to-serve
+27047 : sauce, salsa, verde, ready-to-serve
+27048 : sauce, steak, tomato based
+27049 : sauce, tartar, ready-to-serve
+27050 : sauce, sweet and sour, ready-to-serve
+27051 : sauce, cocktail, ready-to-serve
+27052 : dip, salsa con queso, cheese and salsa- medium
+27059 : sauce, peanut, made from peanut butter, water, soy sauce
+27060 : soup, chunky vegetable, reduced sodium, canned, ready-to-serve
+27062 : soup, beef barley, ready to serve
+27063 : sauce, enchilada, red, mild, ready to serve
+27064 : wasabi
+27065 : dip, bean, original flavor
+27066 : sauce, horseradish
+28285 : bread, chapati or roti, whole wheat, commercially prepared, frozen
+28286 : bread, paratha, whole wheat, commercially prepared, frozen
+28287 : bread, naan, whole wheat, commercially prepared, refrigerated
+28288 : bread, roll, mexican, bollilo
+28289 : cookie, vanilla with caramel, coconut, and chocolate coating
+28290 : cookie, with peanut butter filling, chocolate-coated
+28291 : cookies, animal, with frosting or icing
+28292 : crackers, multigrain
+28293 : cookie, butter or sugar, with chocolate icing or filling
+28294 : cookie, chocolate, with icing or coating
+28295 : tortillas, ready-to-bake or -fry, whole wheat
+28296 : cake, snack cakes, creme-filled, chocolate with frosting, low-fat, with added fiber
+28297 : cake, snack cakes, not chocolate, with icing or filling, low-fat, with added fiber
+28298 : cookies, brownies, commercially prepared, reduced fat, with added fiber
+28299 : cookies, chocolate sandwich, with creme filling, reduced fat
+28300 : cookies, oatmeal sandwich, with creme filling
+28301 : cookies, peanut butter, commercially prepared, sugar free
+28302 : cookies, graham crackers, plain or honey, lowfat
+28303 : crackers, cheese, whole grain
+28304 : waffles, whole wheat, lowfat, frozen, ready-to-heat
+28309 : cookies, coconut macaroon
+28310 : cookies, shortbread, reduced fat
+28311 : cookies, sugar wafer, chocolate-covered
+28312 : rolls, hamburger or hot dog, wheat/cracked wheat
+28313 : rolls, hamburger or hot dog, whole wheat
+28314 : crackers, sandwich-type, peanut butter filled, reduced fat
+28315 : bread, cinnamon
+28316 : bread, wheat, sprouted
+28318 : bread, french or vienna, whole wheat
+28321 : rolls, hamburger, whole grain white, calcium-fortified
+28324 : pancakes, whole wheat, dry mix, incomplete
+28326 : crackers, whole grain, sandwich-type, with peanut butter filling
+28327 : crackers, water biscuits
+28328 : cookies, chocolate chip sandwich, with creme filling
+28329 : cookies, chocolate, made with rice cereal
+28330 : cookies, marshmallow, with rice cereal and chocolate chips
+28332 : cookies, gluten-free, chocolate sandwich, with creme filling
+28337 : bread, gluten-free, white, made with rice flour, corn starch, and/or tapioca
+28341 : rolls, gluten-free, white, made with rice flour, rice starch, and corn starch
+28345 : crackers, gluten-free, multi-seeded and multigrain
+28346 : waffles, gluten-free, frozen, ready-to-heat
+28347 : pancakes, gluten-free, frozen, ready-to-heat
+28348 : rolls, dinner, sweet
+28349 : cookies, oatmeal, reduced fat
+28350 : cookies, chocolate cream covered biscuit sticks
+28351 : cookies, marie biscuit
+28352 : cookies, vanilla sandwich with creme filling, reduced fat
+28397 : bread, multi-grain (includes whole-grain)
+28399 : cookies, animal crackers (includes arrowroot, tea biscuits)
+31023 : sweet potatoes, french fried, frozen as packaged, salt added in processing
+31033 : ginger root, pickled, canned, with artificial sweetener
+31034 : peppers, hot pickled, canned
+31036 : potatoes, mashed, ready-to-eat
+32002 : rice and vermicelli mix, rice pilaf flavor, unprepared
+32006 : taquitos, frozen, chicken and cheese, oven-heated
+32007 : taquitos, frozen, beef and cheese, oven-heated
+32008 : pasta mix, classic cheeseburger macaroni, unprepared
+32009 : pasta mix, classic beef, unprepared
+32010 : pasta mix, italian lasagna, unprepared
+32011 : yellow rice with seasoning, dry packet mix, unprepared
+32012 : pizza rolls, frozen, unprepared
+32013 : potsticker or wonton, pork and vegetable, frozen, unprepared
+32014 : macaroni or noodles with cheese, made from reduced fat packaged mix, unprepared
+32015 : turnover, cheese-filled, tomato-based sauce, frozen, unprepared
+32016 : macaroni or noodles with cheese, microwaveable, unprepared
+32024 : rice mix, cheese flavor, dry mix, unprepared
+32025 : dumpling, potato- or cheese-filled, frozen
+32026 : turnover, chicken- or turkey-, and vegetable-filled, reduced fat, frozen
+32027 : turnover, meat- and cheese-filled, tomato-based sauce, reduced fat, frozen
+32028 : turnover, filled with egg, meat and cheese, frozen
+32031 : salisbury steak with gravy, frozen
+32032 : sausage, egg and cheese breakfast biscuit
+33863 : infant formula, mead johnson, enfamil, premium lipil, infant, powder
+33866 : infant formula, mead johnson, enfamil, enfagrow, gentlease, toddler, lipil, powder
+33867 : infant formula, gerber, good start, protect plus, powder
+33868 : infant formula, gerber good start 2, gentle plus, powder
+33870 : infant formula, mead johnson, enfamil, enfagrow, soy, toddler, lipil, powder
+33871 : infant formula, abbott nutrition, similac, go and grow, powder, with ara and dha
+33873 : infant formula, mead johnson, enfamil, nutramigen, aa lipil, powder, not reconstituted
+33874 : infant formula, mead johnson, enfamil, premature, 20 calories ready-to-feed low iron
+33878 : babyfood, gerber, banana with orange medley
+36012 : restaurant, family style, fried mozzarella sticks
+36014 : restaurant, family style, french fries
+36016 : restaurant, family style, shrimp, breaded and fried
+36017 : restaurant, family style, macaroni & cheese, from kids' menu
+36033 : restaurant, family style, fish fillet, battered or breaded, fried
+36035 : restaurant, family style, coleslaw
+36037 : restaurant, family style, chili with meat and beans
+36041 : restaurant, italian, lasagna with meat
+36403 : restaurant, latino, empanadas, beef, prepared
+36409 : restaurant, latino, pupusas con queso (pupusas, cheese)
+36410 : restaurant, latino, pupusas del cerdo (pupusas, pork)
+36411 : restaurant, latino, tamale, corn
+36417 : restaurant, mexican, spanish rice
+36418 : restaurant, mexican, refried beans
+36602 : restaurant, chinese, fried rice, without meat
+36603 : restaurant, chinese, beef and vegetables
+36618 : restaurant, chinese, general tso's chicken
+36619 : restaurant, chinese, kung pao chicken
+36621 : restaurant, chinese, sweet and sour chicken
+36624 : restaurant, chinese, vegetable chow mein, without meat or noodles
+36625 : restaurant, chinese, vegetable lo mein, without meat
+36626 : restaurant, chinese, chicken and vegetables
+36629 : restaurant, chinese, orange chicken
+36633 : restaurant, chinese, sesame chicken
+42040 : syrups, grenadine
+42055 : beverages, fruit-flavored drink, dry powdered mix, low calorie, with aspartame
+42116 : creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie
+42117 : imitation cheese, american or cheddar, low cholesterol
+42119 : babyfood, banana juice with low fat yogurt
+42120 : babyfood, mixed fruit juice with low fat yogurt
+42128 : turkey ham, sliced, extra lean, prepackaged or deli-sliced
+42135 : whipped topping, frozen, low fat
+42136 : cream substitute, powdered, light
+42139 : granola bar, soft, milk chocolate coated, peanut butter
+42140 : salad dressing, italian dressing, reduced calorie
+42141 : cream substitute, liquid, light
+42148 : candies, mars snackfood us, m&m's peanut butter chocolate candies
+42150 : babyfood, apple yogurt dessert, strained
+42155 : cheese, monterey, low fat
+42157 : creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie, fat-free
+42161 : bologna, beef, low fat
+42173 : sausage, turkey and pork, fresh, bulk, patty or link, cooked
+42183 : candies, mars snackfood us, twix chocolate fudge cookie bars
+42186 : frozen yogurts, chocolate
+42187 : frozen yogurts, flavors other than chocolate
+42189 : milk, buttermilk, fluid, cultured, reduced fat
+42192 : salad dressing, blue or roquefort cheese dressing, fat-free
+42193 : salad dressing, mayonnaise-like, fat-free
+42196 : candies, mars snackfood us, milky way midnight bar
+42200 : papad
+42204 : rice cake, cracker (include hain mini rice cakes)
+42227 : candies, mars snackfood us, m&m's almond chocolate candies
+42230 : salad dressing, coleslaw, reduced fat
+42231 : oil, flaxseed, cold pressed
+42236 : cereals ready-to-eat, frosted oat cereal with marshmallows
+42240 : cereals ready-to-eat, post, honey bunches of oats, with almonds
+42259 : snacks, popcorn, home-prepared, oil-popped, unsalted
+42265 : cereals ready-to-eat, post, great grains, raisin, date & pecan
+42266 : babyfood, juice, apple-sweet potato
+42267 : babyfood, juice, orange-carrot
+42272 : snacks, granola bar, with coconut, chocolate coated
+42278 : babyfood, vegetable and brown rice, strained
+42279 : babyfood, peas and brown rice
+42280 : frankfurter, meat and poultry, low fat
+42283 : snacks, potato chips, white, restructured, baked
+42284 : babyfood, baked product, finger snacks cereal fortified
+42285 : babyfood, cereal, brown rice, dry, instant
+42290 : milk, fluid, nonfat, calcium fortified (fat free or skim)
+42297 : cereals ready-to-eat, post great grains banana nut crunch
+42303 : cheese, muenster, low fat
+42304 : cheese, mozzarella, nonfat
+42316 : babyfood, carrots, toddler
+43004 : babyfood, dessert, banana pudding, strained
+43006 : babyfood, fruit, tutti frutti, strained
+43007 : babyfood, fruit, tutti frutti, junior
+43008 : babyfood, dinner, chicken and rice
+43015 : salad dressing, caesar dressing, regular
+43016 : salad dressing, coleslaw
+43017 : salad dressing, green goddess, regular
+43020 : salad dressing, blue or roquefort cheese, low calorie
+43021 : salad dressing, caesar, low calorie
+43026 : syrups, sugar free
+43027 : jellies, no sugar (with sodium saccharin), any flavors
+43031 : candies, chocolate covered, caramel with nuts
+43046 : candies, nougat, with almonds
+43057 : candies, gum drops, no sugar or low calorie (sorbitol)
+43058 : candies, hard, dietetic or low calorie (sorbitol)
+43059 : candies, chocolate covered, low sugar or low calorie
+43060 : chewing gum, sugarless
+43075 : fluid replacement, electrolyte solution (include pedialyte)
+43100 : breakfast bars, oats, sugar, raisins, coconut (include granola bar)
+43114 : vermicelli, made from soy
+43125 : beans, liquid from stewed kidney beans
+43128 : chicken, meatless
+43130 : frankfurter, meatless
+43131 : luncheon slices, meatless
+43132 : meatballs, meatless
+43134 : vegetarian fillets
+43135 : sandwich spread, meatless
+43137 : vegetarian meatloaf or patties
+43155 : alcoholic beverage, wine, light
+43158 : sweeteners, tabletop, saccharin (sodium saccharin)
+43205 : beverage, instant breakfast powder, chocolate, not reconstituted
+43212 : bacon bits, meatless
+43214 : butter replacement, without fat, powder
+43260 : beverage, instant breakfast powder, chocolate, sugar-free, not reconstituted
+43274 : cheese, cream, low fat
+43276 : cheese spread, cream cheese base
+43282 : quail, cooked, total edible
+43283 : pheasant, cooked, total edible
+43287 : dove, cooked (includes squab)
+43299 : soybean, curd cheese
+43311 : potatoes, canned, drained solids, no salt added
+43331 : salad dressing, bacon and tomato
+43344 : jams, preserves, marmalade, reduced sugar
+43345 : beverages, fruit-flavored drink, powder, with high vitamin c with other added vitamins, low calorie
+43346 : frozen novelties, juice type, orange
+43352 : cheese, cottage, lowfat, 1% milkfat, no sodium added
+43365 : tomato and vegetable juice, low sodium
+43366 : turkey, wing, smoked, cooked, with skin, bone removed
+43367 : turkey, drumstick, smoked, cooked, with skin, bone removed
+43369 : beverages, chocolate-flavored drink, whey and milk based
+43373 : babyfood, dinner, chicken and noodle with vegetables, toddler
+43378 : pork, cured, bacon, cooked, broiled, pan-fried or roasted, reduced sodium
+43382 : cranberry juice, unsweetened
+43387 : turnip greens, canned, no salt added
+43390 : turkey, light or dark meat, smoked, cooked, with skin, bone removed
+43391 : turkey, light or dark meat, smoked, cooked, skin and bone removed
+43392 : hearts of palm, raw
+43398 : cheese, pasteurized process, cheddar or american, low sodium
+43401 : beverages, coffee, instant, with whitener, reduced calorie
+43404 : beverages, cranberry-apple juice drink, low calorie, with vitamin c added
+43405 : cheese, swiss, low sodium
+43406 : yeast extract spread
+43408 : babyfood, juice, pear
+43410 : chicken, meatless, breaded, fried
+43417 : babyfood, meat, beef with vegetables, toddler
+43432 : babyfood, dinner, macaroni, beef and tomato sauce, toddler
+43441 : rolls, pumpernickel
+43449 : beans, baked, canned, no salt added
+43476 : tofu yogurt
+43479 : alcoholic beverage, rice (sake)
+43506 : frozen novelties, ice cream type, chocolate or caramel covered, with nuts
+43507 : frankfurter, low sodium
+43514 : frozen novelties, ice type, pop, with low calorie sweetener
+43523 : babyfood, mixed fruit yogurt, strained
+43528 : beverages, abbott, ensure plus, ready-to-drink
+43529 : babyfood, rice and apples, dry
+43535 : babyfood, juice, apple - cherry
+43536 : babyfood, dessert, peach yogurt
+43537 : babyfood, dessert, blueberry yogurt, strained
+43539 : babyfood, dessert, banana yogurt, strained
+43541 : ice creams, chocolate, rich
+43544 : babyfood, cereal, rice with pears and apple, dry, instant fortified
+43546 : babyfood, banana no tapioca, strained
+43550 : babyfood, banana apple dessert, strained
+43570 : cereals ready-to-eat, post, honey bunches of oats, honey roasted
+43585 : babyfood, fruit supreme dessert
+43589 : cheese, swiss, low fat
+43595 : breakfast bar, corn flake crust with fruit
+43597 : cheese, mozzarella, low sodium
+44061 : puddings, chocolate flavor, low calorie, instant, dry mix
+44074 : babyfood, grape juice, no sugar, canned
+44158 : pie fillings, blueberry, canned
+44203 : beverages, cocktail mix, non-alcoholic, concentrated, frozen
+44260 : puddings, all flavors except chocolate, low calorie, instant, dry mix
+80200 : frog legs, raw
+90240 : mollusks, scallop, (bay and sea), cooked, steamed
+90560 : mollusks, snail, raw
+93600 : turtle, green, raw
+100173 : sausage, pork, chorizo, link or ground, cooked, pan-fried
+907028 : reduced sodium: ham, sliced, pre-packaged, deli meat (96%fat free, water added)
+907043 : reduced sodium: roast beef, deli style, prepackaged, sliced
+907057 : reduced sodium: pepperoni, beef and pork, sliced
+907072 : reduced sodium: salami, dry or hard, pork, beef
+907081 : reduced sodium: turkey breast, sliced, prepackaged
+907961 : reduced sodium: chicken breast, deli, rotisserie seasoned, sliced, prepackaged
+907971 : reduced sodium: bologna, meat and poultry
+912695 : reduced sodium: nuts, almond butter, plain, with salt added
+999328 : vitamin d as ingredient

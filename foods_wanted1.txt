@@ -1,0 +1,89 @@
+2044 : Basil, fresh
+2047 : Salt, table, iodized
+2054 : Capers, canned
+2055 : Horseradish, prepared
+4053 : Oil, olive, salad or cooking
+5140 : Duck, domesticated, meat and skin, cooked, roasted
+5142 : Duck, domesticated, meat only, cooked, roasted
+5147 : Goose, domesticated, meat and skin, cooked, roasted
+5165 : Turkey, whole, meat and skin, raw
+5166 : Turkey, whole, meat and skin, cooked, roasted
+5167 : Turkey, whole, meat only, raw
+5168 : Turkey, whole, meat only, cooked, roasted
+5180 : Turkey, whole, neck, meat only, cooked, simmered
+5182 : Turkey, whole, light meat, meat and skin, cooked, roasted
+5184 : Turkey, whole, dark meat, meat and skin, cooked, roasted
+5186 : Turkey, all classes, light meat, cooked, roasted
+5188 : Turkey, whole, dark meat, cooked, roasted
+5194 : Turkey, all classes, leg, meat and skin, cooked, roasted
+5196 : Turkey, all classes, wing, meat and skin, cooked, roasted
+5220 : Turkey, whole, breast, meat only, cooked, roasted
+5228 : Turkey, whole, wing, meat only, cooked, roasted
+5306 : Turkey, Ground, cooked
+5642 : Ostrich, ground, cooked, pan-broiled
+5695 : Turkey, dark meat, meat only, with added solution, cooked, roasted
+5697 : Turkey from whole, light meat, meat only, with added solution, cooked, roasted
+5699 : Turkey, skin from whole, (light and dark), with added solution, roasted
+5701 : Turkey, dark meat from whole, meat and skin, with added solution, cooked, roasted
+5703 : Turkey from whole, light meat, meat and skin, with added solution, cooked, roasted
+5705 : Turkey, whole, meat only, with added solution, roasted
+5707 : Turkey, whole, meat and skin, with added solution, roasted
+5725 : Turkey, drumstick, from whole bird, meat only, with added solution, roasted
+5727 : Turkey, retail parts, breast, meat and skin, with added solution, raw
+5728 : Turkey, thigh, from whole bird, meat only, with added solution, roasted
+5730 : Turkey, wing, from whole bird, meat only, with added solution, roasted
+5739 : Turkey, drumstick, from whole bird, meat only, roasted
+5741 : Turkey, thigh, from whole bird, meat only, roasted
+5743 : Turkey, retail parts, thigh, meat and skin, cooked, roasted
+5745 : Turkey, back, from whole bird, meat and skin, with added solution, roasted
+9037 : Avocados, raw, all commercial varieties
+9042 : Blackberries, raw
+9048 : Blackberries, frozen, unsweetened
+9050 : Blueberries, raw
+9054 : Blueberries, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)
+9060 : Carambola, (starfruit), raw
+9087 : Dates, deglet noor
+9089 : Figs, raw
+9094 : Figs, dried, uncooked
+9148 : Kiwifruit, green, raw
+9150 : Lemons, raw, without peel
+9159 : Limes, raw
+11001 : Alfalfa seeds, sprouted, raw
+11008 : Artichokes, (globe or french), cooked, boiled, drained, without salt
+11011 : Asparagus, raw
+11019 : Asparagus, frozen, cooked, boiled, drained, without salt
+11052 : Beans, snap, green, raw
+11080 : Beets, raw
+11090 : Broccoli, raw
+11096 : Broccoli raab, raw
+11098 : Brussels sprouts, raw
+11109 : Cabbage, raw
+11124 : Carrots, raw
+11134 : Cassava, raw
+11135 : Cauliflower, raw
+11141 : Celeriac, raw
+11143 : Celery, raw
+11147 : Chard, swiss, raw
+11149 : Chayote, fruit, raw
+11156 : Chives, raw
+11161 : Collards, raw
+11165 : Coriander (cilantro) leaves, raw
+11196 : Cowpeas (blackeyes), immature seeds, frozen, cooked, boiled, drained, without salt
+11209 : Eggplant, raw
+11215 : Garlic, raw
+11216 : Ginger root, raw
+11233 : Kale, raw
+11241 : Kohlrabi, raw
+11246 : Leeks, (bulb and lower leaf-portion), raw
+11250 : Lettuce, butterhead (includes boston and bibb types), raw
+11251 : Lettuce, cos or romaine, raw
+11252 : Lettuce, iceberg (includes crisphead types), raw
+11253 : Lettuce, green leaf, raw
+11255 : Lotus root, cooked, boiled, drained, without salt
+11257 : Lettuce, red leaf, raw
+11260 : Mushrooms, white, raw
+11282 : Onions, raw
+11297 : Parsley, fresh
+11300 : Peas, edible-podded, raw
+11304 : Peas, green, raw
+11333 : Peppers, sweet, green, raw

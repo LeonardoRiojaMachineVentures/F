@@ -1,0 +1,175 @@
+code, ingredient_group, real_product
+11090,broccoli,broccoli%raw
+11093,broccoli,broccoli%frozen%chopped%cooked%boiled%drained%without salt
+11994,broccoli,broccoli%chinese%raw
+22535,broccoli,hot pockets%croissant pockets chicken%broccoli%and cheddar stuffed sandwich%frozen
+11156,chives,chives%raw
+11477,zucchini,squash%summer%zucchini%includes skin%raw
+11480,zucchini,squash%summer%zucchini%includes skin%frozen%cooked%boiled%drained%without salt
+3098,beets,babyfood%vegetables%beets%strained
+11080,beets,beets%raw
+11084,beets,beets%canned%drained solids
+11609,beets,beets%pickled%canned%solids and liquids
+11735,beets,beets%canned%no salt added%solids and liquids
+15077,salmon,fish%salmon%chinook%smoked
+15080,salmon,fish%salmon%chum%canned%drained solids with bone
+15083,salmon,fish%salmon%pink%raw
+15084,salmon,fish%salmon%pink%canned%total can contents
+15085,salmon,fish%salmon%sockeye%raw
+15087,salmon,fish%salmon%sockeye%canned%drained solids
+11215,garlic,garlic%raw
+3002,beef,babyfood%meat%beef%strained
+3003,beef,babyfood%meat%beef%junior
+6116,beef,gravy%beef%canned%ready-to-serve
+6170,beef,soup%stock%beef%home-prepared
+7007,beef,bologna%beef
+7022,beef,frankfurter%beef%unheated
+7038,beef,knackwurst%knockwurst%pork%beef
+7050,beef,mortadella%beef%pork
+7072,beef,salami%dry or hard%pork%beef
+7073,beef,sandwich spread%pork%beef
+7078,beef,thuringer%cervelat%summer sausage%beef%pork
+7083,beef,sausage%vienna%canned%chicken%beef%pork
+7905,beef,frankfurter%beef%pork%and turkey%fat free
+7954,beef,sausage%breakfast sausage%beef%pre-cooked%unprepared
+13020,beef,beef%retail cuts%separable fat%cooked
+13068,beef,beef%flank%steak%separable lean only%trimmed to 0 fat%choice%raw
+13069,beef,beef%flank%steak%separable lean only%trimmed to 0 fat%choice%cooked%braised
+13148,beef,beef%rib%shortribs%separable lean and fat%choice%cooked%braised
+13150,beef,beef%rib%shortribs%separable lean only%choice%cooked%braised
+13317,beef,beef%ground%patties%frozen%cooked%broiled
+13320,beef,beef%variety meats and by-products%brain%cooked%simmered
+13322,beef,beef%variety meats and by-products%heart%cooked%simmered
+13324,beef,beef%variety meats and by-products%kidneys%cooked%simmered
+13326,beef,beef%variety meats and by-products%liver%cooked%braised
+13327,beef,beef%variety meats and by-products%liver%cooked%pan-fried
+13340,beef,beef%variety meats and by-products%tongue%cooked%simmered
+13341,beef,beef%variety meats and by-products%tripe%raw
+13345,beef,beef%cured%breakfast strips%cooked
+13347,beef,beef%cured%corned beef%brisket%cooked
+13348,beef,beef%cured%corned beef%canned
+13350,beef,beef%cured%dried
+13355,beef,beef%cured%pastrami
+13364,beef,beef%composite of trimmed retail cuts%separable lean only%trimmed to 0 fat%all grades%cooked
+13367,beef,beef%brisket%whole%separable lean and fat%trimmed to 0 fat%all grades%cooked%braised
+13368,beef,beef%brisket%whole%separable lean only%trimmed to 0 fat%all grades%cooked%braised
+13382,beef,beef%chuck%blade roast%separable lean only%trimmed to 0 fat%all grades%cooked%braised
+13424,beef,beef%round%tip round%roast%separable lean only%trimmed to 0 fat%all grades%cooked%roasted
+13451,beef,beef%top sirloin%steak%separable lean and fat%trimmed to 0 fat%all grades%cooked%broiled
+13454,beef,beef%top sirloin%steak%separable lean only%trimmed to 0 fat%all grades%cooked%broiled
+13491,beef,beef%round%top round steak%boneless%separable lean only%trimmed to 0 fat%all grades%cooked%grilled
+13796,beef,beef%composite of trimmed retail cuts%separable lean and fat%trimmed to 1/8 fat%all grades%cooked
+13810,beef,beef%chuck%arm pot roast%separable lean and fat%trimmed to 1/8 fat%all grades%cooked%braised
+13812,beef,beef%chuck%arm pot roast%separable lean and fat%trimmed to 1/8 fat%choice%cooked%braised
+13814,beef,beef%chuck%arm pot roast%separable lean and fat%trimmed to 1/8 fat%select%cooked%braised
+13816,beef,beef%chuck%blade roast%separable lean and fat%trimmed to 1/8 fat%all grades%cooked%braised
+13829,beef,beef%rib%whole (ribs 6-12)%separable lean and fat%trimmed to 1/8 fat%choice%cooked%roasted
+13840,beef,beef%rib%large end (ribs 6-9)%separable lean and fat%trimmed to 1/8 fat%all grades%cooked%roasted
+13864,beef,beef%round%full cut%separable lean and fat%trimmed to 1/8 fat%choice%raw
+13865,beef,beef%round%full cut%separable lean and fat%trimmed to 1/8 fat%choice%cooked%broiled
+13884,beef,beef%round%tip round%roast%separable lean and fat%trimmed to 1/8 fat%all grades%cooked%roasted
+13886,beef,beef%round%tip round%roast%separable lean and fat%trimmed to 1/8 fat%choice%cooked%roasted
+13888,beef,beef%round%tip round%roast%separable lean and fat%trimmed to 1/8 fat%select%cooked%roasted
+13892,beef,beef%round%top round%separable lean and fat%trimmed to 1/8 fat%all grades%cooked%braised
+13893,beef,beef%round%top round steak%separable lean and fat%trimmed to 1/8 fat%all grades%cooked%broiled
+13912,beef,beef%short loin%top loin%steak%separable lean and fat%trimmed to 1/8 fat%choice%cooked%grilled
+13928,beef,beef%tenderloin%roast%separable lean and fat%trimmed to 1/8 fat%prime%cooked%roasted
+13933,beef,beef%top sirloin%steak%separable lean and fat%trimmed to 1/8 fat%choice%cooked%pan-fried
+13959,beef,beef%round%top round steak%boneless%separable lean and fat%trimmed to 0 fat%all grades%cooked%grilled
+22908,beef,beef%corned beef hash%with potato%canned
+23090,beef,beef%chuck for stew%separable lean and fat%all grades%cooked%braised
+23100,beef,beef%rib eye steak%boneless%lip-on%separable lean only%trimmed to 1/8 fat%all grades%cooked%grilled
+23197,beef,beef%rib eye steak%boneless%lip-on%separable lean and fat%trimmed to 1/8 fat%all grades%cooked%grilled
+23327,beef,beef%round%top round roast%boneless%separable lean and fat%trimmed to 0 fat%all grades%raw
+23339,beef,beef%loin%top loin steak%boneless%lip off%separable lean and fat%trimmed to 0 fat%all grades%raw
+23348,beef,beef%round%top round roast%boneless%separable lean and fat%trimmed to 0 fat%all grades%cooked%roasted
+23354,beef,beef%round%top round steak%boneless%separable lean only%trimmed to 0 fat%all grades%raw
+23357,beef,beef%round%top round roast%boneless%separable lean only%trimmed to 0 fat%all grades%raw
+23360,beef,beef%round%eye of round roast%boneless%separable lean only%trimmed to 0 fat%all grades%raw
+23369,beef,beef%loin%top loin steak%boneless%lip off%separable lean only%trimmed to 0 fat%all grades%raw
+23378,beef,beef%round%top round roast%boneless%separable lean only%trimmed to 0 fat%all grades%cooked%roasted
+23557,beef,beef%ground%95% lean meat / 5% fat%raw
+23562,beef,beef%ground%90% lean meat / 10% fat%raw
+23563,beef,beef%ground%90% lean meat / 10% fat%patty%cooked%broiled
+23567,beef,beef%ground%85% lean meat / 15% fat%raw (includes foods for usda's food distribution program)
+23568,beef,beef%ground%85% lean meat / 15% fat%patty%cooked%broiled
+23570,beef,beef%ground%85% lean meat / 15% fat%crumbles%cooked%pan-browned
+23572,beef,beef%ground%80% lean meat / 20% fat%raw
+23573,beef,beef%ground%80% lean meat / 20% fat%patty%cooked%broiled
+23575,beef,beef%ground%80% lean meat / 20% fat%crumbles%cooked%pan-browned
+23577,beef,beef%ground%75% lean meat / 25% fat%raw
+23578,beef,beef%ground%75% lean meat / 25% fat%patty%cooked%broiled
+23580,beef,beef%ground%75% lean meat / 25% fat%crumbles%cooked%pan-browned
+23581,beef,beef%ground%75% lean meat / 25% fat%loaf%cooked%baked
+23588,beef,beef%top sirloin%steak%separable lean only%trimmed to 1/8 fat%select%cooked%broiled
+23590,beef,beef%round%bottom round%roast%separable lean only%trimmed to 1/8 fat%select%cooked%roasted
+23602,beef,beef%chuck%arm pot roast%separable lean only%trimmed to 1/8 fat%all grades%cooked%braised
+23606,beef,beef%short loin%top loin%steak%separable lean only%trimmed to 1/8 fat%all grades%cooked%broiled
+23610,beef,beef%top sirloin%steak%separable lean only%trimmed to 1/8 fat%all grades%cooked%broiled
+23612,beef,beef%chuck%arm pot roast%separable lean only%trimmed to 1/8 fat%choice%raw
+23614,beef,beef%chuck%arm pot roast%separable lean only%trimmed to 1/8 fat%choice%cooked%braised
+23616,beef,beef%round%eye of round%roast%separable lean only%trimmed to 1/8 fat%choice%raw
+23625,beef,beef%top sirloin%steak%separable lean only%trimmed to 1/8 fat%choice%raw
+23626,beef,beef%rib%small end (ribs 10-12)%separable lean only%trimmed to 1/8fat%choice%cooked%broiled
+23629,beef,beef%top sirloin%steak%separable lean only%trimmed to 1/8 fat%choice%cooked%broiled
+23631,beef,beef%chuck%arm pot roast%separable lean only%trimmed to 1/8 fat%select%raw
+36403,beef,restaurant%latino%empanadas%beef%prepared
+42161,beef,bologna%beef%low fat
+907072,beef,reduced sodium: salami%dry or hard%pork%beef
+4053,olive,oil%olive%salad or cooking
+11233,kale,kale%raw
+11236,kale,kale%frozen%cooked%boiled%drained%without salt
+15149,shrimp,crustaceans%shrimp%mixed species%raw (may contain additives to retain moisture)
+15151,shrimp,crustaceans%shrimp%mixed species%cooked%moist heat (may contain additives to retain moisture)
+15152,shrimp,crustaceans%shrimp%mixed species%canned
+36016,shrimp,restaurant%family style%shrimp%breaded and fried
+2021,ginger,spices%ginger%ground
+18971,potato,bread%potato
+21138,potato,fast foods%potato%french fried in vegetable oil
+21139,potato,fast foods%potato%mashed
+3121,peas,babyfood%vegetables%peas%strained
+3122,peas,babyfood%peas%dices%toddler
+11300,peas,peas%edible-podded%raw
+11303,peas,peas%edible-podded%frozen%cooked%boiled%drained%without salt
+11304,peas,peas%green%raw
+11308,peas,peas%green (includes baby and lesuer types)%canned%drained solids%unprepared
+11313,peas,peas%green%frozen%cooked%boiled%drained%without salt
+11812,peas,peas%green%canned%no salt added%solids and liquids
+16086,peas,peas%split%mature seeds%cooked%boiled%without salt
+25066,peas,snacks%peas%roasted%wasabi-flavored
+20137,quinoa,quinoa%cooked
+2054,capers,capers%canned
+6159,tomato,soup%tomato%canned%condensed
+6498,tomato,soup%tomato%dry%mix%prepared with water
+6559,tomato,soup%tomato%canned%prepared with equal volume water%commercial
+6956,tomato,soup%tomato%canned%condensed%reduced sodium
+11250,lettuce,lettuce%butterhead (includes boston and bibb types)%raw
+11251,lettuce,lettuce%cos or romaine%raw
+11252,lettuce,lettuce%iceberg (includes crisphead types)%raw
+11253,lettuce,lettuce%green leaf%raw
+11257,lettuce,lettuce%red leaf%raw
+21162,lettuce,fast foods%submarine sandwich%bacon%lettuce%and tomato on white bread
+21461,lettuce,fast foods%grilled chicken%bacon and tomato club sandwich%with cheese%lettuce%and mayonnaise
+16069,lentils,lentils%raw
+16070,lentils,lentils%mature seeds%cooked%boiled%without salt
+2003,basil,spices%basil%dried
+2044,basil,basil%fresh
+3194,rice,babyfood%cereal%rice%dry fortified
+3195,rice,babyfood%cereal%rice%with applesauce and bananas%strained
+3212,rice,babyfood%cereal%rice%with bananas%dry
+3296,rice,babyfood%dinner%turkey%rice%and vegetables%toddler
+19193,rice,puddings%rice%ready-to-eat
+20036,rice,rice%brown%long-grain%raw (includes foods for usda's food distribution program)
+20037,rice,rice%brown%long-grain%cooked (includes foods for usda's food distribution program)
+20044,rice,rice%white%long-grain%regular%raw%enriched
+20045,rice,rice%white%long-grain%regular%enriched%cooked
+20055,rice,rice%white%glutinous%unenriched%cooked
+14199,lemon,beverages%tea%black%ready-to-drink%lemon%sweetened
+14207,lemon,beverages%tea%ready-to-drink%lemon%diet
+14211,lemon,beverages%tea%black%ready-to-drink%lemon%diet
+14356,lemon,beverages%tea%instant%decaffeinated%lemon%diet
+14368,lemon,beverages%tea%instant%lemon%unsweetened
+14370,lemon,beverages%tea%instant%lemon%sweetened%powder
+14376,lemon,beverages%tea%instant%lemon%diet
+18246,lemon,danish pastry%fruit%enriched (includes apple%cinnamon%raisin%lemon%raspberry%strawberry)
+15240,trout,fish%trout%rainbow%farmed%raw
